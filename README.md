@@ -230,6 +230,7 @@ vip2 | 直连+中转| 200G/月 |18块/月 | 3
 vip3 | 直连+中转+IELP |480G/月 |25块/月 | 5
 
 
+[全平台Trojan协议客户端推荐](https://honven.vercel.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
 ### 六、翼游
 
