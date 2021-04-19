@@ -347,7 +347,7 @@ BGP中继机场+专线，ssr协议。永久优惠码： M8KUGnxo (8%每个用户
 * 大众版：每月228GB流量：月付28.8块，限速300Mbps，+更多专线，节点数目40条入门+20条专线/中继
 * 狂热版：每月248G流量：月付48.8块，500Mbps，大众版基础上再+7条游戏线路
 
-官网： [https://dlj.tf/AMZPa5p](https://dlj.tf/AMZPa5p)
+官网： [](https://dlj.tf/AMZPa5p)
 
 
 
@@ -375,7 +375,7 @@ BGP中继机场+专线，ssr协议。Azure、德国cn2/香港hkbn
 标准版：每月96G流量：月付18块，季付45.6块，年付172块。限速100Mbps，有专线  
 高级版：每月210G流量：月付30块，季付85.5块，年付324块。限速200Mbps，有专线  
 
-官网： [https://dlj.tf/wNC7fVc](https://dlj.tf/wNC7fVc)
+官网： [](https://dlj.tf/wNC7fVc)
 
 [测速图](https://honven.cc/%E5%8D%A1%E8%BD%A6%E6%9E%81%E9%80%9F%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html)
 
