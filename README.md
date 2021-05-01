@@ -304,7 +304,7 @@ vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 ### 八、翼游
 
 ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
-官网(如果打不开请切换为全局代理)： [https://yiyo.mobi](https://yiyo.mobi/auth/register?code=KT8)
+官网(如果打不开请切换为全局代理)： [https://dlj.tf/jb7tT7z](https://yiyo.mobi/auth/register?code=KT8)
 
 
 >中继：有     
