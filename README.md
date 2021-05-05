@@ -75,8 +75,8 @@ telegram机场观察频道：[https://t.me/jichangtj](https://t.me/jichangtj)
 # 一、免费软件
 
 迷雾通
-免翻墙，github下载地址:https://dlj.tf/yz75wM
-官网，需要翻墙才能打开 : https://geph.io/zhs/
+免翻墙，github下载地址: [https://dlj.tf/yz75wM](https://dlj.tf/yz75wM){:target="_blank" rel="noopener"}
+官网，需要翻墙才能打开 : https://geph.io/zhs/ 
 
 
 # 二、shadowsocks(R)和V2ray付费机场：
