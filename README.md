@@ -9,9 +9,9 @@ tag:机场推荐,付费机场,收费机场,SS机场,SSR机场,V2ray机场,trojan
 建议收藏本页，持续更新
 墙外不是法外，低调！
 
-telegram机场观察频道：[https://t.me/jichangtj](https://t.me/jichangtj){:target="_blank"}
+telegram机场观察频道：[https://t.me/jichangtj](https://t.me/jichangtj)
 
-原文: [http://honven.cc](http://honven.cc){:target="_blank"}
+原文: [http://honven.cc](http://honven.cc)
 
 
 如果打不开链接就是被墙了，可以先下载蓝灯或者使用免费SS/SSR节点
@@ -98,7 +98,7 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 ### 一、STC-SERVER
 
 IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联。
-官网(如果打不开请切换为全局代理)： <https://dlj.tf/amqkVeF>{:target="_blank"}
+官网(如果打不开请切换为全局代理)： https://dlj.tf/amqkVeF
 
 
 
