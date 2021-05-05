@@ -65,7 +65,7 @@ telegram机场观察频道：[https://t.me/jichangtj](https://t.me/jichangtj){:t
 
 14.好机场一般很少搞活动，除非是刚开的，如果天天搞活动，肯定是平时价格太贵了。
 
-15. 机场落地机线路就是就是 aws  ec2   azure  linet  ntt nhn linode digital ocean；香港：hkbn wtt  hkt hgc；台湾：hinet；澳门：ctm。不需要记住大概知道下就行了。需要了解的是你买的多个机场他们的上游和线路是不是一样的。避免一个线路出问题了另外一个也一样。比如常见的ddos。
+15.机场落地机线路就是就是 aws  ec2   azure  linet  ntt nhn linode digital ocean；香港：hkbn wtt  hkt hgc；台湾：hinet；澳门：ctm。不需要记住大概知道下就行了。需要了解的是你买的多个机场他们的上游和线路是不是一样的。避免一个线路出问题了另外一个也一样。比如常见的ddos。
 
 16.稳定的翻墙成本会越来越高
 
@@ -98,7 +98,8 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 ### 一、STC-SERVER
 
 IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联。
-官网(如果打不开请切换为全局代理)：[https://dlj.tf/amqkVeF](https://dlj.tf/amqkVeF){:target="_blank"}
+官网(如果打不开请切换为全局代理)： <https://dlj.tf/amqkVeF>{:target="_blank"}
+
 
 
 >专线: 有   
