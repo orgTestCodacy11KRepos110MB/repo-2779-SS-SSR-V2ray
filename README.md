@@ -75,7 +75,7 @@ telegram机场观察频道：[https://t.me/jichangtj](https://t.me/jichangtj)
 # 一、免费软件
 
 迷雾通
-免翻墙，github下载地址: [https://dlj.tf/yz75wM](https://dlj.tf/yz75wM){:target="_blank" rel="noopener"}
+免翻墙，github下载地址: [https://dlj.tf/yz75wM](https://dlj.tf/yz75wM)
 官网，需要翻墙才能打开 : https://geph.io/zhs/ 
 
 
@@ -174,7 +174,7 @@ UDP:支持
 
 ### 四、WinnieCloud 
 
-机场主是机场面板[sspanel-umi](https://github.com/Anankke/SSPanel-Uim) 开发大佬anankke，
+机场主是机场面板[sspanel-umi](https://github.com/Anankke/SSPanel-Uim) 开发维护者之一anankke，
 （sspanel-umi是搭建机场的，各家机场用的网站基本都是那套，所以各家页面功能基本都一样 ）
 对后端进行了大量改进，增强了抗干扰和抗重组能力。直连线路有特殊的处理，几个月一个都没封，效果也不错。（也说明我们自建老被封ip是方法不对）
 但是仍然建议买有中转的套餐。即V3套餐以上。v1 v2直连。
