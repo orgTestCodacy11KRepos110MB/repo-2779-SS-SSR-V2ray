@@ -34,6 +34,7 @@ telegram机场观察频道：[https://t.me/jichangtj](https://t.me/jichangtj)
 
 便宜机场套路4：月抛机场，买的都是月抛线路，很便宜。但是线路变化频繁，随时跑路。    
 
+![三色图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/0.jpg)
 
 2.在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。尽量选择有ILPC国际专线和中转、BGP中转的，比较稳。 拿两会期间某家机场公告举个栗子：“经证实，墙是持续性的，通俗易懂来讲他每15分钟墙一波，目前受影响的为所有直连ssr节点，v2ray直连持续性断流，目前暂停修复所有直连线路，待两会结束后再进行修复，V1请尽量使用IPLC线路，其他套餐的会员请使用中转线路。”
 看你使用的网络运营商: 电信和联通一般都不错。移动，教育网和中国铁通最好买BGP三网中继线路，体验才好。
@@ -120,8 +121,15 @@ Anycast：有
 旗舰套餐 |  BGP线路+IPLC线路,线路38+13+7条 |每月100G流量，88块/月，4个在线客户端；每月400G流量，251块/季度，4个在线客户端；每月500G流量，475/半年，4个在线客户端；每月800G流量：898块/年 ，5个在线客户端 |88块起 | 4+
 企业套餐 |  BGP线路+IPLC线路,线路38+13+7+4条 |每月100G流量，108块/月，5个在线客户端；每月500G流量，308块/季度，5个在线客户端；每月600G流量，583/半年，5个在线客户端；每月900G流量：1100块/年 ，6个在线客户端 |108块起 | 5+
 
-
-
+<details>
+  <summary>stc测速图</summary>
+  <br>
+  
+  ![stc测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.png)
+     
+  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)<br>
+   
+</details>
 
 
 
@@ -151,6 +159,19 @@ UDP：支持
 5 | 中转+专线 |500G/年 |250块/年 | 10
 6 | 中转+专线 |1230G/年 |500块/年 |10
 
+
+<details>
+  <summary>TAG测速图</summary>
+  <br>
+  
+  ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
+     
+  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)<br>
+   
+</details>
+
+
+
 ###  三、少数派
 
 ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/3umjh1b" target="_blank">https://bit.ly/3umjh1b</a>
@@ -170,6 +191,20 @@ UDP:支持
 1 | 中转+专线 |200G/月 |26.8块/月 | 个人使用
 2 | 中转+专线 |400G/月 |38.8块/月 | 个人使用
 3 | 中转+专线 |600G/月 |58块/月 | 15
+
+
+<details>
+  <summary>少数派测速图</summary>
+  <br>
+  
+  ![少数派ssr测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp.jpg)
+  
+   ![少数派v2ray测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp2.jpg)
+ 
+  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)<br>
+   
+</details>
+
 
 
 ### 四、WinnieCloud 
@@ -250,6 +285,17 @@ v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新�
 肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://dlj.tf/nx9wRQV" target="_blank">https://dlj.tf/nx9wRQV</a> 
 
 
+<details>
+  <summary>JMS IPLC测速图</summary>
+  <br>
+  
+  ![JMS IPLC测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
+     
+  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)<br>
+   
+</details>
+
+
 ### 六、AAEX
 
 IELP/IPLC专线+CN2 中继,ss协议。老板也是IDC，机场服务器提供商。
@@ -300,6 +346,15 @@ vip1 | 直连 |50G/月 |5块/月 | 2，限速3M/s
 vip2 | 直连+中转| 200G/月 |18块/月 | 3
 vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 
+<details>
+  <summary>星梦数据测速图</summary>
+  <br>
+  
+  ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xmsj.jpg)
+     
+  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)<br>
+   
+</details>
 
 <a href="https://honven.vercel.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
 
@@ -328,12 +383,23 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 5 | 中转 |1000G/月 |75块/月 | 18
 
 
-### ~海螺的机场（近期不行）~
+<details>
+  <summary>翼游SSR+V2ray+trojan测速图</summary>
+  <br>
+  
+  ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyo.png)
+     
+  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)<br>
+   
+</details>
+
+
+### <strike>海螺的机场</strike>
 
 机场主人在欧洲，机场主手上好几家机场，跑路相对概率小。开业时长：1年+
 
 
-#### ~次元链接~
+#### <strike>次元链接</strike>
 BGP中继机场+专线，ssr协议。永久优惠码： M8KUGnxo (8%每个用户限一次)
 
 
@@ -357,7 +423,7 @@ BGP中继机场+专线，ssr协议。永久优惠码： M8KUGnxo (8%每个用户
 
 
 
-##### ~卡车极速~
+##### <strike>卡车极速</strike>
   
 BGP中继机场+专线，ssr协议。Azure、德国cn2/香港hkbn  
 海螺的机场，机场主人在欧洲，机场主手上好几家机场，跑路相对概率小。
@@ -380,9 +446,6 @@ BGP中继机场+专线，ssr协议。Azure、德国cn2/香港hkbn
 高级版：每月210G流量：月付30块，季付85.5块，年付324块。限速200Mbps，有专线  
 
 官网： [](https://dlj.tf/wNC7fVc)
-
-[测速图](https://honven.cc/%E5%8D%A1%E8%BD%A6%E6%9E%81%E9%80%9F%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html)
-
 
 
 
