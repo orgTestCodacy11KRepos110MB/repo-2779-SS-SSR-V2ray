@@ -108,7 +108,10 @@ Anycast：有
 流媒体解锁：有    
 节点国家与地区：香港、日本、新加坡、美国、台湾  
 老板肉身：香港   
-开业时长：1年+
+开业时长：1年+   
+入口ip数量 10   
+落地ip数量 32   
+直连节点数量：0   
 
 套餐:
 
@@ -122,12 +125,37 @@ Anycast：有
 企业套餐 |  BGP线路+IPLC线路,线路38+13+7+4条 |每月100G流量，108块/月，5个在线客户端；每月500G流量，308块/季度，5个在线客户端；每月600G流量，583/半年，5个在线客户端；每月900G流量：1100块/年 ，6个在线客户端 |108块起 | 5+
 
 <details>
-  <summary>STC-SERVER测速图</summary>
-  <br>
+  <summary>STC-SERVER测速图与具体入口和落地信息</summary>
+  
+    入口：
+     China Nanjing, China Unicom Liaoning*1
+     China Pudong, China Unicom Shanghai*1
+     China Shanghai, China Unicom Shanghai*1
+     China Suzhou, China Mobile*2
+     China Unknown City, CHINATELECOM JiangSu YangZhou IDC networkdescr: Ya*1
+     China Unknown City, China Mobile*2
+     China Unknown City, China Telecom Shanghai*2
+  
+
+    落地：
+    China Tianjin, SuperInternet ACCESS Pte*2
+    Hong Kong Central, China Mobile Hong Kong Broadband*1
+    Hong Kong Central, Hong Kong Broadband Network*2
+    Hong Kong Kowloon, Netvigator*5
+    Hong Kong Kwun Hang, China Mobile Hong Kong Broadband*1
+    Hong Kong Lai Chi Kok, Hong Kong Broadband Network*1
+    Hong Kong Sham Tseng, Netvigator*1
+    Hong Kong Tin Shui Wai, Netvigator*1
+    Hong Kong Tuen Mun, Netvigator*4
+    Japan Tokyo, Kirino LLC*3
+    Taiwan New Taipei, Chunghwa Telecom*5
+    Taiwan Tainan City, Chunghwa Telecom*4
+    United States Los Angeles, DMIT*1
+    United States Seattle, Kirino LLC*1
+ 
   
   ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.png)
      
-  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)
    
 </details>
 
@@ -145,8 +173,11 @@ IEPL专线+中转SSR,稳 。倍率是1和3，但真实流量是翻倍的，每15
 入口：广州、上海。    
 UDP：支持    
 落地：以色列、印度、台湾、香港、新加坡、日本、澳门、越南、韩国、马来西亚、俄罗斯、德国、爱尔兰、法国、荷兰、英国、加拿大、美国、澳洲、阿根廷、印尼、土耳其、柬埔寨、泰国、菲律宾、瑞士、巴西、冰岛、烏克蘭、南非、智利等    
-节点数目：100左右    
-开业时长：1年+
+开业时长：1年+   
+入口ip数量 6   
+落地ip数量 100   
+直连节点数量：0   
+
 
 套餐:
 
@@ -161,12 +192,87 @@ UDP：支持
 
 
 <details>
-  <summary>TAG测速图</summary>
-  <br>
+  <summary>TAG测速图与具体入口和落地信息</summary>
+  
+     入口:
+    China Beijing, Beijing Guanghuan Xinwang Digital*2
+    China Unknown City, China Mobile*1
+    China Unknown City, China Telecom Guangdong*1
+    Hong Kong Unknown City, Tencent cloud computing*2
+
+    落地：
+    Argentina Buenos Aires, Servicios y Telecomunicaciones S.A.*1
+    Australia Unknown City, Network Presence*3
+    Austria Vienna, Akenes SA*1
+    Belgium Unknown City, EDIS GmbH*1
+    Brazil São Paulo, Misaka Network, Inc.*1
+    Cambodia Phnom Penh, Cambo.Host*1
+    Canada Genelle, LIMEWAVE*4
+    Chile Santiago, Grupo Zgh SpA*1
+    Czechia Prague, Filip Hruska*1
+    Denmark Albertslund Municipality, Adeo Datacenter ApS*1
+    Finland Unknown City, Easylinehost Finland Oy*1
+    France Unknown City, Ikoula Net SAS*1
+    Germany Frankfurt am Main, Kamatera Inc*1
+    Germany Munich, Webhosting24 GmbH*2
+    Hong Kong Central, DMIT*1
+    Hong Kong Central, HGC Broadband*1
+    Hong Kong Central, Netvigator*4
+    Hong Kong Kwun Hang, HK Cable TV*1
+    Hong Kong Repulse Bay, HGC Broadband*1
+    Hungary Unknown City, RackForest Kft.*1
+    Iceland Unknown City, 1984 ehf*1
+    India Mumbai, LeapSwitch Networks Pvt*2
+    Indonesia Unknown City, PT Cloud Hosting Indonesia*2
+    Ireland Galway, Digiweb ltd*1
+    Isle of Man Unknown City, Amati Foundation*1
+    Isle of Man Unknown City, Netcetera Ltd.*1
+    Israel Haifa, O.m.c. Computers & Communications Ltd*1
+    Israel Tel Aviv, O.m.c. Computers & Communications Ltd*1
+    Italy Unknown City, Seflow S.N.C. Di Marco Brame' & C.*1
+    Japan Kyoto, Kagoya Japan*1
+    Japan Tokyo, Amazon.com*6
+    Japan Tokyo, GMO GlobalSign Holdings K.K.*1
+    Japan Tokyo, Kirino LLC*1
+    Japan Unknown City, GMO GlobalSign Holdings K.K.*1
+    Macao Macao, Companhia de Telecomunicacoes de Macau SARL*1
+    Malaysia Unknown City, IP ServerOne Solutions Sdn Bhd*3
+    Mexico Unknown City, Truxgo S. de R.L de C.V*1
+    Netherlands Unknown City, i3D.net B.V*1
+    New Zealand Hamilton, MikiPro*1
+    Norway Unknown City, TerraHost*1
+    Pakistan Unknown City, Multinet Pakistan Pvt.*2
+    Poland Unknown City, Meverywhere sp. z o.o.*1
+    Portugal Unknown City, Dream Fusion - IT Services, Lda*1
+    Russia Unknown City, Hosting technology LTD*1
+    Russia Unknown City, LLC Intelcom*1
+    Russia Unknown City, Optibit LLC*1
+    Russia Yuzhno-Sakhalinsk, Sakhalin Network Communications Co. (SNC)*1
+    Singapore Singapore, Amazon.com*1
+    Singapore Singapore, Kirino LLC*5
+    Singapore Singapore, Zenlayer*2
+    South Africa Johannesburg, Misaka Network, Inc.*1
+    South Korea Incheon, Amazon.com*3
+    South Korea Seoul, SK Broadband*1
+    South Korea Unknown City, Korea Telecom*1
+    Spain Barcelona, iFog GmbH*1
+    Switzerland Unknown City, Beelastic AG*1
+    Taiwan New Taipei, Chunghwa Telecom*4
+    Taiwan Xitun, Chunghwa Telecom*1
+    Thailand Unknown City, Bangmod Enterprise Co.*1
+    Thailand Unknown City, UIH*1
+    Turkey Izmir, Meric Hosting*1
+    Ukraine Vinnytsia, FOP Reznichenko Sergey Mykolayovich*1
+    United Arab Emirates Dubai, Microsoft Azure*1
+    United Kingdom London, Kamatera Inc*1
+    United States New Castle, HON*3
+    United States Philadelphia, HON*1
+    United States Santa Clara, Kamatera Inc*1
+    Vietnam Unknown City, FPT Telecom Company*2
+
   
   ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
      
-  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)
    
 </details>
 
@@ -180,9 +286,11 @@ ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。官网(已�
 >中转：有   
 原生节点：有     
 落地：美国、台湾、新加坡、日本、香港、德国、英国、俄罗斯、菲律宾     
-节点数目：50+     
-UDP:支持     
-老板肉身：墙外     
+UDP:支持        
+老板肉身：墙外    
+入口ip数量 4    
+落地ip数量 22    
+直连节点数量：0    
 
 套餐：
 
@@ -194,14 +302,32 @@ UDP:支持
 
 
 <details>
-  <summary>少数派测速图</summary>
+  <summary>少数派测速图与具体入口和落地信息</summary>
+   
+     入口
+    China Beijing, Beijing Guanghuan Xinwang Digital*2
+    China Unknown City, China Mobile*2  
+
+    落地
+    China Tianjin, SuperInternet ACCESS Pte*1
+    China Unknown City, Amazon.com*2
+    Hong Kong Central, HGC Broadband*1
+    Hong Kong Central, Netvigator*2
+    Hong Kong Shatin, Hong Kong Broadband Network*1
+    Hong Kong Unknown City, Amazon.com*2
+    Japan Tokyo, Linode*3
+    Philippines Manila, IP-Converge Data Center*1
+    Russia Moscow, Forest NET*1
+    Singapore Singapore, Amazon.com*2
+    Taiwan New Taipei, Chunghwa Telecom*2
+    United Kingdom Kington, FxTransit LTD*1
+    United States New Castle, Nato Research*3
   <br>
   
   ![少数派ssr测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp.jpg)
   
    ![少数派v2ray测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp2.jpg)
  
-  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj)
    
 </details>
 
@@ -323,9 +449,11 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 >中继：有     
 原生节点：有     
 落地：美国、台湾、新加坡、日本、香港     
-节点数目：50+     
 老板肉身：北美     
-开业时长：1年+
+开业时长：1年+   
+入口ip数量 1   
+落地ip数量 20   
+直连节点数量：0   
 
 套餐：     
 
@@ -339,13 +467,27 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 
 
 <details>
-  <summary>翼游SSR+V2ray+trojan测速图</summary>
-  <br>
+  <summary>翼游SSR+V2ray+trojan测速图与具体入口和落地信息</summary>
+
+    入口：
+    China Unknown City, China Mobile*1
+
+    落地：
+    China Unknown City, Amazon.com*1
+    Hong Kong Central, Microsoft Azure*1
+    Hong Kong Unknown City, Kirino LLC*4
+    Japan Tokyo, Amazon.com*3
+    Japan Tokyo, Linode*1
+    Singapore Singapore, Amazon.com*1
+    Singapore Singapore, Microsoft Azure*2
+    South Korea Seoul, Microsoft Azure*1
+    Taiwan Chang-hua, Chunghwa Telecom*2
+    United States San Jose, Amazon.com*2
+    United States Unknown City, Microsoft Azure*2
   
   ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyo.png)
      
-  <br> 最新测速图在[https://t.me/jichangtj](https://t.me/jichangtj) 
-   
+  
 </details>
 
 <br>
