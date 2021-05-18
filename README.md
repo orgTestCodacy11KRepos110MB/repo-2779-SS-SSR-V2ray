@@ -289,8 +289,8 @@ ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。官网(已�
 UDP:支持        
 老板肉身：墙外    
 入口ip数量 4    
-落地ip数量 22    
-直连节点数量：0    
+落地ip数量 22        
+直连节点数量：0        
 
 套餐：
 
@@ -334,7 +334,7 @@ UDP:支持
 <br>
 
 
-### 五、just my sock
+### 五、Just my sock
 
 搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
 相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
@@ -394,8 +394,10 @@ IELP/IPLC专线+CN2 中继,ss协议。老板也是IDC，机场服务器提供商
 原生节点：有   
 节点国家与地区：多   
 入口：华东，华南。   
-落地：香港、台湾、日本、美国、德国、法国、英国、瑞士、爱尔兰、俄罗斯、加拿大、新加坡、澳大利亚    
-节点数目：50   
+落地：香港、台湾、日本、美国、德国、法国、英国、瑞士、爱尔兰、俄罗斯、加拿大、新加坡、澳大利亚       
+入口ip数量 3   
+落地ip数量 42   
+直连节点数量：0   
 IPv6:支持   
    
 套餐：
@@ -405,6 +407,28 @@ IPv6:支持
 无限流量套餐 | 中转+专线，全部节点 |无限流量 |99块/月 | 每2T开工单重置一次，不限制设备数目
 标准套餐 | 中转+专线，全部节点| 300GG/月 |150块/月 | 不限制设备数目
 轻量套餐| 中转 |25G/月 |15块/月 | 节点少且只有中转无专线
+
+
+<details>
+
+  <summary>具体入口与落地信息</summary>
+  
+       入口
+      China Shanghai, China Telecom Shanghai×2
+      China Unknown City, China Mobile×1
+
+    落地
+    Australia Sydney, Linode×1
+    Germany Frankfurt am Main, Linode×1
+    Hong Kong Central, Netvigator×1
+    Hong Kong Unknown City, Aaex Network Technology Ltd×10
+    Japan Tokyo, Aaex Network Technology Ltd×9
+    Singapore Singapore, OVH SAS×1
+    Taiwan Miaoli, Chunghwa Telecom×5
+    Taiwan Nantun, Chunghwa Telecom×5
+    United States Unknown City, Aaex Network Technology Ltd×9
+
+</details>
 
 <br>
 
@@ -513,11 +537,12 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 原生节点：有  
 中继入口：移动/电信  
 落地：香港、日本、俄罗斯、新加坡、韩国、台湾、美国、德国、荷兰  
-节点数目：60+ 
 UDP:支持
 机场主肉身：海外  
 开业时长：半年+
-
+入口ip数量 33        
+落地ip数量 32    
+直连节点数量：27    
 
 套餐:
 
@@ -533,6 +558,52 @@ UDP:支持
 年付塑料套餐高等级低流量V5 | 所有线路 |50G/每月 |178块/年 | 不限制
 
 
+
+<details>
+  <summary>WinnieCloud具体入口和落地信息</summary>
+
+    入口
+    China Changzhou, China Unicom Liaoning*1
+    China Foshan, Huawei Clouds*1
+    China Shenzhen, China Mobile*1
+    China Unknown City, China Mobile*1
+    China Unknown City, China Telecom Guangdong*1
+    China Unknown City, WeiYi Network Technology Co.*2
+
+
+    落地
+    China Foshan, Huawei Clouds*1
+    Hong Kong Central, DMIT*1
+    Hong Kong Central, Hong Kong Broadband Network*1
+    Hong Kong Central, Icidc Network*1
+    Hong Kong Central, MOACK.Co.LTD*1
+    Hong Kong Central, Tencent cloud computing*1
+    Hong Kong Hung Hom, Netvigator*1
+    Hong Kong Kwun Hang, Hong Kong Broadband Network*1
+    Hong Kong Tuen Mun, Netvigator*1
+    Hong Kong Unknown City, BGPNET Global*1
+    Japan Tokyo, Aaex Network Technology Ltd*1
+    Japan Tokyo, Amazon.com*1
+    Japan Tokyo, Linode*1
+    Russia St Petersburg, Misaka Network*2
+    Russia St Petersburg, Misaka Network, Inc.*1
+    Singapore Singapore, Tencent cloud computing*1
+    Singapore Unknown City, BGPNET Global*1
+    South Africa Unknown City, Cnservers LLC*1
+    South Korea Incheon, Amazon.com*1
+    Taiwan Taoyuan District, Chunghwa Telecom*1
+    Taiwan Unknown City, Chunghwa Telecom*1
+    United States Las Vegas, FranTech Solutions*2
+    United States Los Angeles, Cnservers LLC*1
+    United States Los Angeles, DMIT*2
+    United States Reston, Misaka Network, Inc.*1
+    United States San Jose, Olink-cloud*1
+    United States Santa Clara, Tencent cloud computing*1
+    United States Unknown City, CLOUDCONE, LLC*1
+    United States Unknown City, QuadraNet*1
+       
+ 
+</details>
 <br>
 
 
@@ -555,7 +626,36 @@ BGP中继机场+专线，ssr协议。永久优惠码： M8KUGnxo (8%每个用户
 回国：有，回国是上海CN2，线路不错，挺贵的。    
 中继入口：上海联通，北京BGP,深圳BGP,广东双线,广东移动,江苏三线,山东联通,山东移动       
 落地：俄罗斯、印度、台湾、德国、新加坡、日本、澳大利亚、美国、香港、韩国、土耳其、阿根廷        
-节点数目：70左右       
+入口ip数量 6        
+落地ip数量 21        
+直连节点数量：0              
+
+<details>
+
+<summary>具体入口与落地信息</summary>
+
+    入口
+    China Unknown City, China Mobile*2
+    China Unknown City, China Mobile Guangdong*1
+    China Unknown City, China Telecom Guangdong*1
+    China Unknown City, China Telecom Shanghai*2
+
+    落地
+    Hong Kong Central, Microsoft Azure*1
+    Hong Kong Unknown City, Amazon.com*1
+    Hong Kong Unknown City, HGC Broadband*4
+    Japan Tokyo, Amazon.com*2
+    Japan Tokyo, Linode*1
+    Malaysia Malacca, TM Net*1
+    Singapore Singapore, Kirino LLC*4
+    South Korea Seoul, Choopa, LLC*2
+    Taiwan New Taipei, Chunghwa Telecom*1
+    Turkey Unknown City, Bilrom Bilisim ve Medya Hizmetleri Sanayi ve Ticar*1
+    United States Fremont, Linode*1
+    United States Seattle, Kirino LLC*2
+   
+</details>
+
 
 套餐:
 * 入门版：每月128G流量：月付18块，限速200Mbps，中继+专线，节点数目40
@@ -581,8 +681,9 @@ BGP中继机场+专线，ssr协议。Azure、德国cn2/香港hkbn
 原生节点：有  
 中继入口：上海联通  
 落地：俄罗斯、印度、台湾、德国、新加坡、日本、澳大利亚、美国、香港、韩国  
-
-节点数目：30左右
+入口ip数量 4    
+落地ip数量 19    
+直连节点数量：0    
 
 套餐:
 3块7天10g流量试用。限速50Mbps  
@@ -591,6 +692,32 @@ BGP中继机场+专线，ssr协议。Azure、德国cn2/香港hkbn
 高级版：每月210G流量：月付30块，季付85.5块，年付324块。限速200Mbps，有专线  
 
 官网： [](https://dlj.tf/wNC7fVc)
+
+<details>
+
+  <summary>具体入口与落地信息</summary>'
+  
+    入口
+    China Unknown City, China Mobile×2
+    China Unknown City, China Telecom Guangdong×1
+    China Unknown City, China Unicom Liaoning×1
+
+    落地
+    Germany Frankfurt am Main, Linode×1
+    Hong Kong Central, Microsoft Azure×1
+    Hong Kong Shatin, Netvigator×1
+    Hong Kong Unknown City, HGC Broadband×3
+    Japan Tokyo, Amazon.com×2
+    Japan Tokyo, Linode×2
+    Malaysia Malacca, TM Net×1
+    Singapore Singapore, Kirino LLC×4
+    South Korea Incheon, Amazon.com×1
+    Taiwan New Taipei, Chunghwa Telecom×1
+    United States Seattle, Kirino LLC×2
+
+</details>
+
+
 
 
 <br>
