@@ -417,6 +417,10 @@ IPv6:支持
 <br>
 
 
+ ![AAEX测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/aaex.png)
+
+
+
 ### 六、Just my sock
 
 搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
