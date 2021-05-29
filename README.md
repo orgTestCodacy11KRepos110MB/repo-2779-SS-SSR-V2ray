@@ -110,7 +110,7 @@ Anycast：有
 企业套餐 |  BGP线路+IPLC线路,线路38+13+7+4条 |每月100G流量，108块/月，5个在线客户端；每月500G流量，308块/季度，5个在线客户端；每月600G流量，583/半年，5个在线客户端；每月900G流量：1100块/年 ，6个在线客户端 |108块起 | 5+
 
 <details>
-  <summary>STC-SERVER测速图与具体入口和落地信息</summary>
+  <summary>具体入口和落地信息</summary>
   
     入口：
      China Nanjing, China Unicom Liaoning*1
@@ -137,12 +137,12 @@ Anycast：有
     Taiwan Tainan City, Chunghwa Telecom*4
     United States Los Angeles, DMIT*1
     United States Seattle, Kirino LLC*1
- 
-  
-  ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.png)
-     
+
    
 </details>
+
+  ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.png)
+
 
 <br>
 
@@ -177,7 +177,7 @@ UDP：支持
 
 
 <details>
-  <summary>TAG测速图与具体入口和落地信息</summary>
+  <summary>具体入口和落地信息</summary>
   
      入口:
     China Beijing, Beijing Guanghuan Xinwang Digital*2
@@ -256,10 +256,9 @@ UDP：支持
     Vietnam Unknown City, FPT Telecom Company*2
 
   
-  ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
-     
-   
 </details>
+
+  ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
 
 <br>
 
@@ -287,7 +286,7 @@ UDP:支持
 
 
 <details>
-  <summary>少数派测速图与具体入口和落地信息</summary>
+  <summary>少数派具体入口和落地信息</summary>
    
      入口
     China Beijing, Beijing Guanghuan Xinwang Digital*2
@@ -307,63 +306,63 @@ UDP:支持
     Taiwan New Taipei, Chunghwa Telecom*2
     United Kingdom Kington, FxTransit LTD*1
     United States New Castle, Nato Research*3
-  <br>
   
-  ![少数派ssr测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp.jpg)
+</details>
+
+ ![少数派ssr测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp.jpg)
   
    ![少数派v2ray测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp2.jpg)
  
-   
-</details>
 
 <br>
 
+### 四、Blinkload
 
-### 五、Just my sock
-
-搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
-相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
-很适合对安全性的重视程度较大的和担心私人机场跑路的用户。   
-支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
-官网注册地址,需要代理或全局模式访问 :  <a href="https://bit.ly/3weANGp" target="_blank">https://bit.ly/3weANGp</a>
-
-套餐:
+ss协议全IEPL+部分AIA+BGP专线机场，香港老板，自有机房，总稳定性很好。年付起。Business套餐是最稳的套餐且无限速，有钱买这个肯定没错。[官网注册地址](https://dlj.tf/a88T4sC)
 
 
-IPLC香港：    
-v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新出的套餐，搬瓦工还是懂得大家需要什么。   
-不一定有货，挺抢手的，已入手观察中，产品购买链接： <a href="https://bit.ly/39zLsSe" target="_blank">https://bit.ly/39zLsSe</a>
+>专线: 有    
+UDP：支持    
+落地：台湾、香港、新加坡、日本、美国    
+开业时长：1年+    
+入口ip数量 29    
+落地ip数量 29    
+流媒体解锁：Netflix、youtube Premium、HBO Max 、 DAZN、PCR jP    
 
 
+套餐：
 
-日本节点：  
-100G流量，29.99美元/月,3个设备。限速100Mbps  
-500G流量，135.99美元/月,5个设备.限速200Mbps  
-
-香港节点：  
-100流量，34.99美元/月,3个设备。限速100Mbps  
-500G流量，149.99美元/月,5个设备.限速500Mbps  
-
-
-洛杉矶节点（不建议，较慢）：  
-500G流量，5.88美元/月,5个设备。限速2.5 Gbps  
-1T流量，9.88美元/月,不限设备数。限速5 Gbps  
-5T流量，48.99美元/月,不限设备数。限速5 Gbps  
-
-肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://dlj.tf/nx9wRQV" target="_blank">https://dlj.tf/nx9wRQV</a> 
+套餐 | 线路 | 流量 | 价格 |客户端数目 
+---- | ---  | --- | --- | --- 
+Pro | 专线  | 200Gi/月起 | 499.9 HKD/年起 | 6+
+Lite | 专线 | 100G/月 | 399.9 HKD/年| 6+
+Micro | 专线 | 50G/月 | 299.9 HKD/年| 6+
+Business |专线 | 1000G/月起 | 2888/3888/6799HKD/年 | 30/50+,最稳的套餐且无限速
 
 
 <details>
-  <summary>JMS IPLC测速图</summary>
-  <br>
-  
-  ![JMS IPLC测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
-        
+  <summary>Pro套餐具体入口与落地信息</summary>
+          
+    入口:
+    China Unknown City, China Mobile 
+    China Unknown City, China Telecom Guangdong
+
+    落地
+    Hong Kong Unknown City, Blinkload Technology Co., Ltd Hong Kong× 12
+    Singapore Unknown City, Blinkload Technology Co., Ltd× 4
+    Taiwan New Taipei, Chunghwa Telecom× 3
+    United States Unknown City, Blinkload Technology Co., Ltd× 4
+
+   
 </details>
 
-<br>
+Pro套餐2021-05-29南方移动测速结果：
 
-### 六、AAEX
+ ![Blinkload测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/blinkload.png)
+
+
+
+### 五、AAEX
 
 IELP/IPLC专线+CN2 中继,ss协议。老板也是IDC，机场服务器提供商。
 不限制设备数目。
@@ -417,7 +416,171 @@ IPv6:支持
 
 <br>
 
-### 七、星梦数据
+
+### 六、Just my sock
+
+搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
+相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
+很适合对安全性的重视程度较大的和担心私人机场跑路的用户。   
+支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
+官网注册地址,需要代理或全局模式访问 :  <a href="https://bit.ly/3weANGp" target="_blank">https://bit.ly/3weANGp</a>
+
+套餐:
+
+
+IPLC香港：    
+v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新出的套餐，搬瓦工还是懂得大家需要什么。   
+不一定有货，挺抢手的，已入手观察中，产品购买链接： <a href="https://bit.ly/39zLsSe" target="_blank">https://bit.ly/39zLsSe</a>
+
+
+
+日本节点：  
+100G流量，29.99美元/月,3个设备。限速100Mbps  
+500G流量，135.99美元/月,5个设备.限速200Mbps  
+
+香港节点：  
+100流量，34.99美元/月,3个设备。限速100Mbps  
+500G流量，149.99美元/月,5个设备.限速500Mbps  
+
+
+洛杉矶节点（不建议，较慢）：  
+500G流量，5.88美元/月,5个设备。限速2.5 Gbps  
+1T流量，9.88美元/月,不限设备数。限速5 Gbps  
+5T流量，48.99美元/月,不限设备数。限速5 Gbps  
+
+肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://dlj.tf/nx9wRQV" target="_blank">https://dlj.tf/nx9wRQV</a> 
+
+  JMS IPLC测速图
+
+  ![JMS IPLC测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
+        
+
+<br>
+
+### 七、要饭集团
+
+#### 1）跑路云
+专线+BGP中转SS+V2ray机场。要饭集团的。手上多家机场，这家是他们家最大的，也是线路类似最多的。
+圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
+nat、流量转发、独立线路都有。
+特殊节点比较全，阿里cen和腾讯AIA游戏加速挺不错，玩游戏的可以试试。
+官网(如果打不开请切换为全局代理)： [https://dlj.tf/CmeG4ih](https://dlj.tf/CmeG4ih)
+
+>专线: 有    
+免费公益节点：4条直连线路    
+游戏节点：GAME游戏加速节点为SSR协议，VIP3以上才有SSR    
+流媒体解锁：Netflix、youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP     
+节点国家与地区：香港、日本、新加坡、美国、台湾、马来西亚、韩国、印度尼西亚、澳门、以色列、俄罗斯、冰岛、加拿大、印度、土耳其、巴西、德国、法国、澳大利亚、瑞士、英国、菲律宾、阿根廷    
+老板肉身：境外     
+开业时长：1年+    
+入口ip数量 22        
+落地ip数量 89    
+客户端数目：2个    
+
+套餐:
+* VIP2：8块/月,50G,只有V2ray协议； 142/年,128GB流量/月。（无游戏线路）
+* VIP3：标准12.90块/月,增量90G； 19.90块/月,200G； 年付232.9年,288GB流量/月； SS+V2ray协议（建议这个起）。
+* VIP4：标准32.90块/月，350G； 增量41.90块/月,450G；年 付345.9/年,428GB流量/月； SS+V2ray协议+BGP专有路线（最好买这个套餐）。
+
+
+<details>
+  <summary>具体入口与落地信息 shadowsocks流媒体解锁范围</summary>
+  
+     入口：
+      China Beijing, Beijing Guanghuan Xinwang Digital× 1
+      China Nanjing, China Unicom Liaoning× 1
+      China Ningbo, China Mobile× 1
+      China Unknown City, China Mobile× 6
+      China Unknown City, China Mobile Guangdong× 1
+      China Unknown City, China Telecom jiangsu province backbone× 1
+      China Unknown City, China Unicom Liaoning× 1
+      South Africa Unknown City, Cnservers LLC× 2
+      Taiwan New Taipei, Chunghwa Telecom× 7
+      Taiwan Xindian, Chunghwa Telecom× 1
+
+
+    落地：
+    Argentina Buenos Aires, T-Wireless× 1
+    Australia Unknown City, Network Presence× 1
+    Belgium Dessel, iFog GmbH× 1
+    Brazil Campinas, Microsoft Azure× 1
+    Canada Unknown City, OVH SAS× 1
+    China Tianjin, SuperInternet ACCESS Pte× 1
+    France Unknown City, VIRTUA SYSTEMS× 1
+    Germany Unknown City, Accelerated IT Services GmbH× 1
+    Hong Kong Central, China Mobile Hong Kong Broadband× 1
+    Hong Kong Central, Scloud Pte× 1
+    Hong Kong Shatin, Tianhai InfoTech× 1
+    Hong Kong Tsimshatsui, Netvigator× 3
+    Hong Kong Unknown City, Amazon.com× 1
+    Hong Kong Unknown City, DMIT× 1
+    Hong Kong Unknown City, HGC Broadband× 8
+    Iceland Unknown City, 1984 ehf× 1
+    India Mumbai, Linode× 1
+    Indonesia Unknown City, PT Cloud Hosting Indonesia× 1
+    Israel Tel Aviv, O.m.c. Computers & Communications Ltd× 1
+    Japan Chiyoda-ku, So-net× 1
+    Japan Heiwajima, Choopa, LLC× 3
+    Japan Tokyo, GMO GlobalSign Holdings K.K.× 1
+    Japan Tokyo, Linode× 2
+    Japan Tokyo, OSOA Corporation., LTD× 2
+    Japan Tokyo, Oracle Cloud× 2
+    Japan Tokyo, SAKURA Internet× 1
+    Japan Unknown City, SAKURA Internet× 1
+    Macao Macao, MTel SAR× 1
+    Malaysia Kamunting, TM Net× 1
+    Philippines Unknown City, Eastern Communications× 1
+    Russia Novosibirsk, Adman LLC× 1
+    Russia St Petersburg, Misaka Network, Inc.× 1
+    Russia Unknown City, Adman LLC× 1
+    Russia Unknown City, LLC Baxet× 1
+    Singapore Singapore, DigitalOcean× 2
+    Singapore Singapore, Kirino LLC× 1
+    Singapore Singapore, Linode× 2
+    South Africa Unknown City, Cnservers LLC× 3
+    South Korea Seoul, Oracle Cloud× 2
+    Switzerland Unknown City, FSIT AG× 1
+    Taiwan New Taipei, Chunghwa Telecom× 14
+    Taiwan Xindian, Chunghwa Telecom× 1
+    Turkey Istanbul, Hostigger INC.× 1
+    United Kingdom London, Digital Ocean× 1
+    United States Fremont, Linode× 1
+    United States Los Angeles, DediPath× 6
+    United States Reston, Misaka Network, Inc.× 1
+    United States Seattle, Kirino LLC× 4
+    Vietnam Unknown City, FPT Telecom Company× 1
+
+
+    ----------shadowsocks流媒体解锁范围------------
+    香港：Netflix、TVB、HBO GO、Fox+、Bilibili 港澳台、Viu
+
+    日本：Netflix、Pixiv、Niconico
+    日本(带Ex)除了日本解锁的内容以外额外解锁 Happyon、AbemaTV、DMM、DAZN、TVer、大部分日本手游
+
+    台湾：Netflix、Bilibili 港澳台、動畫瘋、四季線上影視、Line TV
+
+    美国：Netflix、Hulu、HBO、Amazon Video、Disney Now、Disney+
+    美国(带Ex)：除了上条美国解锁的内容以外额外解锁 Discovery+
+
+    英国：Netflix、BBC、Channel 4
+    新加坡、马来西亚：Netflix、Fox+、Amazon Video 
+    瑞士、冰岛、德国、澳门等节点 默认支持Netflix
+
+    带Y标签节点: 不支持流媒体
+
+   
+</details>
+
+ss节点南方移动测速结果：
+
+  ![跑路云ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
+
+v2ray节点南方移动测速结果：
+
+  ![跑路云v2测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluv2.png)
+
+
+#### 2）星梦数据
 
 Trojan中继+IEPL机场。要饭集团的，手上很多家机场，常见的是跑路云和闪电。老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。有公益节点。
 官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/0rE0AFw" target="_blank">https://dlj.tf/0rE0AFw</a> 
@@ -438,13 +601,9 @@ vip1 | 直连 |50G/月 |5块/月 | 2，限速3M/s
 vip2 | 直连+中转| 200G/月 |18块/月 | 3
 vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 
-<details>
-  <summary>星梦数据测速图</summary>
-  <br>
-  
-  ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xmsj.jpg)
-        
-</details>
+星梦数据测速图:
+ ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xmsj.jpg)
+
 <br>
 <a href="https://honven.netlify.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
 <br>
@@ -476,7 +635,7 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 
 
 <details>
-  <summary>翼游SSR+V2ray+trojan测速图与具体入口和落地信息</summary>
+  <summary>翼游SSR+V2ray+trojan具体入口和落地信息</summary>
 
     入口：
     China Unknown City, China Mobile*1
@@ -494,10 +653,9 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
     United States San Jose, Amazon.com*2
     United States Unknown City, Microsoft Azure*2
   
-  ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyo.png)
-     
-  
 </details>
+
+  ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyo.png)
 
 <br>
 
