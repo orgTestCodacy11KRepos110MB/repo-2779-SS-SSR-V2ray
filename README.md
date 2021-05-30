@@ -452,7 +452,7 @@ v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新�
 1T流量，9.88美元/月,不限设备数。限速5 Gbps  
 5T流量，48.99美元/月,不限设备数。限速5 Gbps  
 
-肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://dlj.tf/nx9wRQV" target="_blank">https://dlj.tf/nx9wRQV</a> 
+肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">https://bit.ly/3sDxUwC</a> 
 
   JMS IPLC测速图
 
