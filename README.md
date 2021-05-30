@@ -8,6 +8,8 @@ tag:机场推荐,付费机场,专线机场,SS机场,SSR机场,V2ray机场,trojan
 
 推荐购买付费机场账号，收费机场比较好，不建议买付费的VPN,感觉付费VPN不如付费ssr/v2ray机场；花钱可以节省很多时间和精力,而且贵点的稳定点舒服很多，不可能又便宜又稳定流量还多的。用了好的就回不去了；之前自己搭建虽然最安全，但是容易受到高墙干扰，维护很麻烦不推荐购买直接使用搜索vpn出来的软件，迟早药丸免费机场/白嫖机场一般不太稳定；下面有几个稳定的机场推荐，包括ssr、ss、v2ray、trojan等协议，也有可以打游戏的、IPLC专线机场等。
 
+推荐关注本人TG频道，最新测速图第一时间更新：https://t.me/jichangtj
+
 # 零、如何挑选机场？(个人观点不一定对)
 
 1.在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。尽量选择有ILPC国际专线和中转、BGP中转的，比较稳。 拿两会期间某家机场公告举个栗子：“经证实，墙是持续性的，通俗易懂来讲他每15分钟墙一波，目前受影响的为所有直连ssr节点，v2ray直连持续性断流，目前暂停修复所有直连线路，待两会结束后再进行修复，V1请尽量使用IPLC线路，其他套餐的会员请使用中转线路。”
@@ -141,6 +143,9 @@ Anycast：有
    
 </details>
 
+   
+   最新测速图更新在频道：https://t.me/jichangtj
+   
   ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.jpg)
 
 
@@ -258,6 +263,7 @@ UDP：支持
   
 </details>
 
+   最新测速图更新在频道：https://t.me/jichangtj
   ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
 
 <br>
@@ -308,7 +314,8 @@ UDP:支持
     United States New Castle, Nato Research*3
   
 </details>
-
+  
+  最新测速图更新在频道：https://t.me/jichangtj
  ![少数派测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp.jpg)
   
  
@@ -415,7 +422,7 @@ IPv6:支持
 
 <br>
 
-
+  最新测速图更新在频道：https://t.me/jichangtj
  ![AAEX测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/aaex.png)
 
 
@@ -574,7 +581,7 @@ nat、流量转发、独立线路都有。
    
 </details>
 
-ss节点南方移动测速结果：
+ss节点南方移动测速结果，最新测速图更新在频道：https://t.me/jichangtj：
 
   ![跑路云ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
 
@@ -604,7 +611,7 @@ vip1 | 直连 |50G/月 |5块/月 | 2，限速3M/s
 vip2 | 直连+中转| 200G/月 |18块/月 | 3
 vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 
-星梦数据测速图:
+星梦数据测速图，最新测速图更新在频道：https://t.me/jichangtj:
  ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xingmeng.png)
 
 <br>
@@ -658,6 +665,7 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
   
 </details>
 
+  最新测速图更新在频道：https://t.me/jichangtj
   ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyo.png)
 
 <br>
