@@ -141,7 +141,7 @@ Anycast：有
    
 </details>
 
-  ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.png)
+  ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.jpg)
 
 
 <br>
@@ -309,9 +309,8 @@ UDP:支持
   
 </details>
 
- ![少数派ssr测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp.jpg)
+ ![少数派测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp.jpg)
   
-   ![少数派v2ray测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp2.jpg)
  
 
 <br>
@@ -606,7 +605,7 @@ vip2 | 直连+中转| 200G/月 |18块/月 | 3
 vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 
 星梦数据测速图:
- ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xmsj.jpg)
+ ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xingmeng.png)
 
 <br>
 <a href="https://honven.netlify.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
