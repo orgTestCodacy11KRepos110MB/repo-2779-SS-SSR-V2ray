@@ -8,7 +8,7 @@ tag:机场推荐,付费机场,专线机场,SS机场,SSR机场,V2ray机场,trojan
 
 推荐购买付费机场账号，收费机场比较好，不建议买付费的VPN,感觉付费VPN不如付费ssr/v2ray机场；花钱可以节省很多时间和精力,而且贵点的稳定点舒服很多，不可能又便宜又稳定流量还多的。用了好的就回不去了；之前自己搭建虽然最安全，但是容易受到高墙干扰，维护很麻烦不推荐购买直接使用搜索vpn出来的软件，迟早药丸免费机场/白嫖机场一般不太稳定；下面有几个稳定的机场推荐，包括ssr、ss、v2ray、trojan等协议，也有可以打游戏的、IPLC专线机场等。
 
-推荐关注本人TG频道，最新测速图第一时间更新：https://t.me/jichangtj
+TelegramT机场观察频道：https://t.me/jichangtj   掌握最新机场优惠折扣通知，最新机场推荐评测与测速图，最新科学上网相关新闻与消息 
 
 # 零、如何挑选机场？(个人观点不一定对)
 
@@ -144,8 +144,6 @@ Anycast：有
 </details>
 
    
-   最新测速图更新在频道：https://t.me/jichangtj
-   
   ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.jpg)
 
 
@@ -263,7 +261,7 @@ UDP：支持
   
 </details>
 
-   最新测速图更新在频道：https://t.me/jichangtj
+   
   ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
 
 <br>
@@ -422,7 +420,7 @@ IPv6:支持
 
 <br>
 
-  最新测速图更新在频道：https://t.me/jichangtj
+  
  ![AAEX测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/aaex.png)
 
 
@@ -581,7 +579,7 @@ nat、流量转发、独立线路都有。
    
 </details>
 
-ss节点南方移动测速结果，最新测速图更新在频道：https://t.me/jichangtj：
+ss节点南方移动测速结果：
 
   ![跑路云ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
 
@@ -665,7 +663,7 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
   
 </details>
 
-  最新测速图更新在频道：https://t.me/jichangtj
+  
   ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyo.png)
 
 <br>
