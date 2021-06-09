@@ -465,7 +465,60 @@ v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新�
 
 <br>
 
-### 七、跑路云
+
+
+### 七、速蛙云
+
+ssr中转机场，后端负载均衡，稳定和速度都可以；机场主也是在国外。会员送奈飞、P站、X站高级会员，老司机比较喜欢，冲1元测试账号也送，按照福利社和稳定性来说整体性价比不错。官网: https://i.ok3.icu/olN 
+
+>游戏节点：GAME游戏加速节点为SSR协议，VIP2以上才有    
+流媒体解锁：奈飞、P站、X高级会员    
+节点国家与地区：香港、新加坡、日本、美国、台湾、韩国、欧洲、欧洲、俄罗斯、印度    
+老板肉身：马来西亚        
+开业时长：1年+
+入口ip数量 4                
+落地ip数量 23          
+客户端数目：3个+        
+
+套餐:
+* VIP1：月付：25 160G,3设备;  季付：64 160G/月，3设备；  年付：87/年,15G/月； 218/年，60G/月，不限设备；  218/年，200G/月，3设备； （无IPLC游戏线路）    
+* VIP2：月付：34 300G，5设备； 季付：94 333G/月，5设备； 年付：308/年,400G/月，5设备； 549/年,1024/月，3设备；999.00 /年,1536G/月，15设备 等（有IPLC游戏线路，建议VIP2起）。    
+
+
+<details>
+  <summary>VIP2节点具体入口与落地信息</summary>
+         入口
+        China Unknown City, China Mobile x3
+        China Xuchang, China Unicom Liaoning x1
+
+        落地
+        Australia Sydney, Amazon.com x1
+        Brazil São Paulo, Amazon.com x1
+        Hong Kong Central, Henan Anyun Network Technology Co. x1
+        Hong Kong Central, Microsoft Azure x4
+        Hong Kong Central, Netvigator x1
+        Hong Kong Unknown City, Aaex Network Technology Ltd x1
+        India Mumbai, Amazon.com x1
+        Italy Milan, Amazon.com x1
+        Japan Tokyo, Microsoft Azure x2
+        Japan Unknown City, NTT PC Communications x1
+        Latvia Riga, Intersect x1
+        Singapore Singapore, Digital Ocean x2
+        Singapore Singapore, Fdcservers x1
+        South Korea Incheon, Amazon.com x1
+        Taiwan New Taipei, Chunghwa Telecom x1
+        United States Los Angeles, DMIT x2
+        United States Unknown City, EGIHosting x1
+
+</details>
+
+ssr VIP1+VIP2节点 晚高峰南方移动测速结果，[最新测速图在频道@jichangtj](https://t.me/jichangtj)：
+  ![速蛙ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/suwa.png)
+
+  
+  
+
+### 八、跑路云
 专线+BGP中转SS+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。
 圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
 nat、流量转发、独立线路都有。
@@ -586,7 +639,7 @@ v2ray节点南方移动测速结果：
   ![跑路云v2测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluv2.png)
 
 
-### 八、星梦数据
+### 九、星梦数据
 
 Trojan中继+IEPL机场。实力大佬，手上很多家机场，老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。有公益节点。
 官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/0rE0AFw" target="_blank">https://dlj.tf/0rE0AFw</a> 
@@ -614,7 +667,7 @@ vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 <a href="https://honven.netlify.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
 <br>
 
-### 九、翼游
+### 十、翼游
 
 ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
 官网(如果打不开请切换为全局代理)：  <a href="https://dlj.tf/jb7tT7z" target="_blank">https://dlj.tf/jb7tT7z</a> 
