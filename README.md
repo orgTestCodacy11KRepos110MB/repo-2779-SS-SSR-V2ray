@@ -465,10 +465,8 @@ v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新�
 
 <br>
 
-### 七、要饭集团
-
-#### 1）跑路云
-专线+BGP中转SS+V2ray机场。要饭集团的。手上多家机场，这家是他们家最大的，也是线路类似最多的。
+### 七、跑路云
+专线+BGP中转SS+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。
 圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
 nat、流量转发、独立线路都有。
 特殊节点比较全，阿里cen和腾讯AIA游戏加速挺不错，玩游戏的可以试试。
@@ -588,9 +586,9 @@ v2ray节点南方移动测速结果：
   ![跑路云v2测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluv2.png)
 
 
-#### 2）星梦数据
+### 八、星梦数据
 
-Trojan中继+IEPL机场。要饭集团的，手上很多家机场，常见的是跑路云和闪电。老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。有公益节点。
+Trojan中继+IEPL机场。实力大佬，手上很多家机场，老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。有公益节点。
 官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/0rE0AFw" target="_blank">https://dlj.tf/0rE0AFw</a> 
 
 
@@ -616,7 +614,7 @@ vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 <a href="https://honven.netlify.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
 <br>
 
-### 八、翼游
+### 九、翼游
 
 ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
 官网(如果打不开请切换为全局代理)：  <a href="https://dlj.tf/jb7tT7z" target="_blank">https://dlj.tf/jb7tT7z</a> 
