@@ -83,7 +83,7 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 如果打不开链接就是被墙了，可以先下载蓝灯或者使用免费SS/SSR节点；
 
 
-### 一、STC-SERVER
+### STC-SERVER
 
 IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联。
 官网(如果打不开请切换为全局代理)： https://dlj.tf/amqkVeF
@@ -149,7 +149,7 @@ Anycast：有
 
 <br>
 
-### 二、TAG
+### TAG
 IEPL专线+中转SSR,稳 。倍率是1和3，但真实流量是翻倍的，每15天/10天流量重置，15天重置就是流量*2；每10天重置就是流量乘3。
 大流量用户的选择。机场主在香港，机房网管。有自家app,操作简单，方便萌新使用。冷门节点非常多，同时也一直在增加冷门节点。客户端数目不够可以找开工单找老板给你加。老板也帮其它机场拉线路，需要私人线路也可以找这家老板，基本都能帮你买到。官网(如果打不开请切换为全局代理)：  <a href="https://dlj.tf/ZERWcvq" target="_blank">https://dlj.tf/ZERWcvq</a>
 
@@ -266,7 +266,7 @@ UDP：支持
 
 <br>
 
-###  三、少数派
+###  少数派
 
 ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/3umjh1b" target="_blank">https://bit.ly/3umjh1b</a>
 
@@ -320,7 +320,7 @@ UDP:支持
 
 <br>
 
-### 四、Blinkload
+### Blinkload
 
 ss协议全IEPL+部分AIA+BGP专线机场，香港老板，自有机房，总稳定性很好。年付起。Business套餐是最稳的套餐且无限速，有钱买这个肯定没错。[官网注册地址](https://dlj.tf/a88T4sC)
 
@@ -366,7 +366,7 @@ Pro套餐2021-05-29南方移动测速结果：
 
 
 
-### 五、AAEX
+### AAEX
 
 IELP/IPLC专线+CN2 中继,ss协议。老板也是IDC，机场服务器提供商。
 不限制设备数目。
@@ -425,7 +425,7 @@ IPv6:支持
 
 
 
-### 六、Just my sock
+### Just my sock
 
 搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
 相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
@@ -467,58 +467,7 @@ v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新�
 
 
 
-### 七、速蛙云
-
-ssr中转机场，后端负载均衡，稳定和速度都可以；机场主也是在国外。会员送奈飞、P站、X站高级会员，老司机比较喜欢，冲1元测试账号也送，按照福利社和稳定性来说整体性价比不错。官网: https://i.ok3.icu/gXm 
-
->游戏节点：GAME游戏加速节点为SSR协议，VIP2以上才有    
-流媒体解锁：奈飞、P站、X高级会员    
-节点国家与地区：香港、新加坡、日本、美国、台湾、韩国、欧洲、欧洲、俄罗斯、印度    
-老板肉身：马来西亚        
-开业时长：1年+
-入口ip数量 4                
-落地ip数量 23          
-客户端数目：3个+        
-
-套餐:
-* VIP1：月付：25 160G,3设备;  季付：64 160G/月，3设备；  年付：87/年,15G/月； 218/年，60G/月，不限设备；  218/年，200G/月，3设备； （无IPLC游戏线路）    
-* VIP2：月付：34 300G，5设备； 季付：94 333G/月，5设备； 年付：308/年,400G/月，5设备； 549/年,1024/月，3设备；999.00 /年,1536G/月，15设备 等（有IPLC游戏线路，建议VIP2起）。    
-
-
-<details>
-  <summary>VIP2节点具体入口与落地信息</summary>
-         入口
-        China Unknown City, China Mobile x3
-        China Xuchang, China Unicom Liaoning x1
-
-        落地
-        Australia Sydney, Amazon.com x1
-        Brazil São Paulo, Amazon.com x1
-        Hong Kong Central, Henan Anyun Network Technology Co. x1
-        Hong Kong Central, Microsoft Azure x4
-        Hong Kong Central, Netvigator x1
-        Hong Kong Unknown City, Aaex Network Technology Ltd x1
-        India Mumbai, Amazon.com x1
-        Italy Milan, Amazon.com x1
-        Japan Tokyo, Microsoft Azure x2
-        Japan Unknown City, NTT PC Communications x1
-        Latvia Riga, Intersect x1
-        Singapore Singapore, Digital Ocean x2
-        Singapore Singapore, Fdcservers x1
-        South Korea Incheon, Amazon.com x1
-        Taiwan New Taipei, Chunghwa Telecom x1
-        United States Los Angeles, DMIT x2
-        United States Unknown City, EGIHosting x1
-
-</details>
-
-ssr VIP1+VIP2节点 晚高峰南方移动测速结果，[最新测速图在频道@jichangtj](https://t.me/jichangtj)：
-  ![速蛙ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/suwa.png)
-
-  
-  
-
-### 八、跑路云
+### 跑路云
 专线+BGP中转SS+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。
 圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
 nat、流量转发、独立线路都有。
@@ -639,7 +588,7 @@ v2ray节点南方移动测速结果：
   ![跑路云v2测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluv2.png)
 
 
-### 九、星梦数据
+### 星梦数据
 
 Trojan中继+IEPL机场。实力大佬，手上很多家机场，老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。有公益节点。
 官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/0rE0AFw" target="_blank">https://dlj.tf/0rE0AFw</a> 
