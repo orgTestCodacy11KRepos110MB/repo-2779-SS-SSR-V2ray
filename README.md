@@ -83,71 +83,7 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 如果打不开链接就是被墙了，可以先下载蓝灯或者使用免费SS/SSR节点；
 
 
-### STC-SERVER
 
-IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联。
-官网(如果打不开请切换为全局代理)： https://dlj.tf/amqkVeF
-
-
-
->专线: 有   
-Anycast：有   
-流媒体解锁：有    
-节点国家与地区：香港、日本、新加坡、美国、台湾  
-老板肉身：香港   
-开业时长：1年+   
-入口ip数量 10   
-落地ip数量 32   
-直连节点数量：0   
-
-套餐:
-
-按量付费：0.8块/G
-
-套餐 | 线路 | 流量 | 月付价格 |客户端数目 
----- | ---  | --- | --- | --- 
-基础套餐 | BGP线路,线路38条 |每月100G流量，38块/月，2个在线客户端；每月200G流量，108块/季度，2个在线客户端；每月300G流量，205/半年，2个在线客户端；每月500G流量，385块/年，3个在线客户端 |38块起 | 2+
-进阶套餐 |  BGP线路,线路38+13条 |每月100G流量，48块/月，3个在线客户端；每月300G流量，136块/季度，3个在线客户端；每月400G流量，258/半年，3个在线客户端；每月600G流量：488块/年 ，4个在线客户端 |48块起 | 3+
-旗舰套餐 |  BGP线路+IPLC线路,线路38+13+7条 |每月100G流量，88块/月，4个在线客户端；每月400G流量，251块/季度，4个在线客户端；每月500G流量，475/半年，4个在线客户端；每月800G流量：898块/年 ，5个在线客户端 |88块起 | 4+
-企业套餐 |  BGP线路+IPLC线路,线路38+13+7+4条 |每月100G流量，108块/月，5个在线客户端；每月500G流量，308块/季度，5个在线客户端；每月600G流量，583/半年，5个在线客户端；每月900G流量：1100块/年 ，6个在线客户端 |108块起 | 5+
-
-<details>
-  <summary>具体入口和落地信息</summary>
-  
-    入口：
-     China Nanjing, China Unicom Liaoning*1
-     China Pudong, China Unicom Shanghai*1
-     China Shanghai, China Unicom Shanghai*1
-     China Suzhou, China Mobile*2
-     China Unknown City, CHINATELECOM JiangSu YangZhou IDC networkdescr: Ya*1
-     China Unknown City, China Mobile*2
-     China Unknown City, China Telecom Shanghai*2
-  
-
-    落地：
-    China Tianjin, SuperInternet ACCESS Pte*2
-    Hong Kong Central, China Mobile Hong Kong Broadband*1
-    Hong Kong Central, Hong Kong Broadband Network*2
-    Hong Kong Kowloon, Netvigator*5
-    Hong Kong Kwun Hang, China Mobile Hong Kong Broadband*1
-    Hong Kong Lai Chi Kok, Hong Kong Broadband Network*1
-    Hong Kong Sham Tseng, Netvigator*1
-    Hong Kong Tin Shui Wai, Netvigator*1
-    Hong Kong Tuen Mun, Netvigator*4
-    Japan Tokyo, Kirino LLC*3
-    Taiwan New Taipei, Chunghwa Telecom*5
-    Taiwan Tainan City, Chunghwa Telecom*4
-    United States Los Angeles, DMIT*1
-    United States Seattle, Kirino LLC*1
-
-   
-</details>
-
-   
-  ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.jpg)
-
-
-<br>
 
 ### TAG
 全IEPL专线SSR机场,稳 。倍率是1、2与10，但除季付及以上套餐真实流量是翻倍的，每15天/10天流量重置，15天重置就是流量 × 2；每10天重置就是流量乘3。大流量用户的选择。机场主在香港。有自家app,操作简单，方便萌新使用。冷门节点非常多，同时也一直在增加冷门节点。老板也帮其它机场拉线路，需要私人线路也可以找这家老板，基本都能帮你买到。官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/ZERWcvq" target="_blank">https://dlj.tf/ZERWcvq</a>
@@ -668,7 +604,7 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 <br>
 
 
-### WinnieCloud 
+### WinnieCloud（近期不行）
 
 机场主是机场面板[sspanel-umi](https://github.com/Anankke/SSPanel-Uim) 开发维护者之一anankke，
 （sspanel-umi是搭建机场的，各家机场用的网站基本都是那套，所以各家页面功能基本都一样 ）
@@ -758,7 +694,71 @@ UDP:支持
 <br>
 
 
+### STC-SERVER（暂停注册）
 
+IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联。
+官网(如果打不开请切换为全局代理)： https://dlj.tf/amqkVeF
+
+
+
+>专线: 有   
+Anycast：有   
+流媒体解锁：有    
+节点国家与地区：香港、日本、新加坡、美国、台湾  
+老板肉身：香港   
+开业时长：1年+   
+入口ip数量 10   
+落地ip数量 32   
+直连节点数量：0   
+
+套餐:
+
+按量付费：0.8块/G
+
+套餐 | 线路 | 流量 | 月付价格 |客户端数目 
+---- | ---  | --- | --- | --- 
+基础套餐 | BGP线路,线路38条 |每月100G流量，38块/月，2个在线客户端；每月200G流量，108块/季度，2个在线客户端；每月300G流量，205/半年，2个在线客户端；每月500G流量，385块/年，3个在线客户端 |38块起 | 2+
+进阶套餐 |  BGP线路,线路38+13条 |每月100G流量，48块/月，3个在线客户端；每月300G流量，136块/季度，3个在线客户端；每月400G流量，258/半年，3个在线客户端；每月600G流量：488块/年 ，4个在线客户端 |48块起 | 3+
+旗舰套餐 |  BGP线路+IPLC线路,线路38+13+7条 |每月100G流量，88块/月，4个在线客户端；每月400G流量，251块/季度，4个在线客户端；每月500G流量，475/半年，4个在线客户端；每月800G流量：898块/年 ，5个在线客户端 |88块起 | 4+
+企业套餐 |  BGP线路+IPLC线路,线路38+13+7+4条 |每月100G流量，108块/月，5个在线客户端；每月500G流量，308块/季度，5个在线客户端；每月600G流量，583/半年，5个在线客户端；每月900G流量：1100块/年 ，6个在线客户端 |108块起 | 5+
+
+<details>
+  <summary>具体入口和落地信息</summary>
+  
+    入口：
+     China Nanjing, China Unicom Liaoning*1
+     China Pudong, China Unicom Shanghai*1
+     China Shanghai, China Unicom Shanghai*1
+     China Suzhou, China Mobile*2
+     China Unknown City, CHINATELECOM JiangSu YangZhou IDC networkdescr: Ya*1
+     China Unknown City, China Mobile*2
+     China Unknown City, China Telecom Shanghai*2
+  
+
+    落地：
+    China Tianjin, SuperInternet ACCESS Pte*2
+    Hong Kong Central, China Mobile Hong Kong Broadband*1
+    Hong Kong Central, Hong Kong Broadband Network*2
+    Hong Kong Kowloon, Netvigator*5
+    Hong Kong Kwun Hang, China Mobile Hong Kong Broadband*1
+    Hong Kong Lai Chi Kok, Hong Kong Broadband Network*1
+    Hong Kong Sham Tseng, Netvigator*1
+    Hong Kong Tin Shui Wai, Netvigator*1
+    Hong Kong Tuen Mun, Netvigator*4
+    Japan Tokyo, Kirino LLC*3
+    Taiwan New Taipei, Chunghwa Telecom*5
+    Taiwan Tainan City, Chunghwa Telecom*4
+    United States Los Angeles, DMIT*1
+    United States Seattle, Kirino LLC*1
+
+   
+</details>
+
+   
+  ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.jpg)
+
+
+<br>
 
 
 <br>
