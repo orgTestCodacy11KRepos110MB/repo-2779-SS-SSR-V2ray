@@ -96,7 +96,7 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 入口：广州、上海。    
 UDP：支持    
 落地：以色列、印度、台湾、香港、新加坡、日本、澳门、越南、韩国、马来西亚、俄罗斯、德国、爱尔兰、法国、荷兰、英国、加拿大、美国、澳洲、阿根廷、印尼、土耳其、柬埔寨、泰国、菲律宾、瑞士、巴西、冰岛、烏克蘭、南非、智利等    
-开业时长：1年+   
+开业时长：2年+   
 入口ip数量 6   
 落地ip数量 100   
 客户端数目：10個 
@@ -203,7 +203,7 @@ UDP：支持
 
 ###  少数派
 
-ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/3umjh1b" target="_blank">https://bit.ly/3umjh1b</a>
+ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/3umjh1b" target="_blank">https://bit.ly/3umjh1b</a>
 
 
 >中转：有   
@@ -317,7 +317,8 @@ IELP/IPLC专线+CN2 中继,ss协议。老板也是IDC，机场服务器提供商
 原生节点：有   
 节点国家与地区：多   
 入口：华东，华南。   
-落地：香港、台湾、日本、美国、德国、法国、英国、瑞士、爱尔兰、俄罗斯、加拿大、新加坡、澳大利亚       
+落地：香港、台湾、日本、美国、德国、法国、英国、瑞士、爱尔兰、俄罗斯、加拿大、新加坡、澳大利亚
+开业时长：4年+    
 入口ip数量 3   
 落地ip数量 42   
 直连节点数量：0   
@@ -360,50 +361,11 @@ IPv6:支持
 
 
 
-### Just my sock
-
-搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
-相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
-很适合对安全性的重视程度较大的和担心私人机场跑路的用户。   
-支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
-官网注册地址,需要代理或全局模式访问 :  <a href="https://bit.ly/3weANGp" target="_blank">https://bit.ly/3weANGp</a>
-
-套餐:
-
-
-IPLC香港：    
-v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新出的套餐，搬瓦工还是懂得大家需要什么。   
-不一定有货，挺抢手的，已入手观察中，产品购买链接： <a href="https://bit.ly/39zLsSe" target="_blank">https://bit.ly/39zLsSe</a>
-
-
-
-日本节点：  
-100G流量，29.99美元/月,3个设备。限速100Mbps  
-500G流量，135.99美元/月,5个设备.限速200Mbps  
-
-香港节点：  
-100流量，34.99美元/月,3个设备。限速100Mbps  
-500G流量，149.99美元/月,5个设备.限速500Mbps  
-
-
-洛杉矶节点（不建议，较慢）：  
-500G流量，5.88美元/月,5个设备。限速2.5 Gbps  
-1T流量，9.88美元/月,不限设备数。限速5 Gbps  
-5T流量，48.99美元/月,不限设备数。限速5 Gbps  
-
-肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">https://bit.ly/3sDxUwC</a> 
-
-  JMS IPLC测速图
-
-  ![JMS IPLC测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
-        
-
-<br>
 
 
 
 ### 跑路云
-专线+BGP中转SS+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。
+专线+BGP中转SS+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。
 圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
 nat、流量转发、独立线路都有。
 特殊节点比较全，阿里cen和腾讯AIA游戏加速挺不错，玩游戏的可以试试。
@@ -421,8 +383,8 @@ nat、流量转发、独立线路都有。
 客户端数目：2个    
 
 套餐:
-* VIP2：8块/月,50G,只有V2ray协议； 142/年,128GB流量/月。（无游戏线路）
-* VIP3：标准12.90块/月,增量90G； 19.90块/月,200G； 年付232.9年,288GB流量/月； SS+V2ray协议（建议这个起）。
+* VIP2：8块/月,50G,只有V2ray协议； 142/年,128GB流量/月。（别买v2等级的套餐!!!）
+* VIP3：标准12.90块/月,增量90G； 19.90块/月,200G； 年付232.9年,288GB流量/月； SS+V2ray协议（建议这个起！）。
 * VIP4：标准32.90块/月，350G； 增量41.90块/月,450G；年 付345.9/年,428GB流量/月； SS+V2ray协议+BGP专有路线（最好买这个套餐）。
 
 
@@ -522,36 +484,47 @@ v2ray节点南方移动测速结果：
 
   ![跑路云v2测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluv2.png)
 
+### Just my sock
 
-### 星梦数据
+搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
+相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
+很适合对安全性的重视程度较大的和担心私人机场跑路的用户。   
+支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
+官网注册地址,需要代理或全局模式访问 :  <a href="https://bit.ly/3weANGp" target="_blank">https://bit.ly/3weANGp</a>
 
-Trojan中继+IEPL机场。实力大佬，手上很多家机场，老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。有公益节点。
-官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/0rE0AFw" target="_blank">https://dlj.tf/0rE0AFw</a> 
-
-
->中继：有     
-原生节点：有     
-落地：美国、台湾、新加坡、日本、香港、韩国、澳门、马来西亚、土耳其、澳洲、菲律宾、冰岛、德国     
-节点数目：55+     
-老板肉身：墙外     
+套餐:
 
 
-套餐：
+Just My Socks IPLC HK 100 ** EARLY ACCESS ，IPLC香港：    
+v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新出的套餐，搬瓦工还是懂得大家需要什么。   
+不一定有货，挺抢手的，已入手观察中，产品购买链接： <a href="https://bit.ly/39zLsSe" target="_blank">https://bit.ly/39zLsSe</a>
 
-套餐 | 线路 | 流量 | 价格 |客户端数目 
----- | ---  | --- | --- | --- 
-vip1 | 直连 |50G/月 |5块/月 | 2，限速3M/s
-vip2 | 直连+中转| 200G/月 |18块/月 | 3
-vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
+Just My Socks Hong Kong  香港节点： 
+100流量，34.99美元/月,3个设备。限速100Mbps  
+500G流量，149.99美元/月,5个设备.限速500Mbps  
 
-星梦数据测速图，最新测速图更新在频道：https://t.me/jichangtj:
- ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xingmeng.png)
+
+Just My Socks Tokyo   日本节点：  
+100G流量，29.99美元/月,3个设备。限速100Mbps  
+500G流量，135.99美元/月,5个设备.限速200Mbps  
+
+
+Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：  
+500G流量，5.88美元/月,5个设备。限速2.5 Gbps  
+1T流量，9.88美元/月,不限设备数。限速5 Gbps  
+5T流量，48.99美元/月,不限设备数。限速5 Gbps  
+
+肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">https://bit.ly/3sDxUwC</a> 
+
+  JMS IPLC测速图
+
+  ![JMS IPLC测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
+        
 
 <br>
-<a href="https://honven.netlify.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
-<br>
 
-### 十、翼游
+
+### 翼游
 
 ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
 官网(如果打不开请切换为全局代理)：  <a href="https://dlj.tf/jb7tT7z" target="_blank">https://dlj.tf/jb7tT7z</a> 
@@ -603,94 +576,32 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 
 <br>
 
+### 星梦数据
 
-### WinnieCloud（近期不行）
-
-机场主是机场面板[sspanel-umi](https://github.com/Anankke/SSPanel-Uim) 开发维护者之一anankke，
-（sspanel-umi是搭建机场的，各家机场用的网站基本都是那套，所以各家页面功能基本都一样 ）
-对后端进行了大量改进，增强了抗干扰和抗重组能力。直连线路有特殊的处理，几个月一个都没封，效果也不错。（也说明我们自建老被封ip是方法不对）
-但是仍然建议买有中转的套餐。即V3套餐以上。v1 v2直连。
-
-特点是：无任何访问记录或者不合理审计，不屏蔽网站。绝大部分机场都有审计，如果你不喜欢有审计的，那这个适合你。有些线路速度一般，如果需要随便选个速度都好的，买上面的其它机场。
-
-有6条0.01倍率的线路
-
-官网(如果打不开请切换为全局代理)：  <a href="https://dlj.tf/1LXwsyM" target="_blank"></a> 
+Trojan中继+IEPL机场。实力大佬，手上很多家机场，老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。但稳定性比不上上面的，适合想体验trojan的。
+官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/0rE0AFw" target="_blank">https://dlj.tf/0rE0AFw</a> 
 
 
->专线:有 
-直连：有  
-中转：有  
-原生节点：有  
-中继入口：移动/电信  
-落地：香港、日本、俄罗斯、新加坡、韩国、台湾、美国、德国、荷兰  
-UDP:支持
-机场主肉身：海外  
-开业时长：半年+
-入口ip数量 33        
-落地ip数量 32    
-直连节点数量：27    
+>中继：有     
+原生节点：有     
+落地：美国、台湾、新加坡、日本、香港、韩国、澳门、马来西亚、土耳其、澳洲、菲律宾、冰岛、德国     
+节点数目：55+     
+老板肉身：墙外     
 
-套餐:
+
+套餐：
 
 套餐 | 线路 | 流量 | 价格 |客户端数目 
 ---- | ---  | --- | --- | --- 
-红铜巨慢套餐V | 直连线路 |10G/每月 |8块/月 | 2
-青铜套餐V2 | 直连线路，+AGA +CN2 GIA线路,节点数目40+ |128G/每月 |18块/月 | 5
-白银套餐V3 | V2上再+15条移动和电信中转线路， （建议买这个套餐以上） |128G/每月 |28块/月 | 10
-黄金套餐V3 | V2上再+15条移动和电信中转线路  |200G/每年 |38块/月 | 不限制
-铂金套餐V4 | V3上再+专线 ；最好上专线 |658G/月 |58块/月 | 不限制
-钻石套餐V5 | V4+更多专线 |1688G/每月 |168块/月 | 不限制
-年付备胎套餐V3 | V3线路 |50G/每年 |68块/年 | 3
-年付塑料套餐高等级低流量V5 | 所有线路 |50G/每月 |178块/年 | 不限制
+vip1 | 直连 |50G/月 |5块/月 | 2，限速3M/s
+vip2 | 直连+中转| 200G/月 |18块/月 | 3
+vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 
+星梦数据测速图，最新测速图更新在频道：https://t.me/jichangtj:
+ ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xingmeng.png)
 
-
-<details>
-  <summary>WinnieCloud具体入口和落地信息</summary>
-
-    入口
-    China Changzhou, China Unicom Liaoning*1
-    China Foshan, Huawei Clouds*1
-    China Shenzhen, China Mobile*1
-    China Unknown City, China Mobile*1
-    China Unknown City, China Telecom Guangdong*1
-    China Unknown City, WeiYi Network Technology Co.*2
-
-
-    落地
-    China Foshan, Huawei Clouds*1
-    Hong Kong Central, DMIT*1
-    Hong Kong Central, Hong Kong Broadband Network*1
-    Hong Kong Central, Icidc Network*1
-    Hong Kong Central, MOACK.Co.LTD*1
-    Hong Kong Central, Tencent cloud computing*1
-    Hong Kong Hung Hom, Netvigator*1
-    Hong Kong Kwun Hang, Hong Kong Broadband Network*1
-    Hong Kong Tuen Mun, Netvigator*1
-    Hong Kong Unknown City, BGPNET Global*1
-    Japan Tokyo, Aaex Network Technology Ltd*1
-    Japan Tokyo, Amazon.com*1
-    Japan Tokyo, Linode*1
-    Russia St Petersburg, Misaka Network*2
-    Russia St Petersburg, Misaka Network, Inc.*1
-    Singapore Singapore, Tencent cloud computing*1
-    Singapore Unknown City, BGPNET Global*1
-    South Africa Unknown City, Cnservers LLC*1
-    South Korea Incheon, Amazon.com*1
-    Taiwan Taoyuan District, Chunghwa Telecom*1
-    Taiwan Unknown City, Chunghwa Telecom*1
-    United States Las Vegas, FranTech Solutions*2
-    United States Los Angeles, Cnservers LLC*1
-    United States Los Angeles, DMIT*2
-    United States Reston, Misaka Network, Inc.*1
-    United States San Jose, Olink-cloud*1
-    United States Santa Clara, Tencent cloud computing*1
-    United States Unknown City, CLOUDCONE, LLC*1
-    United States Unknown City, QuadraNet*1
-       
- 
-</details>
+<br>
+<a href="https://honven.netlify.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
 <br>
 
 
