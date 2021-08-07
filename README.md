@@ -302,7 +302,7 @@ UDP:支持
 </details>
   
   最新测速图更新在频道：https://t.me/jichangtj
- ![少数派测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/ssp.jpg)
+ ![少数派测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/shaoshupai.png)
   
  
 
@@ -645,7 +645,7 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 </details>
 
   
-  ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyo.png)
+  ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyou.png)
 
 <br>
 
