@@ -203,6 +203,55 @@ UDP：支持
 
 <br>
 
+### Catnet
+
+ss协议华为云CC专线机场，BGP接入Cloud Connect，华为云和AIA体验差不多，都挺好。梦迪家分站，比主站人少。官网：https://dlj.tf/KUphrLw
+
+>专线: 有   
+流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
+节点国家与地区：俄罗斯、印度、印度尼西亚、台湾、、德国、意大利、新加坡、香港、日本、美国、 荷兰、菲律宾、越南   
+开业时长：1年+   
+入口ip数量 2   
+落地ip数量 44   
+协议：ss   
+专门客服：有   
+
+
+套餐:
+* Small: 20/月, 45/季度，每月80G   
+* Meduim：50/月, 135/季, 每月300G   
+
+<details>
+  <summary>具体入口与落地信息 shadowsocks流媒体解锁范围</summary>
+   入口：
+   China Unknown City, Huawei Cloud Service data center*2
+
+
+    落地：
+    Germany Frankfurt am Main, Choopa, LLC*1
+    Hong Kong Central, Kirino LLC*8
+    Hong Kong Kowloon, Netvigator*2
+    India Bengaluru, Digital Ocean*1
+    Indonesia Unknown City, APIK Media Networks*1
+    Italy Milan, Seflow S.N.C. Di Marco Brame' & C.*1
+    Japan Tokyo, Kirino LLC*8
+    Netherlands Unknown City, Chociz Services*1
+    Philippines Manila, Scloud Pte*1
+    Russia St Petersburg, Misaka Network, Inc.*1
+    Singapore Singapore, HIVELOCITY*1
+    Singapore Singapore, Kirino LLC*7
+    South Korea Seoul, Choopa, LLC*1
+    Taiwan Unknown City, Kirino LLC*3
+    Thailand Bangkok, Scloud Pte*1
+    United States Seattle, Kirino LLC*5
+    Vietnam Unknown City, FPT Telecom*1
+
+</details>
+
+   ![catnet测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/catnet.png)
+  
+  
+  
 ###  少数派
 
 ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/3umjh1b" target="_blank">https://bit.ly/3umjh1b</a>
