@@ -254,7 +254,7 @@ ss协议华为云CC专线机场，BGP接入Cloud Connect，华为云和AIA体验
   
 ###  少数派
 
-ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/3umjh1b" target="_blank">https://bit.ly/3umjh1b</a>
+ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/IFLGEVa" target="_blank">https://bit.ly/IFLGEVa</a>
 
 
 >中转：有   
