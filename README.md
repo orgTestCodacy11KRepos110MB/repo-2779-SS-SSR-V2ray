@@ -215,7 +215,7 @@ ss协议华为云CC专线机场，BGP接入Cloud Connect，华为云和AIA体验
 落地ip数量 44   
 协议：ss   
 专门客服：有   
-TG频道： t.me/Catnet_CN      
+TG频道： [https://t.m/Catnet_CN](https://t.me/Catnet_CN)      
 
 
 套餐:
@@ -390,7 +390,7 @@ UDP：支持
 流媒体解锁：Netflix、youtube Premium、HBO Max 、 DAZN、PCR jP    
 协议：SSR + SS    
 专门客服：有       
-TG频道： t.me/thessrchannel       
+TG频道： [https://t.me/thessrchannel](https://t.me/thessrchannel)       
 
 套餐：
 
@@ -448,7 +448,7 @@ IELP/IPLC专线+CN2 中继,ss协议。老板也是IDC，机场服务器提供商
 IPv6:支持   
 协议：SSR + SS   
 专门客服：有   
-TG频道： t.me/AAEX_Channel      
+TG频道： [https://t.me/AAEX_Channel](https://t.me/AAEX_Channel)      
 
 
 套餐：
@@ -510,7 +510,7 @@ nat、流量转发、独立线路都有。
 客户端数目：2个    
 协议：SSR + V2ray(建议ssr)    
 专门客服：有    
-TG频道： t.me/paoluztz    
+TG频道： [https://t.me/paoluztz](https://t.me/paoluztz)    
 
 
 套餐:
@@ -733,7 +733,7 @@ Trojan中继+IEPL机场。实力大佬，手上很多家机场，老板同时也
 老板肉身：墙外   
 协议：Trojan    
 专门客服：有   
-TG频道：t.me/stardream_noc      
+TG频道：[https://t.me/stardream_noc](https://t.me/stardream_noc)      
 
 套餐：
 
