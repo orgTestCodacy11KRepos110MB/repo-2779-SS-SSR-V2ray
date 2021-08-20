@@ -1,4 +1,4 @@
-如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：20210813
+如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：20210820
 
 tag:机场推荐,付费机场,专线机场,SS机场,SSR机场,V2ray机场,trojan机场,科学上网
 
@@ -13,7 +13,7 @@ TelegramT机场观察频道：https://t.me/jichangtj   掌握最新机场优惠�
 # 零、如何挑选机场？(个人观点不一定对)
 
 1.在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。尽量选择有AIA、ILPC国际专线和中转、BGP中转的，比较稳。 IPLC是入口和出口中间那小段不过墙，但是从你家到iplc入口，以及iplc出口到落地机，以及落地机到目标服务器仍然是在公网，公网网络抖动是很频繁的。腾讯云Anycast（AIA）则多入口BGP入口，就近接入腾讯云入口，然后走腾讯云内网进行传输到全球各地。目前机场届最高端的线路了，稳定性高延迟低，除了贵没啥缺点。拿两会期间某家机场公告举个栗子：“经证实，墙是持续性的，通俗易懂来讲他每15分钟墙一波，目前受影响的为所有直连ssr节点，v2ray直连持续性断流，目前暂停修复所有直连线路，待两会结束后再进行修复，V1请尽量使用IPLC线路，其他套餐的会员请使用中转线路。”
-看你使用的网络运营商: 电信和联通一般都不错。移动，教育网和中国铁通最好买BGP三网中继线路，体验才好。
+看你使用的网络运营商: 电信和联通一般都不错。移动，教育网和中国铁通最好买BGP三网中继线路，体验才好。目前主流的是利用公有云不同区域的VPC之间内网互通机制，组建的内网。最经典的就是阿里云的经典网络内网，可惜已经没了。目前公有云的VPC内网互联主要有两种类型：第一个是点对点:（如阿里云的高速通道, UCloud的UDPN） 和 多点网络互通:（如阿里云的CEN, 腾讯云的CCN, 华为云的CC, UCloud的UGN,Zenlayer的CN）。专线另一主流就是腾讯AIA代表的网络加速服务。多数是利用公有云厂商地域上广泛分布的服务器，结合Anycast技术，将网络流量就近导入公有云服务器,然后走公有云自有全球骨干网(专线/内网/MPLS)，到达目标服务器。一部分是两个地区端对端的专线（比如花卷莞港/苏日专线）。
 
 
 2.尽量买开了比较久的大机场，因为跑路概率小，小机场可能便宜，但是分分钟跑路，跑路了就啥也没有了，买过的都懂。大机场比较有钱买好的线路和加带宽，小机场很可能没钱运营下去。机场主最好是在境外的。别买QQ机场，这不是自爆吗？    
@@ -198,8 +198,12 @@ UDP：支持
   
 </details>
 
+关于AIA（腾讯云 Anycast公网加速 AIA）：
+官方简介：Anycast 公网加速（Anycast Internet Acceleration，AIA）是一个覆盖多地的动态加速网络，可以大幅提升您业务的公网访问体验。不同于其他应用层加速服务，AIA 能实现 IP 传输的质量优化和多入口就近接入，减少网络传输的抖动、丢包，最终提升云上应用的服务质量，扩大服务范围，精简后端部署。之前TG两大机场rixcloud yoyu/w8v都使用AIA线路，获得一致好评。21年后越来越多机场用上了AIA节点，很多用来当作游戏节点。多入口BGP入口，就近接入腾讯云入口，然后走腾讯云内网进行传输到全球各地。目前机场届最高端的线路了，稳定性高延迟低，除了贵没啥缺点。
    
   ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
+  
+  历史测速： <a href="https://honven.netlify.app/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>
 
 <br>
 
@@ -250,9 +254,14 @@ TG频道： [https://t.m/Catnet_CN](https://t.me/Catnet_CN)
 
 </details>
 
+关于华为云（云连接CC）
+官方简介：云连接（Cloud Connect）能够提供一种快速构建跨区域VPC及云上多VPC与云下多数据中心之间的高速、优质、稳定的网络能力，帮助用户打造一张具有企业级规模和通信能力的全球云上网络。
+华为云线路跟阿里云，腾讯云相比少了些POP，亚太地区只有香港，曼谷，新加坡，美国没POP，但是整体体验也不错。
+
    ![catnet测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/catnet.png)
   
- 
+   历史测速： <a href="https://honven.netlify.app/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
+
  
 ### STC-SERVER
 
@@ -273,7 +282,7 @@ Anycast：有
 
 套餐:
 
-按量付费：0.8块/G
+按量付费：0.8块/G,不用不花钱.
 
 套餐 | 线路 | 流量 | 月付价格 |客户端数目 
 ---- | ---  | --- | --- | --- 
@@ -317,6 +326,7 @@ Anycast：有
    
   ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.jpg)
 
+   历史测速： <a href="https://honven.netlify.app/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>
 
 <br>
   
@@ -371,14 +381,16 @@ UDP:支持
   
   最新测速图更新在频道：https://t.me/jichangtj
  ![少数派测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/shaoshupai.png)
-  
+ 
+ 历史测速： <a href="https://honven.netlify.app/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>
+
  
 
 <br>
 
 ### Blinkload
 
-ss协议全IEPL+部分AIA+BGP专线机场，香港老板，自有机房，总稳定性很好。年付起。Business套餐是最稳的套餐且无限速，有钱买这个肯定没错。[官网注册地址](https://dlj.tf/a88T4sC)
+ss协议全IEPL+部分AIA+BGP专线机场，香港老板，自有机房，总稳定性很好。年付起。Business套餐有AIA,是最稳的套餐且无限速，有钱买这个肯定没错。[官网注册地址](https://dlj.tf/a88T4sC)
 
 
 >专线: 有    
@@ -422,7 +434,7 @@ Pro套餐2021-05-29南方移动测速结果：
 
  ![Blinkload测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/blinkload.png)
 
-
+  历史测速： <a href="https://honven.netlify.app/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
 
 ### AAEX
 
@@ -486,7 +498,7 @@ TG频道： [https://t.me/AAEX_Channel](https://t.me/AAEX_Channel)
   
  ![AAEX测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/aaex.png)
 
-
+  历史测速： <a href="https://honven.netlify.app/aaex%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">aaex历史测速结果整合</a>
 
 
 
@@ -607,6 +619,10 @@ TG频道： [https://t.me/paoluztz](https://t.me/paoluztz)
    
 </details>
 
+跑路云这家BGP节点为安畅（云联网CloudLink）线路：
+官方简介：云联网（CloudLink）基于SDN和高质量传输网络构建的云交换平台，实现多服务商（公有云、ISP、IDC）与用户间的快速互联互通，为企业提供安全、中立、开放的网络连接服务及灵活搭建IT基础架构的能力。
+安畅家的CN2机房很有名。
+
 ss节点南方移动测速结果：
 
   ![跑路云ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
@@ -614,6 +630,10 @@ ss节点南方移动测速结果：
 v2ray节点南方移动测速结果：
 
   ![跑路云v2测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluv2.png)
+
+  历史测速： <a href="https://honven.netlify.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
+
+
 
 ### Just my sock
 
@@ -717,12 +737,14 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 
   
   ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyou.png)
+  
+  历史测速： <a href="https://honven.netlify.app/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
 
 <br>
 
 ### 星梦数据
 
-Trojan中继+IEPL机场。实力大佬，手上很多家机场，老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。但稳定性比不上上面的，适合想体验trojan的。
+Trojan中继+IEPL机场。IEPL节点为内网线路（云联网（CloudLink）.实力大佬，手上很多家机场，老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。但稳定性比不上上面的，适合想体验trojan的。
 官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/D4xNx5Z" target="_blank">https://dlj.tf/D4xNx5Z</a> 
 
 
@@ -745,6 +767,9 @@ vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
 
 星梦数据测速图，最新测速图更新在频道：https://t.me/jichangtj:
  ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xingmeng.png)
+ 
+   历史测速： <a href="https://honven.netlify.app/%E6%98%9F%E6%A2%A6%E6%95%B0%E6%8D%AE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">星梦数据历史测速结果整合</a>
+
 
 <br>
 <a href="https://honven.netlify.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
