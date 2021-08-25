@@ -1,4 +1,4 @@
-如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：20210820
+如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：20210825
 
 tag:机场推荐,付费机场,专线机场,SS机场,SSR机场,V2ray机场,trojan机场,科学上网
 
@@ -346,7 +346,7 @@ UDP: 部分支持Full Cone
 
 ###  少数派
 
-ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/IFLGEVa" target="_blank">https://bit.ly/IFLGEVa</a>
+ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/ixO4V4b" target="_blank">https://bit.ly/ixO4V4b</a>
 
 
 >中转：有   
