@@ -12,7 +12,8 @@ TelegramT机场观察频道：https://t.me/jichangtj   掌握最新机场优惠�
 
 # 零、如何挑选机场？(个人观点不一定对)
 
-1.在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。尽量选择有AIA、ILPC国际专线和中转、BGP中转的，比较稳。 IPLC是入口和出口中间那小段不过墙，但是从你家到iplc入口，以及iplc出口到落地机，以及落地机到目标服务器仍然是在公网，公网网络抖动是很频繁的。腾讯云Anycast（AIA）则多入口BGP入口，就近接入腾讯云入口，然后走腾讯云内网进行传输到全球各地。目前机场届最高端的线路了，稳定性高延迟低，除了贵没啥缺点。拿两会期间某家机场公告举个栗子：“经证实，墙是持续性的，通俗易懂来讲他每15分钟墙一波，目前受影响的为所有直连ssr节点，v2ray直连持续性断流，目前暂停修复所有直连线路，待两会结束后再进行修复，V1请尽量使用IPLC线路，其他套餐的会员请使用中转线路。”
+1.机场主要就是看线路。总体线路质量：内网的阿里云/AIA/CC>IPLC>IELP>CN2>普通公网普通中转。在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。尽量选择有AIA、CC、ILPC国际专线和中转、BGP中转的，比较稳。 IPLC是入口和出口中间那小段不过墙，但是从你家到iplc入口，以及iplc出口到落地机，以及落地机到目标服务器仍然是在公网，公网网络抖动是很频繁的。腾讯云Anycast（AIA）则多入口BGP入口，就近接入腾讯云入口，然后走腾讯云内网进行传输到全球各地。目前机场届最高端的线路了，稳定性高延迟低，除了贵没啥缺点。
+
 看你使用的网络运营商: 电信和联通一般都不错。移动，教育网和中国铁通最好买BGP三网中继线路，体验才好。目前主流的是利用公有云不同区域的VPC之间内网互通机制，组建的内网。最经典的就是阿里云的经典网络内网，可惜已经没了。目前公有云的VPC内网互联主要有两种类型：第一个是点对点:（如阿里云的高速通道, UCloud的UDPN） 和 多点网络互通:（如阿里云的CEN, 腾讯云的CCN, 华为云的CC, UCloud的UGN,Zenlayer的CN）。专线另一主流就是腾讯AIA代表的网络加速服务。多数是利用公有云厂商地域上广泛分布的服务器，结合Anycast技术，将网络流量就近导入公有云服务器,然后走公有云自有全球骨干网(专线/内网/MPLS)，到达目标服务器。一部分是两个地区端对端的专线（比如花卷莞港/苏日专线）。
 
 
@@ -81,7 +82,6 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 
 
 如果打不开链接就是被墙了，可以先下载蓝灯或者使用免费SS/SSR节点；
-
 
 
 
@@ -345,6 +345,143 @@ UDP: 部分支持Full Cone
   
   ------
 
+### 跑路云
+专线+BGP中转SS+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。STANDARD套餐主打公网中转（DRL节点），PREMIUM套餐主打安畅专线（BGP节点）并且PREMIUM套餐支持90％SLA。总接入IEPL带宽已达1.6Gpbs。
+圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
+nat、流量转发、独立线路都有。
+特殊节点比较全，阿里cen和腾讯AIA游戏加速挺不错，玩游戏的可以试试。
+官网(如果打不开请切换为全局代理)： [https://dlj.tf/CmeG4ih](https://dlj.tf/CmeG4ih)
+
+>专线: 有    
+免费公益节点：4条直连线路    
+游戏节点：GAME游戏加速节点为SSR协议，VIP3以上才有SSR    
+流媒体解锁：Netflix、youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP     
+节点国家与地区：香港、日本、新加坡、美国、台湾、马来西亚、韩国、印度尼西亚、澳门、以色列、俄罗斯、冰岛、加拿大、印度、土耳其、巴西、德国、法国、澳大利亚、瑞士、英国、菲律宾、阿根廷    
+老板肉身：境外     
+开业时长：1年+     
+UDP：支持     
+入口ip数量 8        
+落地ip数量 58    
+客户端数目：2个    
+协议：SSR + V2ray(建议ssr)    
+专门客服：有    
+TG频道： [https://t.me/paoluztz](https://t.me/paoluztz)    
+奈飞Netflix：部分线路可看非自制剧      
+
+
+套餐:
+* VIP2：8块/月,50G,只有V2ray协议； 142/年,128GB流量/月。（别买v2等级的套餐!!!）
+* VIP3：标准12.90块/月,增量90G； 19.90块/月,200G； 年付232.9年,288GB流量/月； SS+V2ray协议（建议这个起！）。
+* VIP4：标准32.90块/月，350G； 增量41.90块/月,450G；年 付345.9/年,428GB流量/月； SS+V2ray协议+BGP专有路线（最好买这个套餐）。
+
+
+<details>
+  <summary>具体入口与落地信息 shadowsocks流媒体解锁范围</summary>
+  
+     入口：
+      China Beijing, Beijing Guanghuan Xinwang Digital× 1
+      China Nanjing, China Unicom Liaoning× 1
+      China Ningbo, China Mobile× 1
+      China Unknown City, China Mobile× 6
+      China Unknown City, China Mobile Guangdong× 1
+      China Unknown City, China Telecom jiangsu province backbone× 1
+      China Unknown City, China Unicom Liaoning× 1
+      South Africa Unknown City, Cnservers LLC× 2
+      Taiwan New Taipei, Chunghwa Telecom× 7
+      Taiwan Xindian, Chunghwa Telecom× 1
+
+
+    落地：
+    Argentina Buenos Aires, T-Wireless× 1
+    Australia Unknown City, Network Presence× 1
+    Belgium Dessel, iFog GmbH× 1
+    Brazil Campinas, Microsoft Azure× 1
+    Canada Unknown City, OVH SAS× 1
+    China Tianjin, SuperInternet ACCESS Pte× 1
+    France Unknown City, VIRTUA SYSTEMS× 1
+    Germany Unknown City, Accelerated IT Services GmbH× 1
+    Hong Kong Central, China Mobile Hong Kong Broadband× 1
+    Hong Kong Central, Scloud Pte× 1
+    Hong Kong Shatin, Tianhai InfoTech× 1
+    Hong Kong Tsimshatsui, Netvigator× 3
+    Hong Kong Unknown City, Amazon.com× 1
+    Hong Kong Unknown City, DMIT× 1
+    Hong Kong Unknown City, HGC Broadband× 8
+    Iceland Unknown City, 1984 ehf× 1
+    India Mumbai, Linode× 1
+    Indonesia Unknown City, PT Cloud Hosting Indonesia× 1
+    Israel Tel Aviv, O.m.c. Computers & Communications Ltd× 1
+    Japan Chiyoda-ku, So-net× 1
+    Japan Heiwajima, Choopa, LLC× 3
+    Japan Tokyo, GMO GlobalSign Holdings K.K.× 1
+    Japan Tokyo, Linode× 2
+    Japan Tokyo, OSOA Corporation., LTD× 2
+    Japan Tokyo, Oracle Cloud× 2
+    Japan Tokyo, SAKURA Internet× 1
+    Japan Unknown City, SAKURA Internet× 1
+    Macao Macao, MTel SAR× 1
+    Malaysia Kamunting, TM Net× 1
+    Philippines Unknown City, Eastern Communications× 1
+    Russia Novosibirsk, Adman LLC× 1
+    Russia St Petersburg, Misaka Network, Inc.× 1
+    Russia Unknown City, Adman LLC× 1
+    Russia Unknown City, LLC Baxet× 1
+    Singapore Singapore, DigitalOcean× 2
+    Singapore Singapore, Kirino LLC× 1
+    Singapore Singapore, Linode× 2
+    South Africa Unknown City, Cnservers LLC× 3
+    South Korea Seoul, Oracle Cloud× 2
+    Switzerland Unknown City, FSIT AG× 1
+    Taiwan New Taipei, Chunghwa Telecom× 14
+    Taiwan Xindian, Chunghwa Telecom× 1
+    Turkey Istanbul, Hostigger INC.× 1
+    United Kingdom London, Digital Ocean× 1
+    United States Fremont, Linode× 1
+    United States Los Angeles, DediPath× 6
+    United States Reston, Misaka Network, Inc.× 1
+    United States Seattle, Kirino LLC× 4
+    Vietnam Unknown City, FPT Telecom Company× 1
+
+
+    ----------shadowsocks流媒体解锁范围------------
+    香港：Netflix、TVB、HBO GO、Fox+、Bilibili 港澳台、Viu
+
+    日本：Netflix、Pixiv、Niconico
+    日本(带Ex)除了日本解锁的内容以外额外解锁 Happyon、AbemaTV、DMM、DAZN、TVer、大部分日本手游
+
+    台湾：Netflix、Bilibili 港澳台、動畫瘋、四季線上影視、Line TV
+
+    美国：Netflix、Hulu、HBO、Amazon Video、Disney Now、Disney+
+    美国(带Ex)：除了上条美国解锁的内容以外额外解锁 Discovery+
+
+    英国：Netflix、BBC、Channel 4
+    新加坡、马来西亚：Netflix、Fox+、Amazon Video 
+    瑞士、冰岛、德国、澳门等节点 默认支持Netflix
+
+    带Y标签节点: 不支持流媒体
+
+   
+</details>
+
+跑路云这家BGP节点为安畅（云联网CloudLink）线路：
+官方简介：云联网（CloudLink）基于SDN和高质量传输网络构建的云交换平台，实现多服务商（公有云、ISP、IDC）与用户间的快速互联互通，为企业提供安全、中立、开放的网络连接服务及灵活搭建IT基础架构的能力。
+安畅家的CN2机房很有名。
+
+ss节点南方移动测速结果：
+
+  ![跑路云ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
+
+v2ray节点南方移动测速结果：
+
+  ![跑路云v2测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluv2.png)
+
+  历史测速： <a href="https://honven.netlify.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
+  
+<br>
+
+------
+
+
 ###  少数派
 
 ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/ixO4V4b" target="_blank">https://bit.ly/ixO4V4b</a>
@@ -535,142 +672,6 @@ TG频道： [https://t.me/AAEX_Channel](https://t.me/AAEX_Channel)
 
 ------
 
-
-### 跑路云
-专线+BGP中转SS+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。
-圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
-nat、流量转发、独立线路都有。
-特殊节点比较全，阿里cen和腾讯AIA游戏加速挺不错，玩游戏的可以试试。
-官网(如果打不开请切换为全局代理)： [https://dlj.tf/CmeG4ih](https://dlj.tf/CmeG4ih)
-
->专线: 有    
-免费公益节点：4条直连线路    
-游戏节点：GAME游戏加速节点为SSR协议，VIP3以上才有SSR    
-流媒体解锁：Netflix、youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP     
-节点国家与地区：香港、日本、新加坡、美国、台湾、马来西亚、韩国、印度尼西亚、澳门、以色列、俄罗斯、冰岛、加拿大、印度、土耳其、巴西、德国、法国、澳大利亚、瑞士、英国、菲律宾、阿根廷    
-老板肉身：境外     
-开业时长：1年+     
-UDP：支持     
-入口ip数量 8        
-落地ip数量 58    
-客户端数目：2个    
-协议：SSR + V2ray(建议ssr)    
-专门客服：有    
-TG频道： [https://t.me/paoluztz](https://t.me/paoluztz)    
-奈飞Netflix：部分线路可看非自制剧      
-
-
-套餐:
-* VIP2：8块/月,50G,只有V2ray协议； 142/年,128GB流量/月。（别买v2等级的套餐!!!）
-* VIP3：标准12.90块/月,增量90G； 19.90块/月,200G； 年付232.9年,288GB流量/月； SS+V2ray协议（建议这个起！）。
-* VIP4：标准32.90块/月，350G； 增量41.90块/月,450G；年 付345.9/年,428GB流量/月； SS+V2ray协议+BGP专有路线（最好买这个套餐）。
-
-
-<details>
-  <summary>具体入口与落地信息 shadowsocks流媒体解锁范围</summary>
-  
-     入口：
-      China Beijing, Beijing Guanghuan Xinwang Digital× 1
-      China Nanjing, China Unicom Liaoning× 1
-      China Ningbo, China Mobile× 1
-      China Unknown City, China Mobile× 6
-      China Unknown City, China Mobile Guangdong× 1
-      China Unknown City, China Telecom jiangsu province backbone× 1
-      China Unknown City, China Unicom Liaoning× 1
-      South Africa Unknown City, Cnservers LLC× 2
-      Taiwan New Taipei, Chunghwa Telecom× 7
-      Taiwan Xindian, Chunghwa Telecom× 1
-
-
-    落地：
-    Argentina Buenos Aires, T-Wireless× 1
-    Australia Unknown City, Network Presence× 1
-    Belgium Dessel, iFog GmbH× 1
-    Brazil Campinas, Microsoft Azure× 1
-    Canada Unknown City, OVH SAS× 1
-    China Tianjin, SuperInternet ACCESS Pte× 1
-    France Unknown City, VIRTUA SYSTEMS× 1
-    Germany Unknown City, Accelerated IT Services GmbH× 1
-    Hong Kong Central, China Mobile Hong Kong Broadband× 1
-    Hong Kong Central, Scloud Pte× 1
-    Hong Kong Shatin, Tianhai InfoTech× 1
-    Hong Kong Tsimshatsui, Netvigator× 3
-    Hong Kong Unknown City, Amazon.com× 1
-    Hong Kong Unknown City, DMIT× 1
-    Hong Kong Unknown City, HGC Broadband× 8
-    Iceland Unknown City, 1984 ehf× 1
-    India Mumbai, Linode× 1
-    Indonesia Unknown City, PT Cloud Hosting Indonesia× 1
-    Israel Tel Aviv, O.m.c. Computers & Communications Ltd× 1
-    Japan Chiyoda-ku, So-net× 1
-    Japan Heiwajima, Choopa, LLC× 3
-    Japan Tokyo, GMO GlobalSign Holdings K.K.× 1
-    Japan Tokyo, Linode× 2
-    Japan Tokyo, OSOA Corporation., LTD× 2
-    Japan Tokyo, Oracle Cloud× 2
-    Japan Tokyo, SAKURA Internet× 1
-    Japan Unknown City, SAKURA Internet× 1
-    Macao Macao, MTel SAR× 1
-    Malaysia Kamunting, TM Net× 1
-    Philippines Unknown City, Eastern Communications× 1
-    Russia Novosibirsk, Adman LLC× 1
-    Russia St Petersburg, Misaka Network, Inc.× 1
-    Russia Unknown City, Adman LLC× 1
-    Russia Unknown City, LLC Baxet× 1
-    Singapore Singapore, DigitalOcean× 2
-    Singapore Singapore, Kirino LLC× 1
-    Singapore Singapore, Linode× 2
-    South Africa Unknown City, Cnservers LLC× 3
-    South Korea Seoul, Oracle Cloud× 2
-    Switzerland Unknown City, FSIT AG× 1
-    Taiwan New Taipei, Chunghwa Telecom× 14
-    Taiwan Xindian, Chunghwa Telecom× 1
-    Turkey Istanbul, Hostigger INC.× 1
-    United Kingdom London, Digital Ocean× 1
-    United States Fremont, Linode× 1
-    United States Los Angeles, DediPath× 6
-    United States Reston, Misaka Network, Inc.× 1
-    United States Seattle, Kirino LLC× 4
-    Vietnam Unknown City, FPT Telecom Company× 1
-
-
-    ----------shadowsocks流媒体解锁范围------------
-    香港：Netflix、TVB、HBO GO、Fox+、Bilibili 港澳台、Viu
-
-    日本：Netflix、Pixiv、Niconico
-    日本(带Ex)除了日本解锁的内容以外额外解锁 Happyon、AbemaTV、DMM、DAZN、TVer、大部分日本手游
-
-    台湾：Netflix、Bilibili 港澳台、動畫瘋、四季線上影視、Line TV
-
-    美国：Netflix、Hulu、HBO、Amazon Video、Disney Now、Disney+
-    美国(带Ex)：除了上条美国解锁的内容以外额外解锁 Discovery+
-
-    英国：Netflix、BBC、Channel 4
-    新加坡、马来西亚：Netflix、Fox+、Amazon Video 
-    瑞士、冰岛、德国、澳门等节点 默认支持Netflix
-
-    带Y标签节点: 不支持流媒体
-
-   
-</details>
-
-跑路云这家BGP节点为安畅（云联网CloudLink）线路：
-官方简介：云联网（CloudLink）基于SDN和高质量传输网络构建的云交换平台，实现多服务商（公有云、ISP、IDC）与用户间的快速互联互通，为企业提供安全、中立、开放的网络连接服务及灵活搭建IT基础架构的能力。
-安畅家的CN2机房很有名。
-
-ss节点南方移动测速结果：
-
-  ![跑路云ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
-
-v2ray节点南方移动测速结果：
-
-  ![跑路云v2测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluv2.png)
-
-  历史测速： <a href="https://honven.netlify.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
-  
-<br>
-
-------
 
 
 ### Just my sock
