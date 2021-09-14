@@ -294,7 +294,7 @@ UDP: 部分支持Full Cone
 基础套餐 | BGP线路 |每月100G流量，29块/月，每月150G流量，78块/季度；每月200G流量，252/半年， |21块起 | 3个  
 进阶套餐 | BGP线路,双程CN2线路 |每月100G流量，49块/月；每月150G流量，135块/季度；每月200G流量，468/半年 |21块起 | 3个   
 
-  ![gacloud测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/gacloud.png)
+  ![gacloud测速图.png](https://honven.vercel.app/uploads/vpn/gacloud.png)
   
   
 ------
