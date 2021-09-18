@@ -814,40 +814,25 @@ UDP：部分支持Full Cone
 ------
 
 
-### 星梦数据
+### 九、Hutao
+中继隧道传输和IEPL专线传输，支持 SS,SSR,V2ray协议机场。目前人少。5块/月起。有按量付费，推荐买了当备用。  
+套餐月付，季付，半年付，可用85折优惠码：tothemoon1。套餐年付，可用75折优惠码：tothemoon2。有效期持续至中秋节假期结束。官网：<a href="https://dlj.tf/GoUj8oA" target="_blank">https://dlj.tf/GoUj8oA</a>   
 
-Trojan中继+IEPL机场。IEPL节点为内网线路（云联网（CloudLink）.实力大佬，手上很多家机场，老板同时也是机场服务器提供商，很多家机场有用他家机器。有公益节点。但稳定性比不上上面的，想体验trojan的推荐这家机场。
-官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/D4xNx5Z" target="_blank">https://dlj.tf/D4xNx5Z</a> 
 
-
->中继：有     
-原生节点：有     
-落地：美国、台湾、新加坡、日本、香港、韩国、澳门、马来西亚、土耳其、澳洲、菲律宾、冰岛、德国     
-节点数目：55+   
-UDP：部分支持    
-老板肉身：墙外   
-协议：Trojan    
-专门客服：有   
-TG频道：[https://t.me/stardream_noc](https://t.me/stardream_noc)      
+>中继：有    
+专线：有    
+原生节点：有  
+落地：美国、台湾、新加坡、日本、香港、韩国  
+节点数目：120+  
+老板肉身：北美    
+客服：有  
+协议：SS,SSR,V2ray  
+TG频道：<a href="https://t.me/joinchat/IsZvZdFDboAzZmEx" target="_blank">hutao公告</a>   
 
 套餐：
-
-套餐 | 线路 | 流量 | 价格 |客户端数目 
----- | ---  | --- | --- | --- 
-vip1 | 直连 |50G/月 |5块/月 | 2，限速3M/s
-vip2 | 直连+中转| 200G/月 |18块/月 | 3
-vip3 | 直连+中转+IEPL |480G/月 |25块/月 | 5
-
-星梦数据测速图，最新测速图更新在频道：https://t.me/jichangtj:
- ![星梦数据测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/xingmeng.png)
- 
-   历史测速： <a href="https://honven.netlify.app/%E6%98%9F%E6%A2%A6%E6%95%B0%E6%8D%AE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">星梦数据历史测速结果整合</a>
-
-
-<br>
-<a href="https://honven.netlify.app/ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%94%B6%E9%9B%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">全平台Trojan协议客户端推荐</a> 
-<br>
-
+>中转：5块/月50G起；2个设备起。  
+IEPL套餐：25块/月50G起。不限制设备（建议IEPL专线起）  
+按量付费：5毛/G。推荐当备用。  
 
 
 
