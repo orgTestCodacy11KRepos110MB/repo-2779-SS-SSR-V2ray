@@ -1,4 +1,4 @@
-如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：20210926
+如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：20210928
 
 tag:机场推荐,付费机场,专线机场,SS机场,SSR机场,V2ray机场,trojan机场,科学上网
 
@@ -368,6 +368,71 @@ UDP: 部分支持Full Cone
   
   ------
 
+
+
+###  少数派
+
+ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/ixO4V4b" target="_blank">https://bit.ly/ixO4V4b</a>
+
+
+>中转：有   
+原生节点：有     
+落地：美国、台湾、新加坡、日本、香港、德国、英国、俄罗斯、菲律宾     
+UDP:支持        
+老板肉身：墙外    
+开业时长：1年+    
+UDP: 部分支持Full Cone,需要自己手动开
+一键使用客户端： 有    
+入口ip数量 4    
+落地ip数量 22        
+直连节点数量：0        
+协议：SSR + V2ray    
+TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
+
+
+套餐：
+
+套餐 | 流量 | 价格 |客户端数目 
+---- | --- | --- | --- 
+1 | 200G/月 |26.8/月 | 个人使用
+2 | 400G/月 |38.8/月 | 个人使用
+3 | 600G/月 |58/月 | 15
+
+
+<details>
+  <summary>少数派具体入口和落地信息</summary>
+   
+     入口
+    China Beijing, Beijing Guanghuan Xinwang Digital*2
+    China Unknown City, China Mobile*2  
+
+    落地
+    China Tianjin, SuperInternet ACCESS Pte*1
+    China Unknown City, Amazon.com*2
+    Hong Kong Central, HGC Broadband*1
+    Hong Kong Central, Netvigator*2
+    Hong Kong Shatin, Hong Kong Broadband Network*1
+    Hong Kong Unknown City, Amazon.com*2
+    Japan Tokyo, Linode*3
+    Philippines Manila, IP-Converge Data Center*1
+    Russia Moscow, Forest NET*1
+    Singapore Singapore, Amazon.com*2
+    Taiwan New Taipei, Chunghwa Telecom*2
+    United Kingdom Kington, FxTransit LTD*1
+    United States New Castle, Nato Research*3
+  
+</details>
+  
+  最新测速图更新在频道：https://t.me/jichangtj
+ ![少数派测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/shaoshupai.png)
+ 
+ 历史测速： <a href="https://honven.netlify.app/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>
+
+
+<br>
+
+------
+
 ### 跑路云
 专线+BGP中转SS+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。STANDARD套餐主打公网中转（DRL节点），PREMIUM套餐主打安畅专线（BGP节点）并且PREMIUM套餐支持90％SLA。总接入IEPL带宽已达1.6Gpbs。
 圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
@@ -498,71 +563,6 @@ ss节点南方移动测速结果：
 <br>
 
 ------
-
-
-###  少数派
-
-ssr+v2ray，全中转节点机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://bit.ly/ixO4V4b" target="_blank">https://bit.ly/ixO4V4b</a>
-
-
->中转：有   
-原生节点：有     
-落地：美国、台湾、新加坡、日本、香港、德国、英国、俄罗斯、菲律宾     
-UDP:支持        
-老板肉身：墙外    
-开业时长：1年+    
-UDP: 部分支持Full Cone,需要自己手动开
-一键使用客户端： 有    
-入口ip数量 4    
-落地ip数量 22        
-直连节点数量：0        
-协议：SSR + V2ray    
-TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
-
-
-套餐：
-
-套餐 | 流量 | 价格 |客户端数目 
----- | --- | --- | --- 
-1 | 200G/月 |26.8/月 | 个人使用
-2 | 400G/月 |38.8/月 | 个人使用
-3 | 600G/月 |58/月 | 15
-
-
-<details>
-  <summary>少数派具体入口和落地信息</summary>
-   
-     入口
-    China Beijing, Beijing Guanghuan Xinwang Digital*2
-    China Unknown City, China Mobile*2  
-
-    落地
-    China Tianjin, SuperInternet ACCESS Pte*1
-    China Unknown City, Amazon.com*2
-    Hong Kong Central, HGC Broadband*1
-    Hong Kong Central, Netvigator*2
-    Hong Kong Shatin, Hong Kong Broadband Network*1
-    Hong Kong Unknown City, Amazon.com*2
-    Japan Tokyo, Linode*3
-    Philippines Manila, IP-Converge Data Center*1
-    Russia Moscow, Forest NET*1
-    Singapore Singapore, Amazon.com*2
-    Taiwan New Taipei, Chunghwa Telecom*2
-    United Kingdom Kington, FxTransit LTD*1
-    United States New Castle, Nato Research*3
-  
-</details>
-  
-  最新测速图更新在频道：https://t.me/jichangtj
- ![少数派测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/shaoshupai.png)
- 
- 历史测速： <a href="https://honven.netlify.app/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>
-
-
-<br>
-
-------
-
 
 ### Blinkload
 
