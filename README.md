@@ -1,4 +1,4 @@
-如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：2021.10.10
+如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：2021.10.19
 
 tag:机场推荐,付费机场,专线机场,SS机场,SSR机场,V2ray机场,trojan机场,科学上网
 
@@ -844,7 +844,7 @@ IEPL套餐：25块/月50G起。不限制设备（建议IEPL专线起）
 如果觉得有帮助到您，Star下呗~~~ 经常更新！！！
 
 
-telegram机场观察频道：[https://t.me/jichangtj](https://t.me/jichangtj)
+telegram机场观察频道，机场推荐，机场优惠，新闻，欢迎关注：[https://t.me/jichangtj](https://t.me/jichangtj)
 
 原文: [https://dlj.tf/sjKR2eb](https://dlj.tf/sjKR2eb)
 
