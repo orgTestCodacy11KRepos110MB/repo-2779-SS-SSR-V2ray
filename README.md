@@ -569,6 +569,34 @@ ss节点南方移动测速结果：
 
 ------
 
+
+## 芬达
+
+
+中转ssr机场，人目前比较少，适合想要人少机场的用户。官网：https://dlj.tf/53MXYTc
+
+
+>中继：有
+原生节点：有
+落地：美国、台湾、新加坡、日本、香港、韩国
+老板肉身：北美
+入口ip数量：1
+落地ip数量：13+
+一键使用客户端： 有
+协议：SSR
+付款方式：支付宝、银联
+
+
+套餐：
+基础月付：12.8块/月158G起；3个设备起。
+进阶月付：22.8块/月158G起；4个设备起。
+旗舰月付：32.8块/月158G起；6个设备起。
+
+ ![fenda测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/fenda.png)
+
+
+
+
 <!-- ### Blinkload（IEPL+AIA专线）
 
 ss协议全IEPL+部分AIA+BGP专线稳定运营5年的老机场，香港老板，自有机房，总稳定性很好。年付起。Business套餐有AIA,是最稳的套餐且无限速，有钱推荐你买这个肯定没错，被跑路机场搞怕了，想找多年稳定运营的这家值得推荐。[官网注册地址](https://dlj.tf/a88T4sC)
@@ -651,7 +679,7 @@ Exclusive：IEPL专线：25块/月50G起。不限制设备（建议IEPL专线起
 
  ![hutao测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/hutao.png)
 
-
+------
 
 ### Just my sock
 
