@@ -62,6 +62,11 @@ TelegramT机场观察频道：https://t.me/jichangtj   掌握最新机场优惠�
 
 16.抄袭我的请要点脸。上面都是我长期使用总结出来的，直接全复制粘贴，家人安好？
 
+17.**各平台客户端推荐：**   
+>windows推荐使用clash for window/netch    
+Mac推荐使用clash for windows mac版本/ clashX /有钱的买surge   
+IOS推荐小火箭/quantumultX/有钱的买surge   
+安卓推荐Surfboard、clashforAndroid(CFA)  
 
 **免费软件**
 
@@ -830,6 +835,9 @@ telegram机场观察频道，机场推荐，机场优惠，新闻，欢迎关注
 ## 其它博客
 <br>
 <a href="https://honven.netlify.app/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html" target="_blank">稳定高速机场推荐</a> 
+
+
+   
 
 windows客户端：
 [win/mac客户端推荐使用clash,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择延迟最低的节点](https://honven.top/clash%E6%95%99%E7%A8%8B.html)
