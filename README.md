@@ -375,7 +375,7 @@ UDP: 部分支持Full Cone
 
 ###  少数派（IEPL专线）
 
-ssr+v2ray，全IEPL专线机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://dlj.tf/5bwQ7oB" target="_blank">https://dlj.tf/5bwQ7oB</a>
+ss+v2ray，全IEPL专线机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://dlj.tf/5bwQ7oB" target="_blank">https://dlj.tf/5bwQ7oB</a>
 
 
 >专线：有   
@@ -389,7 +389,7 @@ UDP: 部分支持Full Cone,需要自己手动开
 入口ip数量 4    
 落地ip数量 22        
 直连节点数量：0        
-协议：SSR + V2ray   
+协议：SS + V2ray   
 付款方式：支付宝、微信、虚拟币   
 TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
 
