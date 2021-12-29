@@ -733,7 +733,7 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 
 ### 翼游（公网中转）
 
-ss+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
+ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
 官网(如果打不开请切换为全局代理)：  <a href="https://dlj.tf/jb7tT7z" target="_blank">https://dlj.tf/jb7tT7z</a> 
 
 
@@ -747,7 +747,7 @@ UDP：部分支持Full Cone
 落地ip数量 20   
 直连节点数量：0  
 一键使用客户端： 有     
-协议：SS + V2ray +Trojan    
+协议：SSR + V2ray +Trojan    
 专门客服：有 
 付款方式：支付宝、银联    
 
