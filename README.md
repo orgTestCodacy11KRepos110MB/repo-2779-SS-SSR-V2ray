@@ -208,9 +208,6 @@ UDP：大部分支持Full Cone
   
 </details>
 
-关于AIA（腾讯云 Anycast公网加速 AIA）：
-官方简介：Anycast 公网加速（Anycast Internet Acceleration，AIA）是一个覆盖多地的动态加速网络，可以大幅提升您业务的公网访问体验。不同于其他应用层加速服务，AIA 能实现 IP 传输的质量优化和多入口就近接入，减少网络传输的抖动、丢包，最终提升云上应用的服务质量，扩大服务范围，精简后端部署。之前TG两大机场rixcloud yoyu/w8v都使用AIA线路，获得一致好评。21年后越来越多机场用上了AIA节点，很多用来当作游戏节点。多入口BGP入口，就近接入腾讯云入口，然后走腾讯云内网进行传输到全球各地。目前机场届最高端的线路了，稳定性高延迟低，除了贵没啥缺点。
-   
   ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
   
   历史测速： <a href="https://honven.netlify.app/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>
