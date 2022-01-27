@@ -370,7 +370,7 @@ UDP: 部分支持Full Cone
 
 ### 跑路云（IEPL专线）
 
-IEPL专线+BGP中转SSR+V2ray机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。STANDARD套餐主打公网中转（DRL节点），PREMIUM套餐主打专线（BGP节点）并且PREMIUM套餐支持90％SLA。总接入IEPL带宽已达1.6Gpbs。
+IEPL专线+BGP中转trojan机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。STANDARD套餐主打公网中转（DRL节点），PREMIUM套餐主打专线（BGP节点）并且PREMIUM套餐支持90％SLA。总接入IEPL带宽已达1.6Gpbs。
 圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
 nat、流量转发、独立线路都有。10块里面左右很值得推荐了。
 官网(使用这个链接赠送1块余额)： [https://dlj.tf/FPyGrfR](https://dlj.tf/FPyGrfR)
@@ -386,7 +386,7 @@ UDP：支持
 入口ip数量 8        
 落地ip数量 58    
 客户端数目：2个    
-协议：SSR + V2ray   
+协议：SSR + trojan   
 专门客服：有    
 付款方式：支付宝、虚拟币USDT   
 TG频道： [https://t.me/paoluztz](https://t.me/paoluztz)    
@@ -668,8 +668,8 @@ TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)
 
 
 套餐：
-min/pro/max等普通中转：无专线，5块/月50G起；2个设备起。稳定性一般   
-Exclusive：IEPL专线：25块/月50G起。不限制设备（建议IEPL专线起）   
+min/pro/max等普通中转：无专线，7块/月50G起；2个设备起。稳定性一般   
+Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起）   
 按量付费：5毛/G。推荐当备用。   
 
  ![hutao测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/hutao.png)
