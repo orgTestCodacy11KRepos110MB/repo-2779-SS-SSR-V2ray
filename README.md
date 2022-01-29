@@ -80,7 +80,9 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 
 
 ### TAG(IEPL专线机场)
-全IEPL专线SSR机场,稳,稳定性高延迟低。想要冷门节点的，大家都推荐这家。冷门节点非常多，同时也一直在增加冷门节点，140+个节点。推荐季付及以上套餐真实流量是翻倍的，每15天/10天流量重置，15天重置就是流量 × 2；每10天重置就是流量乘3。大流量用户的选择。机场主在香港。有自家app,操作简单，方便萌新使用。官网(如果打不开请切换为全局代理)： <a href="https://dlj.tf/a7ORjIR" target="_blank">https://dlj.tf/a7ORjIR</a>
+全IEPL专线SSR机场,稳,稳定性高延迟低。想要冷门节点的，大家都推荐这家。冷门节点非常多，同时也一直在增加冷门节点，140+个节点。推荐季付及以上套餐真实流量是翻倍的，每15天/10天流量重置，15天重置就是流量 × 2；每10天重置就是流量乘3。大流量用户的选择。机场主在香港。有自家app,操作简单，方便萌新使用。
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/WlO92xL" target="_blank">https://suo.yt/WlO92xL</a>
+官网2(需代理)： <a href="https://bit.ly/3wlxOMO" target="_blank">https://bit.ly/3wlxOMO</a>
 
 
 >专线: 有，月付無香港、新加坡等節點  
@@ -204,9 +206,12 @@ UDP：大部分支持Full Cone
 ------
 
 ### Gacloud（阿里云入口） 
-SS隧道，G口阿里云BGP入口，香港老板，已有机场行业多年经验。多年自有机房，国际走任播ANY。速度不错。入口总带宽4G。后期会引入专线
+SS隧道，G口阿里云BGP入口，香港老板，已有机场行业多年经验。自己开发的面板，多年自有机房，国际走任播ANY。速度不错。入口总带宽4G。后期会引入专线，限速200M。有按量付费可备用。
 有分组：C优质和H精品组，入口都一样，出口精品的优先级会更高，人数不一样，精品人少，碎片负载会更少。如果有新产品或者遇到波动，会优先给精品接入更贵的产品以及优化。这2个组都是完全独立的入口出口，每个组都是2个地区入口，地域解析就近接入。 想找人数少的机场的，这家值得推荐。
-官网（通过这个链接注册新用户全员无门槛8折优惠券,只能用一次）：https://dlj.tf/D59Qaw7
+官网（通过这个链接注册新用户全员无门槛8折优惠券,只能用一次）：
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/3a9ya84" target="_blank">https://suo.yt/3a9ya84</a>
+官网2(需代理)： <a href="https://bit.ly/3raw9sD" target="_blank">https://bit.ly/3raw9sD</a>
+
 
 >节点国家与地区：香港、日本、新加坡、美国、台湾   
 老板肉身：香港   
@@ -231,7 +236,10 @@ UDP: 部分支持Full Cone
   
 ### Catnet（华为云专线）
 
-ss协议华为云CC专线+深港专线机场，BGP接入Cloud Connect，华为云和AIA体验差不多，成本高，都挺好。梦迪家分站，比主站人少。移动用户会去深港专线。速度不错。不限制设备数目。官网：https://dlj.tf/KUphrLw  
+ss协议华为云CC专线+深港专线机场，BGP接入Cloud Connect，华为云和AIA体验差不多，成本高，都挺好。梦迪家分站，比主站人少。移动用户会去深港专线。速度不错。不限制设备数目。
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/fkNAX0t" target="_blank">https://suo.yt/fkNAX0t</a>
+官网2(需代理)： <a href="https://bit.ly/3ubwf54" target="_blank">https://bit.ly/3ubwf54</a>
+
 
 >专线: 有   
 流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
@@ -298,7 +306,8 @@ Meduim：半年付270, 每月300G；月付50；可5个在线设备
 ### STC-SERVER
 
 IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费，推荐买来当备用。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联，不用不花钱还。
-官网(如果打不开请切换为全局代理)： https://dlj.tf/9y0wSZA
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/iTmWv1V" target="_blank">https://suo.yt/iTmWv1V</a>
+官网2(需代理)： <a href="https://bit.ly/3tJPGBS" target="_blank">https://bit.ly/3tJPGBS</a>
 
 
 
@@ -373,7 +382,10 @@ UDP: 部分支持Full Cone
 IEPL专线+BGP中转trojan机场。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。STANDARD套餐主打公网中转（DRL节点），PREMIUM套餐主打专线（BGP节点）并且PREMIUM套餐支持90％SLA。总接入IEPL带宽已达1.6Gpbs。
 圈内主流能拿得到的专线全部集齐了：卷中港、华为广港 、腾讯AIA香港 、 香港阿里云CEN 、 上海-香港Azure骨干 、佛山电信-香港IEPL 、深圳移动-香港IEPL；
 nat、流量转发、独立线路都有。10块里面左右很值得推荐了。
-官网(使用这个链接赠送1块余额)： [https://dlj.tf/FPyGrfR](https://dlj.tf/FPyGrfR)
+官网(使用这个链接赠送1块余额)：
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/h6ok3Yd" target="_blank">https://suo.yt/h6ok3Yd</a>
+官网2(需代理)： <a href="https://bit.ly/3g4JZ9B" target="_blank">https://bit.ly/3g4JZ9B</a>
+
 
 >专线: 有    
 免费公益节点：4条直连线路    
@@ -502,7 +514,10 @@ ss节点南方移动测速结果：
 ### 芬达
 
 
-中转ss机场，人目前比较少，适合想要人少机场的用户。官网：https://dlj.tf/53MXYTc
+中转ss机场，人目前比较少，适合想要人少机场的用户。 
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Rxjjs0b" target="_blank">https://suo.yt/Rxjjs0b</a>
+官网2(需代理)： <a href="https://bit.ly/34hOieW" target="_blank">https://bit.ly/34hOieW</a>
+
 全部套餐 8.8 折优惠码：new88z  
 
 >中继：有  
@@ -587,7 +602,10 @@ Pro套餐2021-05-29南方移动测速结果：
 
 ###  少数派（IEPL专线）
 
-ss+v2ray，全IEPL专线机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。官网(已屏蔽中国大陆访问，请切换为全局代理打开)：  <a href="https://dlj.tf/5bwQ7oB" target="_blank">https://dlj.tf/5bwQ7oB</a>
+ss+v2ray，全IEPL专线机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/BkesHGa" target="_blank">https://suo.yt/BkesHGa</a>
+官网2(需代理)： <a href="https://bit.ly/3Gd9VdH" target="_blank">https://bit.ly/3Gd9VdH</a>
+
 
 
 >专线：有   
@@ -651,7 +669,10 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 ### Hutao
 
-中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。官网：https://dlj.tf/GoUj8oA
+中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Bm0vItP" target="_blank">https://suo.yt/Bm0vItP</a>
+官网2(需代理)： <a href="https://bit.ly/3G9K4Dy" target="_blank">https://bit.ly/3G9K4Dy</a>
+
 
 中继：有  
 专线：有  
@@ -731,7 +752,8 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 ### 翼游（公网中转）
 
 ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
-官网(如果打不开请切换为全局代理)：  <a href="https://dlj.tf/jb7tT7z" target="_blank">https://dlj.tf/jb7tT7z</a> 
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/cPYd4aA" target="_blank">https://suo.yt/cPYd4aA</a>
+官网2(需代理)： <a href="https://bit.ly/32Htu07" target="_blank">https://bit.ly/32Htu07</a>
 
 
 >中继：有     
