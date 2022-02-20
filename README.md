@@ -27,7 +27,7 @@ Telegram机场观察频道：https://t.me/jichangtj   掌握最新机场优惠�
 ![三色图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/0.jpg)
 
 
-3.稳定与协议没有关系，协议不是最重要的，线路才是。ss，ssr，v2ray，trojan都行，不过ssr太久没维护了，目前大部分机场抛弃ssr。被识别了目前只是封ip，损失的是机场主。你换一条线路即可。总体而言ss延迟相对较低。非敏感时期的日常使用中转就好 不一定要用专线。不一定要用专线。专线不一定就好，需要看同时使用人数，几百人挤同一条小水管不如几个人的中转，甚至不如直连。主要注意ssr不支持surge.win和mac的clash for windows、ios的quantumultX、小火箭、surge；安卓使用surfboard、Clash for Android、v2rayNG等都是支持多种协议的。
+3.稳定与协议没有关系，协议不是最重要的，线路才是。ss，ssr，v2ray，trojan都行，不过ssr太久没维护了，目前大部分机场抛弃ssr。被识别了目前只是封ip，损失的是机场主。你换一条线路即可。总体而言ss延迟相对较低。非敏感时期的日常使用中转就好 不一定要用专线。不一定要用专线。专线不一定就好，需要看同时使用人数，几百人挤同一条小水管不如几个人的中转，甚至不如直连。主要注意ssr不支持surge.win和mac的clash for windows、ios的quantumultX、小火箭、surge；安卓使用surfboard、Clash for Android、v2rayNG等都是支持多种协议的。机场主常年不在线，修复节点慢的也别买。
 
 4.看入口，入口和用户本地网络之间的相性决定了用户使用机场的上限和下限。因为你到入口并非是直达，从你家到入口会绕来绕去才到达。假如机场只有深圳入口，使用深港专线，而你在大陆北方，得在大陆里面绕来绕去，环游大半个中国，然后才到深圳，然后从深圳的入口到机场的线路，再直达香港。这时候延迟就贼高了。拖累你的短板是入口了。中转基本是上海、广州入口：cn2  上海联通 珠海/广州移动等，因为国内流量出境基本是广州上海。中转很重要，因为一旦中转挂了中转线路就没办法转发流量到落地机了
 
@@ -376,7 +376,43 @@ UDP: 部分支持Full Cone
   ------
 
 
+### AAEX
 
+IELP/IPLC专线+CN2 中继,ss协议。老板也是IDC，机场服务器提供商。
+不限制设备数目。
+[官网链接1 不需要代理](https://suo.yt/bPTPfjA)  
+[官网链接2](https://bit.ly/32pxvlR)
+
+注册新账号需要先购买新套餐。    
+写这个主要是部分人需要 **无限流量套餐**    
+搞无限流量套餐的机场很少，因为机场主怕被用破产。稳定的的就更少了。需要无限流量套餐的，或者不限制ip和设备数目的推荐这家机场。   
+我之前买来下数据的，每个月下4T左右。速度看自家带宽了。200M跑满是可以的。   
+
+>专线: 有  
+中转：有   
+原生节点：有  
+节点国家与地区：多  
+入口：华东，华南。  
+落地：香港、台湾、日本、美国、德国、法国、英国、瑞士、爱尔兰、俄罗斯、加拿大、新加坡、澳大利亚   
+IPv6:支持  
+UDP：支持Full Cone  
+入口ip数量：3  
+落地ip数量：42  
+开业时长：4年+ 
+协议：SSR + SS  
+TG频道： https://t.me/AAEX_Channel
+专门客服：有  
+付款方式：支付宝  
+
+套餐： 
+
+套餐 | 线路 | 流量 | 价格 |客户端数目 
+---- | ---  | --- | --- | --- 
+无限流量套餐 | 中转+专线，全部节点 |无限流量 |99块/月 | 每2T开工单重置一次，不限制设备数目
+标准套餐 | 中转+专线，全部节点| 300GG/月 |150块/月 | 不限制设备数目
+轻量套餐| 中转 |25G/月 |15块/月 | 节点少且只有中转无专线
+
+------
 
 
 ### 跑路云（IEPL专线）
@@ -542,64 +578,39 @@ ss节点南方移动测速结果：
 
 
 
+------
 
-<!-- ### Blinkload（IEPL+AIA专线）
+### Hutao
 
-ss协议全IEPL+部分AIA+BGP专线稳定运营5年的老机场，香港老板，自有机房，总稳定性很好。年付起。Business套餐有AIA,是最稳的套餐且无限速，有钱推荐你买这个肯定没错，被跑路机场搞怕了，想找多年稳定运营的这家值得推荐。[官网注册地址](https://dlj.tf/a88T4sC)
+中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Bm0vItP" target="_blank">https://suo.yt/Bm0vItP</a>
+官网2(需代理)： <a href="https://bit.ly/3G9K4Dy" target="_blank">https://bit.ly/3G9K4Dy</a>
 
 
->专线: 有    
-UDP：部分FullCone-PortRestrictedCone        
-落地：台湾、香港、新加坡、日本、美国    
-开业时长：5年+    
-UDP：部分FullCone-PortRestrictedCone
-入口ip数量 29    
-落地ip数量 29    
-流媒体解锁：Netflix、youtube Premium、HBO Max 、 DAZN、PCR jP    
-协议：SSR + SS    
-专门客服：有       
-TG频道： [https://t.me/thessrchannel](https://t.me/thessrchannel)       
-奈飞Netflix：ipv6解锁部分线路可看非自制剧      
-
+中继：有  
+专线：有  
+原生节点：有  
+落地：美国、台湾、新加坡、日本、香港、韩国   
+节点数目：120+   
+老板肉身：北美   
+客服：有   
+入口数目: 2，广州移动   
+落地数目: 28   
+协议：SS,V2ray   
+付款方式：支付宝   
+TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
 
 
 套餐：
+min/pro/max等普通中转：无专线，7块/月50G起；2个设备起。稳定性一般   
+Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起）   
+按量付费：5毛/G。推荐当备用。   
 
-套餐 | 线路 | 流量 | 价格 |客户端数目 
----- | ---  | --- | --- | --- 
-Pro | 专线  | 200Gi/月起 | 499.9 HKD/年 | 6+
-Lite | 专线 | 100G/月 | 399.9 HKD/年| 6+
-Micro | 专线 | 50G/月 | 299.9 HKD/年| 6+
-Business |专线 | 1000G/月起 | 2888/年起 | 30+
-
-
-<details>
-  <summary>Pro套餐具体入口与落地信息</summary>
-          
-    入口:
-    China Unknown City, China Mobile 
-    China Unknown City, China Telecom Guangdong
-
-    落地
-    Hong Kong Unknown City, Blinkload Technology Co., Ltd Hong Kong× 12
-    Singapore Unknown City, Blinkload Technology Co., Ltd× 4
-    Taiwan New Taipei, Chunghwa Telecom× 3
-    United States Unknown City, Blinkload Technology Co., Ltd× 4
-
-   
-</details>
-
-Pro套餐2021-05-29南方移动测速结果：
-
- ![Blinkload测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/blinkload.png)
-
-  历史测速： <a href="https://honven.vercel.app/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
-
-<br>
-
------- -->
+ ![hutao测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/hutao.png)
 
 ------
+
+
 
 
 ###  少数派（IEPL专线）
@@ -666,76 +677,6 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 
 <br>
-
-------
-
-### Hutao
-
-中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Bm0vItP" target="_blank">https://suo.yt/Bm0vItP</a>
-官网2(需代理)： <a href="https://bit.ly/3G9K4Dy" target="_blank">https://bit.ly/3G9K4Dy</a>
-
-
-中继：有  
-专线：有  
-原生节点：有  
-落地：美国、台湾、新加坡、日本、香港、韩国   
-节点数目：120+   
-老板肉身：北美   
-客服：有   
-入口数目: 2，广州移动   
-落地数目: 28   
-协议：SS,V2ray   
-付款方式：支付宝   
-TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
-
-
-套餐：
-min/pro/max等普通中转：无专线，7块/月50G起；2个设备起。稳定性一般   
-Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起）   
-按量付费：5毛/G。推荐当备用。   
-
- ![hutao测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/hutao.png)
-
-------
-
-
-### AAEX
-
-IELP/IPLC专线+CN2 中继,ss协议。老板也是IDC，机场服务器提供商。
-不限制设备数目。
-[官网链接1 不需要代理](https://suo.yt/bPTPfjA)  
-[官网链接2](https://bit.ly/32pxvlR)
-
-注册新账号需要先购买新套餐。    
-写这个主要是部分人需要 **无限流量套餐**    
-搞无限流量套餐的机场很少，因为机场主怕被用破产。稳定的的就更少了。需要无限流量套餐的，或者不限制ip和设备数目的推荐这家机场。   
-我之前买来下数据的，每个月下4T左右。速度看自家带宽了。200M跑满是可以的。   
-
->专线: 有  
-中转：有   
-原生节点：有  
-节点国家与地区：多  
-入口：华东，华南。  
-落地：香港、台湾、日本、美国、德国、法国、英国、瑞士、爱尔兰、俄罗斯、加拿大、新加坡、澳大利亚   
-IPv6:支持  
-UDP：支持Full Cone  
-入口ip数量：3  
-落地ip数量：42  
-开业时长：4年+ 
-协议：SSR + SS  
-TG频道： https://t.me/AAEX_Channel
-专门客服：有  
-付款方式：支付宝  
-
-套餐： 
-
-套餐 | 线路 | 流量 | 价格 |客户端数目 
----- | ---  | --- | --- | --- 
-无限流量套餐 | 中转+专线，全部节点 |无限流量 |99块/月 | 每2T开工单重置一次，不限制设备数目
-标准套餐 | 中转+专线，全部节点| 300GG/月 |150块/月 | 不限制设备数目
-轻量套餐| 中转 |25G/月 |15块/月 | 节点少且只有中转无专线
-
 
 
 ------
@@ -854,7 +795,63 @@ UDP：部分支持Full Cone
 
 
 
-------
+<!-- ### Blinkload（IEPL+AIA专线）
+
+ss协议全IEPL+部分AIA+BGP专线稳定运营5年的老机场，香港老板，自有机房，总稳定性很好。年付起。Business套餐有AIA,是最稳的套餐且无限速，有钱推荐你买这个肯定没错，被跑路机场搞怕了，想找多年稳定运营的这家值得推荐。[官网注册地址](https://dlj.tf/a88T4sC)
+
+
+>专线: 有    
+UDP：部分FullCone-PortRestrictedCone        
+落地：台湾、香港、新加坡、日本、美国    
+开业时长：5年+    
+UDP：部分FullCone-PortRestrictedCone
+入口ip数量 29    
+落地ip数量 29    
+流媒体解锁：Netflix、youtube Premium、HBO Max 、 DAZN、PCR jP    
+协议：SSR + SS    
+专门客服：有       
+TG频道： [https://t.me/thessrchannel](https://t.me/thessrchannel)       
+奈飞Netflix：ipv6解锁部分线路可看非自制剧      
+
+
+
+套餐：
+
+套餐 | 线路 | 流量 | 价格 |客户端数目 
+---- | ---  | --- | --- | --- 
+Pro | 专线  | 200Gi/月起 | 499.9 HKD/年 | 6+
+Lite | 专线 | 100G/月 | 399.9 HKD/年| 6+
+Micro | 专线 | 50G/月 | 299.9 HKD/年| 6+
+Business |专线 | 1000G/月起 | 2888/年起 | 30+
+
+
+<details>
+  <summary>Pro套餐具体入口与落地信息</summary>
+          
+    入口:
+    China Unknown City, China Mobile 
+    China Unknown City, China Telecom Guangdong
+
+    落地
+    Hong Kong Unknown City, Blinkload Technology Co., Ltd Hong Kong× 12
+    Singapore Unknown City, Blinkload Technology Co., Ltd× 4
+    Taiwan New Taipei, Chunghwa Telecom× 3
+    United States Unknown City, Blinkload Technology Co., Ltd× 4
+
+   
+</details>
+
+Pro套餐2021-05-29南方移动测速结果：
+
+ ![Blinkload测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/blinkload.png)
+
+  历史测速： <a href="https://honven.vercel.app/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
+
+<br>
+
+------ -->
+
+<!-- ------
 
 ### 羊圈
 
@@ -870,7 +867,7 @@ UDP：部分支持Full Cone
 套餐:  
 回国服务：每月100G流量，月付69块。2个在线ip。  
 
-------
+------ -->
 
 
 <br>
