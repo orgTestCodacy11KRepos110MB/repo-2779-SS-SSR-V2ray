@@ -1,6 +1,6 @@
-# 付费机场推荐与评测/SSR和V2ray节点订阅机场,专线机场,科学上网（2022.02更新）
+# 付费机场推荐与评测/SSR和V2ray节点订阅机场,专线机场,科学上网（2022.03更新）
 
-下面有几个稳定的专线机场推荐，方便正在找ssr/v2ray节点订阅机场的人，老有人让我推荐机场，我就写下来，谁要发给谁，让他自己选。
+下面有几个稳定的专线机场推荐，方便正在找ssr/v2ray、triojan节点订阅机场的人，老有人让我推荐机场，我就写下来，谁要发给谁，让他自己选。
 
 机场推荐购买付费账号，收费机场比较好，不建议买付费的VPN,感觉付费VPN不如付费ssr/v2ray机场；花钱可以节省很多时间和精力,而且贵点的稳定点舒服很多，不可能又便宜又稳定流量还多的。用了好的就回不去了；之前自己搭建虽然最安全，但是容易受到高墙干扰，维护很麻烦不推荐购买直接使用搜索vpn出来的软件，迟早药丸免费机场/白嫖机场一般不太稳定；下面有几个稳定的机场推荐，包括ssr、ss、v2ray、trojan等协议，也有可以打游戏的、IPLC专线机场等。因为现在防火墙在每年64、国庆、除夕都会进行干扰代理，目前的方法是反向墙国内中转服务器，所以敏感时期需要使用专线，如果是企业，需要高稳定性直接买专线机场就好。
 
@@ -681,56 +681,6 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 ------
 
-### Just my sock
-
-搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
-相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
-对安全性的重视程度较大的和担心私人机场跑路，有敏感操作的用户，推荐买这家。   
-支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
-官网注册地址,需要代理或全局模式访问 :  <a href="https://bit.ly/3weANGp" target="_blank">https://bit.ly/3weANGp</a>
-
->专线: 有     
-落地：香港、日本、美国     
-开业时长：1年+     
-协议：SSR + V2ray    
-专门客服：有    
-付款方式：支付宝、银联、Paypal    
-
-
-
-
-套餐:
-
-
-Just My Socks IPLC HK 100 ** EARLY ACCESS ，IPLC香港：    
-v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新出的套餐，搬瓦工还是懂得大家需要什么。   
-不一定有货，挺抢手的，已入手观察中，产品购买链接： <a href="https://bit.ly/39zLsSe" target="_blank">https://bit.ly/39zLsSe</a>
-
-Just My Socks Hong Kong  香港节点： 
-100流量，34.99美元/月,3个设备。限速100Mbps  
-500G流量，149.99美元/月,5个设备.限速500Mbps  
-
-
-Just My Socks Tokyo   日本节点：  
-100G流量，29.99美元/月,3个设备。限速100Mbps  
-500G流量，135.99美元/月,5个设备.限速200Mbps  
-
-
-Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：  
-500G流量，5.88美元/月,5个设备。限速2.5 Gbps  
-1T流量，9.88美元/月,不限设备数。限速5 Gbps  
-5T流量，48.99美元/月,不限设备数。限速5 Gbps  
-
-肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">https://bit.ly/3sDxUwC</a> 
-
-  JMS IPLC测速图
-
-  ![JMS IPLC测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
-        
-
-<br>
-
-------
 
 
 ### 翼游（公网中转）
@@ -793,6 +743,58 @@ UDP：部分支持Full Cone
 
 <br>
 
+
+------
+
+
+### Just my sock
+
+搬瓦工官方的ss+v2ray机场：线路是IPLC/GIA+CN2   
+相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
+对安全性的重视程度较大的和担心私人机场跑路，有敏感操作的用户，推荐买这家。   
+支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
+官网注册地址,需要代理或全局模式访问 :  <a href="https://bit.ly/3weANGp" target="_blank">https://bit.ly/3weANGp</a>
+
+>专线: 有     
+落地：香港、日本、美国     
+开业时长：1年+     
+协议：SSR + V2ray    
+专门客服：有    
+付款方式：支付宝、银联、Paypal    
+
+
+
+
+套餐:
+
+
+Just My Socks IPLC HK 100 ** EARLY ACCESS ，IPLC香港：    
+v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新出的套餐，搬瓦工还是懂得大家需要什么。   
+不一定有货，挺抢手的，已入手观察中，产品购买链接： <a href="https://bit.ly/39zLsSe" target="_blank">https://bit.ly/39zLsSe</a>
+
+Just My Socks Hong Kong  香港节点： 
+100流量，34.99美元/月,3个设备。限速100Mbps  
+500G流量，149.99美元/月,5个设备.限速500Mbps  
+
+
+Just My Socks Tokyo   日本节点：  
+100G流量，29.99美元/月,3个设备。限速100Mbps  
+500G流量，135.99美元/月,5个设备.限速200Mbps  
+
+
+Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：  
+500G流量，5.88美元/月,5个设备。限速2.5 Gbps  
+1T流量，9.88美元/月,不限设备数。限速5 Gbps  
+5T流量，48.99美元/月,不限设备数。限速5 Gbps  
+
+肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">https://bit.ly/3sDxUwC</a> 
+
+  JMS IPLC测速图
+
+  ![JMS IPLC测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
+        
+
+<br>
 
 
 <!-- ### Blinkload（IEPL+AIA专线）
