@@ -553,8 +553,8 @@ ss节点南方移动测速结果：
 
 
 中转ss机场，人目前比较少，适合想要人少机场的用户。 
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Rxjjs0b" target="_blank">https://suo.yt/Rxjjs0b</a>
-官网2(需代理)： <a href="https://bit.ly/34hOieW" target="_blank">https://bit.ly/34hOieW</a>
+官网1：https://suo.yt/c0CZffc
+官网2：https://bit.ly/3tOgI9J
 
 全部套餐 8.8 折优惠码：new88z  
 
