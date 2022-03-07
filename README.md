@@ -95,7 +95,6 @@ UDP：大部分支持Full Cone
 落地：80+个国家 
 网络监控：http://system.tagvpn.xyz     
 开业时长：2年+   
-入口ip数量 6   
 落地ip数量 170+   
 协议：SSR   
 专门客服：有    
