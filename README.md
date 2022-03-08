@@ -570,7 +570,9 @@ VIP4：标准34.90块/月起，300G；年付259,300GB流量/月； SSR+V2ray协�
 
 ss节点南方移动测速结果：
 
-  ![跑路云ss测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
+  ![跑路云SSR线路测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
+  
+  ![跑路云trojan线路测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paolutrojan.png)
 
   历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
   
