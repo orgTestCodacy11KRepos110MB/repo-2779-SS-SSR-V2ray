@@ -236,8 +236,7 @@ UDP: 部分支持Full Cone
 ------
   
 ### Catnet（华为云专线）
-
-ss协议=深港专线机场，梦迪家分站，比主站人少。速度不错。不限制设备数目。
+ss协议深港专线机场，梦迪家分站，比主站人少。速度不错。
 官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/fkNAX0t" target="_blank">https://suo.yt/fkNAX0t</a>
 官网2(需代理)： <a href="https://bit.ly/3ubwf54" target="_blank">https://bit.ly/3ubwf54</a>
 
@@ -256,8 +255,9 @@ TG频道： [https://t.m/Catnet_CN](https://t.me/Catnet_CN)
 
 
 套餐:
->Small: 半年付120，每月70G，可4个在线设备   
-Meduim：半年付270, 每月300G；月付50；可5个在线设备      
+>Small kitten:11/月，每月25G，可2个在线设备  
+Small:25/月， 半年付120，每月80G，可3个在线设备  
+Meduim：50/月，半年付135, 每月300G；可3个在线设备        
    
 
 <details>
