@@ -24,7 +24,7 @@ Telegram机场观察频道：https://t.me/jichangtj   掌握最新机场优惠�
 
 便宜机场套路3：月抛机场，买的都是月抛线路，很便宜。但是线路变化频繁，随时跑路。我推荐的机场都没这些问题。   
 
-![三色图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/0.jpg)
+![三色图.jpg](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/0.jpg)
 
 
 3.稳定与协议没有关系，协议不是最重要的，线路才是。ss，ssr，v2ray，trojan都行，不过ssr太久没维护了，目前大部分机场抛弃ssr。被识别了目前只是封ip，损失的是机场主。你换一条线路即可。总体而言ss延迟相对较低。非敏感时期的日常使用中转就好 不一定要用专线。不一定要用专线。专线不一定就好，需要看同时使用人数，几百人挤同一条小水管不如几个人的中转，甚至不如直连。主要注意ssr不支持surge.win和mac的clash for windows、ios的quantumultX、小火箭、surge；安卓使用surfboard、Clash for Android、v2rayNG等都是支持多种协议的。机场主常年不在线，修复节点慢的也别买。
@@ -196,7 +196,7 @@ UDP：大部分支持Full Cone
   
 </details>
 
-  ![tag测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
+  ![tag测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/tag.png)
   
   历史测速： <a href="https://honven.vercel.app/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>
 
@@ -291,7 +291,7 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
 官方简介：云连接（Cloud Connect）能够提供一种快速构建跨区域VPC及云上多VPC与云下多数据中心之间的高速、优质、稳定的网络能力，帮助用户打造一张具有企业级规模和通信能力的全球云上网络。
 华为云线路跟阿里云，腾讯云相比少了些POP，亚太地区只有香港，曼谷，新加坡，美国没POP，但是整体体验也不错。
 
-   ![catnet测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/catnet.png)
+   ![catnet测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/catnet.png)
   
    历史测速： <a href="https://honven.vercel.app/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
 
@@ -330,7 +330,7 @@ vip1: 月付25,每月100G,3设备; 季付99，每月200G,3设备；年付87，�
 vip2：月付35，每月150G,；季付159，每月300G；年付351，每月400G;年付599，每月1000G等，5设备起。
 
 
-![suwa测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/suwa.png)
+![suwa测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/suwa.png)
 
 
 ------
@@ -397,7 +397,7 @@ UDP: 部分支持Full Cone
 </details>
 
    
-  ![STC-SERVER测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.jpg)
+  ![STC-SERVER测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/stc.jpg)
 
    历史测速： <a href="https://honven.vercel.app/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>
 
@@ -598,7 +598,7 @@ VIP4：标准34.90块/月起，300G；年付259,300GB流量/月； SSR+V2ray协�
 进阶月付：22.8块/月158G起；4个设备起。      
 旗舰月付：32.8块/月158G起；6个设备起。  
 
- ![fenda测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/fenda.png)
+ ![fenda测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/fenda.png)
 
 
 
@@ -630,7 +630,7 @@ min/pro/max等普通中转：无专线，7块/月50G起；2个设备起。稳定
 Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起）   
 按量付费：5毛/G。推荐当备用。   
 
- ![hutao测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/hutao.png)
+ ![hutao测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/hutao.png)
 
 ------
 
@@ -695,7 +695,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 </details>
   
   最新测速图更新在频道：https://t.me/jichangtj
- ![少数派测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/shaoshupai.png)
+ ![少数派测速图.jpg](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/shaoshupai.png)
  
  历史测速： <a href="https://honven.vercel.app/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>
 
@@ -762,7 +762,7 @@ UDP：部分支持Full Cone
 </details>
 
   
-  ![翼游测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyou.png)
+  ![翼游测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/yiyou.png)
   
   历史测速： <a href="https://honven.vercel.app/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
 
@@ -816,7 +816,7 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 
   JMS IPLC测速图
 
-  ![JMS IPLC测速图.jpg](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
+  ![JMS IPLC测速图.jpg](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/jms.jpg)
         
 
 <br>
@@ -825,9 +825,9 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 
 ss节点南方移动测速结果：
 
-  ![跑路云SSR线路测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
+  ![跑路云SSR线路测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
   
-  ![跑路云trojan线路测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paolutrojan.png)
+  ![跑路云trojan线路测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paolutrojan.png)
 
   历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
   
@@ -884,7 +884,7 @@ Business |专线 | 1000G/月起 | 2888/年起 | 30+
 
 Pro套餐2021-05-29南方移动测速结果：
 
- ![Blinkload测速图.png](https://cdn.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/blinkload.png)
+ ![Blinkload测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/blinkload.png)
 
   历史测速： <a href="https://honven.vercel.app/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
 
