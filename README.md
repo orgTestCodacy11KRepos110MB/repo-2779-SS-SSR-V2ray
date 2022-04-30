@@ -200,7 +200,7 @@ UDP：大部分支持Full Cone
   
 </details>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/tag.png" ></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/tag.webp" ></div>
 
 
 <br>
@@ -234,7 +234,7 @@ UDP: 部分支持Full Cone
 基础套餐：无国际Global Accelerator专线，29/月 100G流量起，无SLA保证。   
   
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/gacloud.png" width="800px"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/gacloud.webp" width="800px"></div>
 
 ------
   
@@ -254,7 +254,7 @@ UDP: 部分支持Full Cone
 >游戏节点：GAME游戏加速节点为SSR协议，VIP2以上才有  
 流媒体解锁：使用他家线路免费解锁Netflix、Disney+、PornHub高级会员      
 入口：广州移动、扬州电信、镇江BGP     
-节点国家与地区：香港、新加坡、日本、美国、台湾、韩国、欧洲、欧洲、俄罗斯、印度  
+节点国家与地区：香港、新加坡、日本、美国、台湾、韩国、欧洲、欧洲、俄罗斯、印度、英国原生、阿根廷、土耳其、马来西亚、泰国、菲律宾   
 老板肉身：马来西亚  
 开业时长：1年+   
 协议：V2ray、trojan、ss、ssr、vless   
@@ -269,7 +269,7 @@ vip1: 月付25,每月100G,3设备; 季付99，每月200G,3设备；年付87，�
 vip2：月付35，每月150G,；季付159，每月300G；年付351，每月400G;年付599，每月1000G等，5设备起。
 
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/suwa.png"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/suwa.webp"></div>
 
 ------
   
@@ -335,7 +335,7 @@ UDP: 部分支持Full Cone
    
 </details>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/stc.jpg" width="600px"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/stc.webp" width="600px"></div>
    
 
 <br>
@@ -396,7 +396,7 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
 
 </details>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/catnet.png"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/catnet.webp"></div>
 
 历史测速： <a href="https://honven.vercel.app/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
 
@@ -443,7 +443,7 @@ TG频道： https://t.me/AAEX_Channel
 轻量套餐| 中转 |25G/月 |15块/月 | 节点少且只有中转无专线
 
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/aaex.png" ></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/aaex.webp" ></div>
 
 ------
 
@@ -573,9 +573,9 @@ VIP4：标准34.90块/月起，300G；年付259,300GB流量/月； SSR+V2ray协�
 
 ss节点南方移动测速结果：
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/paoluss.png"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/paoluss.webp"></div>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/paoluv2.png"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/paoluv2.webp"></div>
 
 
 
@@ -611,7 +611,7 @@ ss节点南方移动测速结果：
 进阶月付：22.8块/月158G起；4个设备起。      
 旗舰月付：32.8块/月158G起；6个设备起。  
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/fenda.png"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/fenda.webp"></div>
 
 
 
@@ -644,7 +644,7 @@ min/pro/max等普通中转：无专线，7块/月50G起；2个设备起。稳定
 Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起）   
 按量付费：5毛/G。推荐当备用。   
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/hutao.png" width="700px"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/hutao.webp" width="700px"></div>
 
 ------
 
@@ -710,7 +710,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
   
   最新测速图与优惠更新在频道：https://t.me/jichangtj
   
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/shaoshupai.png" width="700px"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/shaoshupai.webp" width="700px"></div>
 
 
 
@@ -775,7 +775,7 @@ UDP：部分支持Full Cone
   
 </details>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/yiyou.png" width="800px"></div>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/yiyou.webp" width="800px"></div>
 
 
 
