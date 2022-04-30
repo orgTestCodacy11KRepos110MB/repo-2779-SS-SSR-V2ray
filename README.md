@@ -196,9 +196,9 @@ UDP：大部分支持Full Cone
   
 </details>
 
-  ![tag测速图](https://honven.vercel.app/uploads/vpn/tag.png)
-  
-  历史测速： <a href="https://honven.vercel.app/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/tag.png" ></div>
+
+ 历史测速： <a href="https://honven.vercel.app/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>
 
 <br>
 
@@ -228,11 +228,10 @@ UDP: 部分支持Full Cone
 >基础套餐 | BGP线路 |每月100G流量，39块/月，每月150G流量，117块/季度；每月200G流量，468/年， |31块起 | 3个在线设备           
 进阶套餐 | BGP线路,双程CN2线路 |每月100G流量，49块/月；每月150G流量，147块/季度；每月200G流量，588/年 |39块起 |3个在线设备        
 基础套餐：无国际Global Accelerator专线，29/月 100G流量起，无SLA保证。   
-
-
-  ![gacloud测速图](https://honven.vercel.app/uploads/vpn/gacloud.png)
   
-  
+
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/gacloud.png" width="800px"></div>
+
 ------
   
 ### Catnet（华为云专线）
@@ -291,9 +290,10 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
 官方简介：云连接（Cloud Connect）能够提供一种快速构建跨区域VPC及云上多VPC与云下多数据中心之间的高速、优质、稳定的网络能力，帮助用户打造一张具有企业级规模和通信能力的全球云上网络。
 华为云线路跟阿里云，腾讯云相比少了些POP，亚太地区只有香港，曼谷，新加坡，美国没POP，但是整体体验也不错。
 
-   ![catnet测速图.png](https://honven.vercel.app/uploads/vpn/catnet.png)
-  
-   历史测速： <a href="https://honven.vercel.app/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
+
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/catnet.png"></div>
+
+历史测速： <a href="https://honven.vercel.app/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
 
  
  <br>
@@ -330,8 +330,7 @@ vip1: 月付25,每月100G,3设备; 季付99，每月200G,3设备；年付87，�
 vip2：月付35，每月150G,；季付159，每月300G；年付351，每月400G;年付599，每月1000G等，5设备起。
 
 
-![suwa测速图](https://honven.vercel.app/uploads/vpn/suwa.png)
-
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/suwa.png"></div>
 
 ------
   
@@ -396,10 +395,9 @@ UDP: 部分支持Full Cone
    
 </details>
 
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/stc.jpg"></div>
    
-  ![STC-SERVER测速图](https://honven.vercel.app/uploads/vpn/stc.jpg)
-
-   历史测速： <a href="https://honven.vercel.app/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>
+历史测速： <a href="https://honven.vercel.app/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>
 
 <br>
   
@@ -442,6 +440,9 @@ TG频道： https://t.me/AAEX_Channel
 无限流量套餐 | 中转+专线，全部节点 |无限流量 |99块/月 | 每2T开工单重置一次，不限制设备数目
 标准套餐 | 中转+专线，全部节点| 300GG/月 |150块/月 | 不限制设备数目
 轻量套餐| 中转 |25G/月 |15块/月 | 节点少且只有中转无专线
+
+
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/aaex.png"></div>
 
 ------
 
@@ -571,11 +572,12 @@ VIP4：标准34.90块/月起，300G；年付259,300GB流量/月； SSR+V2ray协�
 
 ss节点南方移动测速结果：
 
-  ![跑路云SSR线路测速图](https://honven.vercel.app/uploads/vpn/paoluss.png)
-  
-  ![跑路云trojan线路测速图](https://honven.vercel.app/uploads/vpn/paoluv2.png)
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/paoluss.png"></div>
 
-  历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/paoluv2.png"></div>
+
+
+历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
   
 <br>
 
@@ -607,7 +609,7 @@ ss节点南方移动测速结果：
 进阶月付：22.8块/月158G起；4个设备起。      
 旗舰月付：32.8块/月158G起；6个设备起。  
 
- ![fenda测速图](https://honven.vercel.app/uploads/vpn/fenda.png)
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/fenda.png"></div>
 
 
 
@@ -639,7 +641,7 @@ min/pro/max等普通中转：无专线，7块/月50G起；2个设备起。稳定
 Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起）   
 按量付费：5毛/G。推荐当备用。   
 
- ![hutao测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/hutao.png)
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/hutao.png"></div>
 
 ------
 
@@ -705,9 +707,9 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
   
   最新测速图与优惠更新在频道：https://t.me/jichangtj
   
- ![少数派测速图](https://honven.vercel.app/uploads/vpn/shaoshupai.png)
- 
- 历史测速： <a href="https://honven.vercel.app/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/shaoshupai.png"></div>
+
+历史测速： <a href="https://honven.vercel.app/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>
 
 
 <br>
@@ -771,8 +773,8 @@ UDP：部分支持Full Cone
   
 </details>
 
-  
-  ![翼游测速图](https://honven.vercel.app/uploads/vpn/yiyou.png)
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/yiyou.png"></div>
+
   
   历史测速： <a href="https://honven.vercel.app/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
 
