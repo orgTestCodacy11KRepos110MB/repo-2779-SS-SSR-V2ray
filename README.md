@@ -826,11 +826,8 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 
 肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">https://bit.ly/3sDxUwC</a> 
 
-  JMS IPLC测速图
-
-  ![JMS IPLC测速图](https://honven.vercel.app/uploads/vpn/jms.jpg)
-        
-
+ 
+       
 <br>
 
 
