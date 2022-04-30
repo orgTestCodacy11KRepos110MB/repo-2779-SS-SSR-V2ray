@@ -569,6 +569,15 @@ VIP4：标准34.90块/月起，300G；年付259,300GB流量/月； SSR+V2ray协�
    
 </details>
 
+ss节点南方移动测速结果：
+
+  ![跑路云SSR线路测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
+  
+  ![跑路云trojan线路测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paolutrojan.png)
+
+  历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
+  
+<br>
 
 ------
 
@@ -707,7 +716,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 
 
-### 翼游（公网中转）
+### 翼游（IEPL专线）
 
 ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
 官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/cPYd4aA" target="_blank">https://suo.yt/cPYd4aA</a>
@@ -823,15 +832,7 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 
 
 
-ss节点南方移动测速结果：
 
-  ![跑路云SSR线路测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paoluss.png)
-  
-  ![跑路云trojan线路测速图.png](https://test1.jsdelivr.net/gh/hwanz/SS-SSR-V2ray/img/paolutrojan.png)
-
-  历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>
-  
-<br>
 
 ------
 
