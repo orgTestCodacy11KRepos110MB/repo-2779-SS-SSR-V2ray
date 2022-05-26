@@ -222,6 +222,7 @@ UDP: 部分支持Full Cone
 入口ip数量 2 （深圳和上海）   
 落地ip数量 33   
 付款方式：支付宝    
+小白客户端：有  
 协议：SS+SSR+Trojan+v2ray      
 历史测速： <a href="https://honven.vercel.app/阿里云ss线路机场推荐GaCloud.html" target="_blank">Gacloud历史测速结果整合</a>     
 
@@ -411,8 +412,12 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
 
 ### 六、跑路云
 
-深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。V3套餐是走深港专线，V4套餐是走华为云专线，且有Game游节点仅支持SSR协议。
-也有一些冷门节点。10块里面左右很值得推荐了。
+深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。
+v1等级套餐直连线路trojan
+v2套餐是走公网中转
+V3套餐是走深港专线
+V4套餐是走华为云专线，且有Game游节点仅支持SSR协议。
+也有一些冷门节点，仅支持Trojan协议。
 官网(使用这个链接赠送1块余额)： （机场在限制新增用户数，邀请次数有限，用完就只能等老板给了，如果打不开请切换为全局代理）：<a href="https://owo-qvq-uvu-owo.xn--mes358a082apda.com/auth/register?code=He5q" target="_blank">跑路云官网</a>
 
 
@@ -435,7 +440,7 @@ TG频道： [https://t.me/paoluztz](https://t.me/paoluztz)
 历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>  
 
 套餐:
->VIP2：8.9块/月,75G,只有Trojan协议； 年付149,128GB流量/月。（没钱学生党随便用用可以买）  
+>VIP2：8.9块/月,75G,只有Trojan协议； 年付149,128GB流量/月，公网中转（没钱学生党随便用用可以买）  
 VIP3：标准19.9块/月起,180G； 年付329,360GB流量/月； SSR+Trojan协议、深港（建议v3等级起）   
 VIP4：标准36.90块/月起，360G；年付439,512GB流量/月； SSR+V2ray协议、深港+华为云+游戏线路（最好买这个套餐）    
 
