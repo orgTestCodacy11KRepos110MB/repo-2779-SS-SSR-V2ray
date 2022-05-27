@@ -4,7 +4,7 @@
 
 机场推荐购买付费账号，收费机场比较好，不建议买付费的VPN,感觉付费VPN不如付费ssr/v2ray机场；花钱可以节省很多时间和精力,而且贵点的稳定点舒服很多，不可能又便宜又稳定流量还多的。用了好的就回不去了；之前自己搭建虽然最安全，但是容易受到高墙干扰，维护很麻烦不推荐购买直接使用搜索vpn出来的软件，迟早药丸免费机场/白嫖机场一般不太稳定；下面有几个稳定的机场推荐，包括ssr、ss、v2ray、trojan等协议，也有可以打游戏的、IPLC专线机场等。因为现在防火墙在每年64、国庆、除夕都会进行干扰代理，目前的方法是反向墙国内中转服务器，所以敏感时期需要使用专线，如果是企业，需要高稳定性直接买专线机场就好。
 
-Telegram机场观察频道：https://t.me/jichangtj   掌握最新机场优惠折扣通知，最新机场推荐评测与测速图，最新科学上网相关新闻与消息，欢迎关注
+[Telegram机场观察频道](https://t.me/jichangtj) :掌握最新机场优惠折扣通知，最新机场推荐评测与测速图，最新科学上网相关新闻与消息，欢迎关注
 
 建议收藏本页，持续更新
 如果觉得有帮助到您，Star下呗~~~ 经常更新！！！最近更新时间：2022.05
@@ -44,7 +44,7 @@ Telegram机场观察频道：https://t.me/jichangtj   掌握最新机场优惠�
 
 9.游戏、语音、BT需要线路支持UDP；需要看奈飞 hbo等的，需要买有原生节点/DNS解锁的线路。机场线路打游戏其实不太建议，最好是使用UU加速器这种专业的，机场的游戏线路可能不太适合
 
-10.注意机场的倍率，2倍率就是用1M算2M流量，用10倍率的线路，流量可能一下就没了。机场基本都是有审计的，比如是BT下载、邮件端口和政治敏感网站。
+10.注意机场的倍率，2倍率就是用1M算2M流量，用10倍率的线路，流量可能一下就没了。别看单价流量多就觉得值,1块1T不好用也是浪费钱。机场基本都是有审计的，比如是BT下载、邮件端口和政治敏感网站。
 
 11.尽量选择gmail、outlook、protonmail等邮箱注册，如果可以尽量选择数字货币支付。不要使用真实个人信息。有试用先试用。但是试用可能不限速，套餐限速。所以需要看购买的套餐带宽是否是限速的。
 
@@ -276,77 +276,8 @@ vip2：月付35，每月150G,；季付159，每月300G；年付351，每月400G;
 
 ------
   
-  
-### 四、STC-SERVER
 
-IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费，推荐买来当备用。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联，不用不花钱还。
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/msGOhsW" target="_blank">https://suo.yt/msGOhsW</a>
-官网2(需代理)： <a href="https://bit.ly/3tJPGBS" target="_blank">https://bit.ly/3tJPGBS</a>
-
-
-
->专线: 有   
-Anycast：有   
-流媒体解锁：有    
-节点国家与地区：香港、日本、新加坡、美国、台湾  
-老板肉身：香港    
-UDP: 部分支持Full Cone     
-一键使用客户端： 有    
-开业时长：1年+   
-入口ip数量 10   
-落地ip数量 32   
-付款方式：支付宝     
-历史测速： <a href="https://honven.vercel.app/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>    
-
-套餐:
-
->按量付费：0.8块/G,不用不花钱.
-基础套餐 | BGP线路,线路38条 |每月100G流量，38块/月，2/3个在线客户端    
-进阶套餐 |  BGP线路,线路38+13条 |每月100G流量，48块/月，3/4个在线客户端     
-旗舰套餐 |  BGP线路+IPLC线路,线路38+13+7条 |每月100G流量，88块/月，4/5个在线客户端    
-企业套餐 |  BGP线路+IPLC线路,线路38+13+7+4条 |每月100G流量，108块/月，5/6个在线客户端   
-
-<details>
-  <summary>具体入口和落地信息</summary>
-  
-    入口：
-     China Nanjing, China Unicom Liaoning*1
-     China Pudong, China Unicom Shanghai*1
-     China Shanghai, China Unicom Shanghai*1
-     China Suzhou, China Mobile*2
-     China Unknown City, CHINATELECOM JiangSu YangZhou IDC networkdescr: Ya*1
-     China Unknown City, China Mobile*2
-     China Unknown City, China Telecom Shanghai*2
-  
-
-    落地：
-    China Tianjin, SuperInternet ACCESS Pte*2
-    Hong Kong Central, China Mobile Hong Kong Broadband*1
-    Hong Kong Central, Hong Kong Broadband Network*2
-    Hong Kong Kowloon, Netvigator*5
-    Hong Kong Kwun Hang, China Mobile Hong Kong Broadband*1
-    Hong Kong Lai Chi Kok, Hong Kong Broadband Network*1
-    Hong Kong Sham Tseng, Netvigator*1
-    Hong Kong Tin Shui Wai, Netvigator*1
-    Hong Kong Tuen Mun, Netvigator*4
-    Japan Tokyo, Kirino LLC*3
-    Taiwan New Taipei, Chunghwa Telecom*5
-    Taiwan Tainan City, Chunghwa Telecom*4
-    United States Los Angeles, DMIT*1
-    United States Seattle, Kirino LLC*1
-
-   
-</details>
-
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/stc.webp" width="600px"></div>
-   
-
-<br>
-  
-  
-  ------
-
-### 五、Catnet（深港专线）
+### 四、Catnet（深港专线）
 ss协议深港专线机场，梦迪家分站，比主站人少。速度不错。
 官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/fkNAX0t" target="_blank">https://suo.yt/fkNAX0t</a>
 官网2(需代理)： <a href="https://bit.ly/3ubwf54" target="_blank">https://bit.ly/3ubwf54</a>
@@ -410,24 +341,23 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
  
 
 
-### 六、跑路云
+### 五、跑路云
 
-深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。
-v1等级套餐直连线路trojan
-v2套餐是走公网中转
-V3套餐是走深港专线
-V4套餐是走华为云专线，且有Game游节点仅支持SSR协议。
-也有一些冷门节点，仅支持Trojan协议。
+深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。    
+v1等级套餐直连线路trojan   
+v2套餐是走公网中转   
+V3套餐是走深港专线  
+V4套餐是走华为云专线，且有Game游节点仅支持SSR协议。主要是花卷莞港莞新、腾讯沪韩、华为广港沪日（V4套餐独有）     
+也有一些冷门节点，仅支持Trojan协议。   
 官网(使用这个链接赠送1块余额)： （机场在限制新增用户数，邀请次数有限，用完就只能等老板给了，如果打不开请切换为全局代理）：<a href="https://owo-qvq-uvu-owo.xn--mes358a082apda.com/auth/register?code=He5q" target="_blank">跑路云官网</a>
 
 
 >专线: 有    
-免费公益节点：4条直连线路    
 游戏节点：GAME游戏加速节点为SSR协议（不保证好用）
 流媒体解锁：Netflix、youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP     
-节点国家与地区：香港、日本、新加坡、美国、台湾、马来西亚、韩国、印度尼西亚、澳门、以色列、俄罗斯、冰岛、加拿大、印度、土耳其、巴西、德国、法国、澳大利亚、瑞士、英国、菲律宾、阿根廷    
+节点国家与地区：香港、日本、新加坡、美国、台湾、马来西亚、韩国、印度尼西亚、澳门、以色列、俄罗斯、冰岛、加拿大、印度、土耳其、巴西、德国、法国、澳大利亚、瑞士、英国、菲律宾、阿根廷   
 老板肉身：境外     
-开业时长：1年+     
+开业时长：2年+     
 UDP：支持     
 入口ip数量 8        
 落地ip数量 58    
@@ -440,9 +370,10 @@ TG频道： [https://t.me/paoluztz](https://t.me/paoluztz)
 历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>  
 
 套餐:
->VIP2：8.9块/月,75G,只有Trojan协议； 年付149,128GB流量/月，公网中转（没钱学生党随便用用可以买）  
-VIP3：标准19.9块/月起,180G； 年付329,360GB流量/月； SSR+Trojan协议、深港（建议v3等级起）   
-VIP4：标准36.90块/月起，360G；年付439,512GB流量/月； SSR+V2ray协议、深港+华为云+游戏线路（最好买这个套餐）    
+>VIP2：11.9块/月,90G,只有Trojan协议； 年付149,128GB流量/月；走公网中转（没钱学生党随便用用可以买）  
+VIP3：标准19.9块/月起,160G； 年付329,360GB流量/月； SSR+Trojan协议、深港（建议v3等级起）  
+VIP4：标准36.90块/月起，360G；年付439,512GB流量/月； SSR+V2ray协议、深港+华为云（最好买这个套餐）  
+    
 
 
 
@@ -544,6 +475,76 @@ ss节点南方移动测速结果：
 
   
 <br>
+
+    ------
+
+### 六、STC-SERVER
+
+IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费，推荐买来当备用。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联，不用不花钱还。
+官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/msGOhsW" target="_blank">https://suo.yt/msGOhsW</a>
+官网2(需代理)： <a href="https://bit.ly/3tJPGBS" target="_blank">https://bit.ly/3tJPGBS</a>
+
+
+
+>专线: 有   
+Anycast：有   
+流媒体解锁：有    
+节点国家与地区：香港、日本、新加坡、美国、台湾  
+老板肉身：香港    
+UDP: 部分支持Full Cone     
+一键使用客户端： 有    
+开业时长：1年+   
+入口ip数量 10   
+落地ip数量 32   
+付款方式：支付宝     
+历史测速： <a href="https://honven.vercel.app/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>    
+
+套餐:
+
+>按量付费：0.8块/G,不用不花钱.
+基础套餐 | BGP线路,线路38条 |每月100G流量，38块/月，2/3个在线客户端    
+进阶套餐 |  BGP线路,线路38+13条 |每月100G流量，48块/月，3/4个在线客户端     
+旗舰套餐 |  BGP线路+IPLC线路,线路38+13+7条 |每月100G流量，88块/月，4/5个在线客户端    
+企业套餐 |  BGP线路+IPLC线路,线路38+13+7+4条 |每月100G流量，108块/月，5/6个在线客户端   
+
+<details>
+  <summary>具体入口和落地信息</summary>
+  
+    入口：
+     China Nanjing, China Unicom Liaoning*1
+     China Pudong, China Unicom Shanghai*1
+     China Shanghai, China Unicom Shanghai*1
+     China Suzhou, China Mobile*2
+     China Unknown City, CHINATELECOM JiangSu YangZhou IDC networkdescr: Ya*1
+     China Unknown City, China Mobile*2
+     China Unknown City, China Telecom Shanghai*2
+  
+
+    落地：
+    China Tianjin, SuperInternet ACCESS Pte*2
+    Hong Kong Central, China Mobile Hong Kong Broadband*1
+    Hong Kong Central, Hong Kong Broadband Network*2
+    Hong Kong Kowloon, Netvigator*5
+    Hong Kong Kwun Hang, China Mobile Hong Kong Broadband*1
+    Hong Kong Lai Chi Kok, Hong Kong Broadband Network*1
+    Hong Kong Sham Tseng, Netvigator*1
+    Hong Kong Tin Shui Wai, Netvigator*1
+    Hong Kong Tuen Mun, Netvigator*4
+    Japan Tokyo, Kirino LLC*3
+    Taiwan New Taipei, Chunghwa Telecom*5
+    Taiwan Tainan City, Chunghwa Telecom*4
+    United States Los Angeles, DMIT*1
+    United States Seattle, Kirino LLC*1
+
+   
+</details>
+
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/stc.webp" width="600px"></div>
+   
+
+<br>
+  
+  
 
 ------
 
