@@ -337,7 +337,8 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
  
  <br>
  
- ------
+ 
+------
  
 
 
@@ -715,7 +716,8 @@ UDP：部分支持Full Cone
 
 ------
 
-### 十、Hutao（目前崩了等恢复）
+
+### 十、Hutao
 
 中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
 官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Bm0vItP" target="_blank">https://suo.yt/Bm0vItP</a>
@@ -789,7 +791,7 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">https://bit.ly/3sDxUwC</a> 
 
  
-       
+      
 <br>
 
 <!-- 
