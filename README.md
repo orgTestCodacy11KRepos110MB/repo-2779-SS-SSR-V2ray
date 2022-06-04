@@ -262,7 +262,7 @@ UDP: 部分支持Full Cone
 开业时长：1年+   
 协议：V2ray、trojan、ss、ssr、vless   
 专门客服：有  
-付款方式：支付宝  
+付款方式：支付宝、USDT  
 TG频道： [fasterfrogchannel](https://t.me/fasterfrogchannel)
 
 
@@ -482,7 +482,7 @@ ss节点南方移动测速结果：
 
 ### 六、STC-SERVER
 
-IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费，推荐买来当备用。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联，不用不花钱还。
+IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费，推荐买来当备用。即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联，不用不花钱还。推荐旗舰套餐起。
 官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/msGOhsW" target="_blank">https://suo.yt/msGOhsW</a>
 官网2(需代理)： <a href="https://bit.ly/3tJPGBS" target="_blank">https://bit.ly/3tJPGBS</a>
 
@@ -504,10 +504,10 @@ UDP: 部分支持Full Cone
 套餐:
 
 >按量付费：0.8块/G,不用不花钱.
-基础套餐 | BGP线路,线路38条 |每月100G流量，38块/月，2/3个在线客户端    
-进阶套餐 |  BGP线路,线路38+13条 |每月100G流量，48块/月，3/4个在线客户端     
-旗舰套餐 |  BGP线路+IPLC线路,线路38+13+7条 |每月100G流量，88块/月，4/5个在线客户端    
-企业套餐 |  BGP线路+IPLC线路,线路38+13+7+4条 |每月100G流量，108块/月，5/6个在线客户端   
+基础套餐 | 中转线路,线路38条 |每月100G流量，38块/月，2/3个在线客户端    
+进阶套餐 |  中转线路,更多线路38+13条 |每月100G流量，48块/月，3/4个在线客户端     
+旗舰套餐 |  中转线路+专线线路,线路38+13+7条 |每月100G流量，88块/月，4/5个在线客户端    
+企业套餐 |  中转线路+更多专线线路,线路38+13+7+4条 |每月100G流量，108块/月，5/6个在线客户端   
 
 <details>
   <summary>具体入口和落地信息</summary>
@@ -554,7 +554,7 @@ UDP: 部分支持Full Cone
 ------
 
 
-### 七、芬达
+### 七、芬达（IEPL专线机场）  
 
 
 中转ss机场，人目前比较少，适合想要人少机场的用户。 
@@ -586,7 +586,7 @@ UDP: 部分支持Full Cone
 ------
 
 
-###  八、少数派（IEPL专线）
+###  八、少数派（IEPL专线机场）
 
 ss+v2ray，全IEPL专线机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。
 官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/BkesHGa" target="_blank">https://suo.yt/BkesHGa</a>
@@ -605,7 +605,7 @@ UDP: 部分支持Full Cone,需要自己手动开
 入口ip数量 4    
 落地ip数量 22        
 历史测速： <a href="https://honven.vercel.app/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>     
-协议：SS + V2ray   
+协议：SS    
 付款方式：支付宝、微信、虚拟币   
 TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
 
@@ -657,7 +657,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 
 
-### 九、翼游（IEPL专线）
+### 九、翼游（IEPL专线机场）
 
 ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
 官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/cPYd4aA" target="_blank">https://suo.yt/cPYd4aA</a>
@@ -721,7 +721,7 @@ UDP：部分支持Full Cone
 ------
 
 
-### 十、Hutao
+### 十、Hutao（IEPL专线机场）
 
 中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
 官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Bm0vItP" target="_blank">https://suo.yt/Bm0vItP</a>
@@ -738,7 +738,7 @@ UDP：部分支持Full Cone
 入口数目: 2，广州移动   
 落地数目: 28   
 历史测速： <a href="https://honven.vercel.app/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
-协议：SS,V2ray   
+协议：SS   
 付款方式：支付宝   
 TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
 
