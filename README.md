@@ -27,7 +27,7 @@
 <div align=center><img src="https://honven.vercel.app/uploads/vpn/0.webp" width="200px"></div>
 
 
-3.稳定与协议没有关系，协议不是最重要的，线路才是。ss，ssr，v2ray，trojan都行，不过ssr太久没维护了，目前大部分机场抛弃ssr。被识别了目前只是封ip，损失的是机场主。你换一条线路即可。总体而言ss延迟相对较低。非敏感时期的日常使用中转就好 不一定要用专线。不一定要用专线。专线不一定就好，需要看同时使用人数，几百人挤同一条小水管不如几个人的中转，甚至不如直连。主要注意ssr不支持surge.win和mac的clash for windows、ios的quantumultX、小火箭、surge；安卓使用surfboard、Clash for Android、v2rayNG等都是支持多种协议的。机场主常年不在线，修复节点慢的也别买。
+3.稳定与协议没有关系，协议不是最重要的，线路才是。ss，ssr，v2ray，trojan都行，不过ssr太久没维护了，目前大部分机场抛弃ssr。被识别了目前只是封ip，损失的是机场主。你换一条线路即可。总体而言ss延迟相对较低。非敏感时期的日常使用中转就好 不一定要用专线。不一定要用专线。专线不一定就好，需要看同时使用人数，几百人挤同一条小水管不如几个人的中转，甚至不如直连。主要注意ssr不支持surge.win和mac的clash for windows、ios的quantumultX、小火箭、surge；安卓使用surfboard、Clash for Android、v2rayNG等都是支持多种协议的。机场主常年不在线，修复节点慢的也别买。速度要看机场的总带宽大小，稳定要看机场的资源质量，解锁看的是机场主的落地/解锁商是否优秀。   
 
 <div align=center><img src="https://honven.vercel.app/uploads/vpn/1.webp" width="700px"></div>
 
@@ -82,14 +82,15 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 ------
 
 
-### 一、TAG(专线机场)
-华为BGP专线SS协议机场，包括广港、沪日，稳定性高延迟低，值得推荐！
+### 一、TAG(华为云专线机场)
+华为BGP专线SS协议机场，包括广港、沪日，稳定性高延迟低，值得推荐！  
+南部和北部节点 （港台新澳欧洲）走广州华为云入口，过境广港专线；东部节点（日韩美、南美）走上海华为云入口，过境沪日专线。  
 特色：流媒体解锁和落地，有大量冷门节点，全球80+国家地区，各地家宽IP、原生ip，最多国家的机场，没有之一。老板很认真挑选落地节点，基本都是原生（解锁各种流媒体）并且带宽大的才用，非常适合各类流媒体爱好者。老板人挺好，基本都在群里回答问题。
 机场主在香港。不买他家套餐，也推荐买140一年的流量包可做备用。    
 
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Gp2XYhh" target="_blank">https://suo.yt/Gp2XYhh</a>
+<a href="https://suo.yt/Gp2XYhh" target="_blank">TAG官网1(如果打不开请切换为全局代理) </a>
 
-官网2(需代理)： <a href="https://bit.ly/3KpGk3o" target="_blank">https://bit.ly/3KpGk3o</a>
+<a href="https://bit.ly/3KpGk3o" target="_blank">TAG官网2(需代理)</a>
 
 
 >专线: 有 
@@ -98,14 +99,14 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 入口：广州、上海   
 UDP：大部分支持Full Cone       
 落地：80+个国家 
-网络监控：http://system.tagvpn.xyz     
+[网络监控](http://system.tagvpn.xyz )    
 开业时长：2年+   
 落地ip数量 170+   
 协议：SSR   
 历史测速： <a href="https://honven.vercel.app/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>   
 专门客服：有    
 付款方式：支付宝    
-流媒体解锁情况：https://node.tagvpn.xyz/    
+[具体节点和流媒体解锁情况](https://node.tagvpn.xyz/) 
 
 
 套餐:
@@ -210,16 +211,15 @@ UDP：大部分支持Full Cone
 ------
 
 ### 二、Gacloud（专线机场） 
-专线机场，华为云广州入口，隧道至香港的CN2，香港老板，已有机场行业多年经验。自己开发的面板，多年自有机房，国际走任播ANY。速度不错。入口总带宽4G。后期会引入专线，限速200M。
-有分组：C优质和H精品组，入口都一样，出口精品的优先级会更高，人数不一样，精品人少，碎片负载会更少。如果有新产品或者遇到波动，会优先给精品接入更贵的产品以及优化。这2个组都是完全独立的入口出口，每个组都是2个地区入口，地域解析就近接入。有按量付费和自定义套餐选项，也可以当备用。会员免费送奈菲会员体验券。 想找人数少的机场的，这家值得推荐。
+专线机场，华为云广州入口，隧道至香港的CN2，香港老板，已有机场行业多年经验。自己开发的面板，多年自有机房，国际走任播ANY。速度不错。华为云广州入口，隧道至香港的CN2 出口。有分组：B/C/H三个组，有分组：B、C和H组，香港往其他地区路由：B组为运营商BGP路由 ；H组为AWS骨干网 ；C组为基于H组更高优先级。人数不一样，精品人少，碎片负载会更少。如果有新产品或者遇到波动，会优先给精品接入更贵的产品以及优化。稳定性不错。会员赠送一张7天奈飞会员体验卡。 。有按量付费和自定义套餐选项，也可以当备用。会员免费送奈菲会员体验券。 想找人数少的机场的，这家值得推荐。
 
 有按量付费，即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联。有些机场是需要代理才能打开的，失联或者忘记续费你就无办法续费了，死循环。
 
 官网（通过这个链接注册新用户全员无门槛8折优惠券,只能用一次）：
 
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/3a9ya84" target="_blank">https://suo.yt/3a9ya84</a>
+ <a href="https://suo.yt/3a9ya84" target="_blank">Gacloud官网1(如果打不开请切换为全局代理)</a>
 
-官网2(需代理)： <a href="https://bit.ly/3raw9sD" target="_blank">https://bit.ly/3raw9sD</a>
+ <a href="https://bit.ly/3raw9sD" target="_blank">Gacloud官网2(需代理)</a>
 
 
 >节点国家与地区：香港、日本、新加坡、美国、台湾   
@@ -253,10 +253,11 @@ UDP: 部分支持Full Cone
 ### 三、速蛙云
 
 推他家的原因有两点：  
-独特福利社：奈飞(30元)、P站(65元)、X站(65元)高级会员免费送，自己买一个月要100多，老司机和追剧迷肯定都喜欢，充值1元（1元1天5G）打开福利社即可；自己开发的面板。他家的代理教程不错：https://suwav2ray.com/helplist/      
+独特福利社：奈飞(30元)、P站(65元)、X站(65元)高级会员免费送，自己买一个月要100多，老司机和追剧迷肯定都喜欢，充值1元（1元1天5G）打开福利社即可；自己开发的面板。[他家的代理教程不错](https://suwav2ray.com/helplist/)    
+
 稳定和速度：自有的负载均衡技术，连上不掉线，晚高峰4k拖着看，下面的测速图说明问题，晚高峰测过多次都是这样 。也是有实力的机场。可以花一块钱试用，好用再买套餐，好不好用试用就知道。1块钱买了不吃亏买了不上当。
  
-[官网](https://i.3h88.top/kxNc)  
+[速蛙云官网地址](https://i.3h88.top/kxNc)  
 
 套餐:  
 套餐较多，精选几个受欢迎程度高的      
@@ -286,11 +287,11 @@ vip2：月付35，每月150G,；季付159，每月300G；年付351，每月400G;
   
 
 ### 四、Catnet（深港专线）
-ss协议深港专线机场，梦迪家分站，比主站人少。速度不错。Small 套餐适合轻量用户。
+ss协议，入口是上海移动，北京移动，广州华为云BGP，过境深港专线。梦迪家分站，比主站人少。速度不错。Small 套餐适合轻量用户。    
 
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/fkNAX0t" target="_blank">https://suo.yt/fkNAX0t</a>
+ <a href="https://suo.yt/fkNAX0t" target="_blank">Catnet官网1</a>    
 
-官网2(需代理)： <a href="https://bit.ly/3ubwf54" target="_blank">https://bit.ly/3ubwf54</a>
+ <a href="https://bit.ly/3ubwf54" target="_blank">Catnet官网2(需代理)：4</a>
 
 
 >专线: 有   
@@ -354,13 +355,16 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
 
 ### 五、跑路云
 
-深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。
+深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。入口：广州华为云、湖南联通，过境：广港专线。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。
 
 v1等级套餐直连线路trojan   
 v2套餐是走公网中转   
 V3套餐是走深港专线  
 V4套餐是走华为云专线，且有Game游节点仅支持SSR协议。主要是花卷莞港莞新、腾讯沪韩、华为广港沪日（V4套餐独有）     
-也有一些冷门节点，仅支持Trojan协议。   
+也有一些冷门节点，仅支持Trojan协议。  
+
+20块左右里面的机场这家值得推荐,套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。    
+
 官网(使用这个链接赠送1块余额)： （机场在限制新增用户数，邀请次数有限，用完就只能等老板给了，如果打不开请切换为全局代理）：<a href="https://owo-qvq-uvu-owo.xn--mes358a082apda.com/auth/register?code=He5q" target="_blank">跑路云官网地址</a>
 
 
@@ -493,9 +497,12 @@ ss节点南方移动测速结果：
 
 ### 六、STC-SERVER
 
-IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。推荐旗舰套餐起。
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/msGOhsW" target="_blank">https://suo.yt/msGOhsW</a>
-官网2(需代理)： <a href="https://bit.ly/3tJPGBS" target="_blank">https://bit.ly/3tJPGBS</a>
+IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。推荐旗舰套餐起。  
+
+ <a href="https://suo.yt/msGOhsW" target="_blank">官网1(如果打不开请切换为全局代理)</a>  
+
+
+ <a href="https://bit.ly/3tJPGBS" target="_blank">官网2(需代理)</a>   
 
 
 
@@ -563,7 +570,9 @@ UDP: 部分支持Full Cone
 
 
 中转ss机场，人目前比较少，适合想要人少机场的用户。 
+
 官网1：https://suo.yt/c0CZffc
+
 官网2：https://bit.ly/3tOgI9J
 
 全部套餐 8.8 折优惠码：new88z  
@@ -597,8 +606,7 @@ UDP: 部分支持Full Cone
 ### 八、Hutao（IEPL专线机场）
 
 中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/Bm0vItP" target="_blank">https://suo.yt/Bm0vItP</a>
-官网2(需代理)： <a href="https://bit.ly/3G9K4Dy" target="_blank">https://bit.ly/3G9K4Dy</a>
+<a href="https://bit.ly/3G9K4Dy" target="_blank">Hutao官网(需代理)y</a>
 
 
 中继：有  
@@ -631,9 +639,7 @@ Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起
 
 ###  九、少数派（IEPL专线机场）
 
-ss+v2ray，全IEPL专线机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/BkesHGa" target="_blank">https://suo.yt/BkesHGa</a>
-官网2(需代理)： <a href="https://bit.ly/3Gd9VdH" target="_blank">https://bit.ly/3Gd9VdH</a>
+ss+v2ray，全IEPL专线机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。 <a href="https://bit.ly/3Gd9VdH" target="_blank">少数派官网(需代理)</a>
 
 
 
@@ -686,7 +692,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
   
 </details>
   
-  最新测速图与优惠更新在频道：https://t.me/jichangtj
+  [最新测速图与优惠更新在频道](https://t.me/jichangtj)
   
 <div align=center><img src="https://honven.vercel.app/uploads/vpn/shaoshupai.webp" width="700px"></div>
 
@@ -702,9 +708,11 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 ### 十、翼游（IEPL专线机场）
 
-ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。   
-官网1(如果打不开请切换为全局代理)： <a href="https://suo.yt/cPYd4aA" target="_blank">https://suo.yt/cPYd4aA</a>
-官网2(需代理)： <a href="https://bit.ly/32Htu07" target="_blank">https://bit.ly/32Htu07</a>
+ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。 
+
+ <a href="https://suo.yt/cPYd4aA" target="_blank">官网1(如果打不开请切换为全局代理)</a>   
+
+ <a href="https://bit.ly/32Htu07" target="_blank">官网2(需代理)7</a>   
 
 
 >中继：有     
@@ -769,7 +777,7 @@ UDP：部分支持Full Cone
 相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。   
 对安全性的重视程度较大的和担心私人机场跑路，有敏感操作的用户，推荐买这家。   
 支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
-官网注册地址,需要代理或全局模式访问 :  <a href="https://bit.ly/3weANGp" target="_blank">https://bit.ly/3weANGp</a>
+ <a href="https://bit.ly/3weANGp" target="_blank">官网注册地址,需要代理或全局模式访问 </a>
 
 >专线: 有     
 落地：香港、日本、美国     
@@ -786,7 +794,7 @@ UDP：部分支持Full Cone
 
 Just My Socks IPLC HK 100 ** EARLY ACCESS ，IPLC香港，推荐买这个：    
 v2ray协议，3条线路，100G/每月15刀，限速100Mbps，3个设备。新出的套餐，搬瓦工还是懂得大家需要什么。   
-不一定有货，挺抢手的，已入手观察中，产品购买链接： <a href="https://bit.ly/39zLsSe" target="_blank">https://bit.ly/39zLsSe</a>
+不一定有货，挺抢手的，已入手观察中，产品购买链接： <a href="https://bit.ly/39zLsSe" target="_blank">JMS IPLC香港购买地址</a>
 
 Just My Socks Hong Kong  香港节点： 
 100流量，34.99美元/月,3个设备。限速100Mbps  
@@ -803,7 +811,7 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 1T流量，9.88美元/月,不限设备数。限速5 Gbps  
 5T流量，48.99美元/月,不限设备数。限速5 Gbps  
 
-肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">https://bit.ly/3sDxUwC</a> 
+肯定还是有人想自建，最好购买它家CN2 GIA线路：  <a href="https://bit.ly/3sDxUwC" target="_blank">搬瓦工官网</a> 
 
  
       
@@ -820,9 +828,9 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 走的是深港iepl，普通节点是普通的bgp。
 专线老牌机场，香港老板，落地都是自有机房，有自己的面板，总稳定性很好。年付起。Business套餐是最稳的套餐且无限速，包含华为云BGP,稳定性和速度相当不错。有钱买这个肯定没错。
 
-[官网注册地址1](https://suo.yt/EE0qmxd)
+[Blinkload官网注册地址1](https://suo.yt/EE0qmxd)
 
-[官网注册地址2](https://bit.ly/341mV9g)  
+[Blinkload官网注册地址2](https://bit.ly/341mV9g)  
 
 
 
@@ -884,9 +892,8 @@ Business |专线 | 1000G/月起 | 2888/年起 | 30+
 如果觉得有帮助到您，Star下呗~~~ 经常更新！！！
 
 
-telegram机场观察频道，机场推荐，机场优惠，新闻，欢迎关注：[https://t.me/jichangtj](https://t.me/jichangtj)
+telegram机场观察频道，机场推荐，机场优惠，新闻，欢迎关注：[telegram机场观察频道](https://t.me/jichangtj)
 
-原文: [https://dlj.tf/sjKR2eb](https://dlj.tf/sjKR2eb)
 
 我的科学上网过程：一开始是用免费的vpn，比如自由门，无界，蓝灯等，很慢很慢；也用过浏览器插件比如谷歌上网助手，但只能上谷歌；还通过改hosts文件上谷歌，也是很快就得重新换新的；然后也用别人分享的ss/ssr节点，一般没过多久基本就用不了了；后面决定花钱自己买vps线路比如vultr、搬瓦工、谷歌云和aws白嫖搭建ss/v2ray，但是很快就被封了，换ip还要钱，或者晚高峰速度很慢；然后才到买收费机场，一开始贪便宜，也是网上搜，也很担心博主为了恰饭推荐不好的机场。然后就是买过很便宜的机场，人贪便宜的心理作祟，便宜肯定人多，然后堵了，也是坑了。机场体验不好，大部分时候是因为使用的人多了但是机场主不扩容，就堵了。例子太多了。只要买过低价机场的都知道。目前为止，体验最好的还是收费机场。再也不想折腾了。
 
