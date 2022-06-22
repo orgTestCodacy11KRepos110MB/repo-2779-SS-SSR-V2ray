@@ -61,8 +61,9 @@ IOS推荐小火箭/quantumultX/有钱的买surge
 **免费软件**
 
 迷雾通
-免翻墙，github下载地址: [https://dlj.tf/yz75wM](https://dlj.tf/yz75wM)
-官网，需要翻墙才能打开 : https://geph.io/zhs/ 
+[免翻墙，github下载地址]([https://dlj.tf/yz75wM](https://github.com/geph-official/geph2/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89))
+
+[官网，需要翻墙才能打开](https://geph.io/zhs/)
 
 
 **ssr和V2ray付费专线机场推荐**
