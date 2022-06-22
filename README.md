@@ -293,7 +293,7 @@ ss协议，入口是上海移动，北京移动，广州华为云BGP，过境深
 
  <a href="https://suo.yt/fkNAX0t" target="_blank">Catnet官网1</a>    
 
- <a href="https://bit.ly/3ubwf54" target="_blank">Catnet官网2(需代理)：4</a>
+ <a href="https://bit.ly/3ubwf54" target="_blank">Catnet官网2(需代理)</a>
 
 
 >专线: 有   
