@@ -307,7 +307,7 @@ UDP：支持
 历史测速： <a href="https://honven.vercel.app/catnet历史测速结果整合.html" target="_blank">catnet历史测速结果整合</a>       
 专门客服：有  
 付款方式：支付宝、虚拟币USDT    
-TG频道： [https://t.m/Catnet_CN](https://t.me/Catnet_CN)      
+[TG频道](https://t.me/Catnet_CN)         
 
 
 套餐:
@@ -380,7 +380,7 @@ UDP：支持
 入口ip数量 8        
 落地ip数量 58    
 客户端数目：2个 
-TG频道： [https://t.me/paoluztz](https://t.me/paoluztz)     
+[TG频道z](https://t.me/paoluztz)     
 协议：SSR + trojan   
 专门客服：有    
 付款方式：支付宝、虚拟币USDT   
@@ -573,11 +573,11 @@ UDP: 部分支持Full Cone
 
 中转ss机场，人目前比较少，适合想要人少机场的用户。 
 
-官网1：https://suo.yt/c0CZffc
+[芬达官网1](https://suo.yt/c0CZffc)
 
-官网2：https://bit.ly/3tOgI9J
 
-全部套餐 8.8 折优惠码：new88z  
+[芬达官网2](https://suo.yt/c0CZffc)
+
 
 >中继：有  
 原生节点：有     
@@ -608,7 +608,7 @@ UDP: 部分支持Full Cone
 ### 八、Hutao（IEPL专线机场）
 
 中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
-<a href="https://bit.ly/3G9K4Dy" target="_blank">Hutao官网(需代理)y</a>
+<a href="https://bit.ly/3G9K4Dy" target="_blank">Hutao官网(需代理)</a>
 
 
 中继：有  
@@ -847,7 +847,7 @@ UDP：部分FullCone-PortRestrictedCone
 流媒体解锁：Netflix、youtube Premium、HBO Max 、 DAZN、PCR jP    
 协议：SSR + SS    
 专门客服：有       
-TG频道： [https://t.me/thessrchannel](https://t.me/thessrchannel)       
+[TG频道](https://t.me/thessrchannel)       
 奈飞Netflix：ipv6解锁部分线路可看非自制剧      
 
 
