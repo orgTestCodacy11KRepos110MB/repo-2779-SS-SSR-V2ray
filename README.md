@@ -638,7 +638,7 @@ Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起
 
 ###  九、少数派（IEPL专线机场）
 
-ss+v2ray，全IEPL专线机场。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。 <a href="https://bit.ly/3Gd9VdH" target="_blank">少数派官网(需代理)</a>
+ss，公网+IEPL专线机场。。后端负载均衡，也挺稳。需要注意提前续费，因为没有代理上不去这家官网。 <a href="https://bit.ly/3Gd9VdH" target="_blank">少数派官网(需代理)</a>
 
 
 
