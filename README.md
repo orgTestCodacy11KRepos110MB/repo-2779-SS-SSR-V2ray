@@ -580,9 +580,9 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 
 套餐：
-基础月付：12.8块/月158G起；3个设备起。  
-进阶月付：22.8块/月158G起；4个设备起。      
-旗舰月付：32.8块/月158G起；6个设备起。  
+基础月付：12.8块/月88G起；3个设备起。  
+进阶月付：22.8块/月188G起；4个设备起。      
+旗舰月付：32.8块/月288G起；6个设备起。  
 
 <div align=center><img src="https://honven.vercel.app/uploads/vpn/fenda.webp"></div>
 
