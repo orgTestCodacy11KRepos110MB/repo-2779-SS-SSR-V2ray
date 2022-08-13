@@ -556,10 +556,10 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 
 
-### 八、芬达（IEPL专线机场）  
+### 八、芬达（广州移动中转机场）  
 
 
-中转ss机场，人目前比较少，适合想要人少机场的用户。 
+广州移动中转ssr机场，人目前比较少，适合想要人少机场的用户。 
 
 [芬达官网1](https://suo.yt/c0CZffc)
 
@@ -574,7 +574,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 入口ip数量：1    
 落地ip数量：13+    
 一键使用客户端： 有    
-协议：SS    
+协议：SSR    
 付款方式：支付宝、银联       
 历史测速： <a href="https://honven.vercel.app/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>  
 
@@ -593,9 +593,9 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 
 
-### 九、翼游（IEPL专线机场）
+### 九、翼游（广州移动中转机场）
 
-ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。 
+ssr+trojan，广州移动中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。 
 
  <a href="https://suo.yt/cPYd4aA" target="_blank">官网1(如果打不开请切换为全局代理)</a>   
 
@@ -606,14 +606,15 @@ ssr+v2ray+trojan，中继机场。从线路质量来看，价格算是比较便�
 原生节点：有     
 落地：美国、台湾、新加坡、日本、香港     
 老板肉身：北美     
-开业时长：1年+   
+开业时长：2年+   
 入口ip数量 1   
 UDP：部分支持Full Cone     
 落地ip数量 20   
-直连节点数量：0  
+直连节点数量：有 Trojan协议  
 一键使用客户端： 有     
-协议：SSR + V2ray +Trojan    
+协议：SSR + +Trojan    
 专门客服：有 
+平台小白一键使用客户端:有     
 付款方式：支付宝、银联      
 历史测速： <a href="https://honven.vercel.app/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
 
@@ -629,7 +630,7 @@ UDP：部分支持Full Cone
 
 
 <details>
-  <summary>翼游SS+V2ray+trojan具体入口和落地信息</summary>
+  <summary>翼游SS+trojan具体入口和落地信息</summary>
 
     入口：
     China Unknown City, China Mobile*1
