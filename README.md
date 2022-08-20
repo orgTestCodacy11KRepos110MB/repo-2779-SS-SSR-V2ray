@@ -412,9 +412,9 @@ UDP：部分FullCone-PortRestrictedCone
 协议：SSR + SS    
 专门客服：有       
 [TG频道](https://t.me/thessrchannel)       
-奈飞Netflix：ipv6解锁部分线路可看非自制剧      
-
-
+奈飞Netflix：ipv6解锁部分线路可看非自制剧        
+历史测速： <a href="https://honven.vercel.app/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
+ 
 
 套餐：
 
@@ -443,7 +443,8 @@ Business |专线 | 1000G/月起 | 2888/年起 | 30+
 </details>
 
 
-历史测速： <a href="https://honven.vercel.app/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
+
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/bl.webp" width="700px"></div>
 
 <br>
 
