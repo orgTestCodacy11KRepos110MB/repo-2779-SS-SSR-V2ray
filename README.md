@@ -707,73 +707,10 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
       
 <br>
 
-------
-
-### 十、Catnet（深港专线）
-ss协议，入口是上海移动，北京移动，广州华为云BGP，过境深港专线。梦迪家分站，比主站人少。速度不错。Small 套餐适合轻量用户。    
-
- <a href="https://suo.yt/KVNRidW" target="_blank">Catnet官网1</a>    
-
- <a href="https://bit.ly/3QA9H6e" target="_blank">Catnet官网2(需代理)</a>
-
-
->专线: 有   
-流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
-节点国家与地区：俄罗斯、印度、印度尼西亚、台湾、、德国、意大利、新加坡、香港、日本、美国、 荷兰、菲律宾、越南   
-开业时长：1年+
-UDP：支持     
-入口：深港专线，入口东莞电信/联通、深圳移动动态解析     
-落地ip数量 44   
-协议：ss   
-历史测速： <a href="https://honven.vercel.app/catnet历史测速结果整合.html" target="_blank">catnet历史测速结果整合</a>       
-专门客服：有  
-付款方式：支付宝、虚拟币USDT    
-[TG频道](https://t.me/Catnet_CN)         
-
-
-套餐:
->Small kitten:11/月，每月25G，可2个在线设备  
-Small:25/月， 半年付120，每月80G，可3个在线设备  
-Meduim：50/月，半年付135, 每月300G；可3个在线设备        
-   
-
-<details>
-  <summary>具体入口与落地信息 shadowsocks流媒体解锁范围</summary>
-   入口：
-   China Unknown City, Huawei Cloud Service data center*2
-
-
-    落地：
-    Germany Frankfurt am Main, Choopa, LLC*1
-    Hong Kong Central, Kirino LLC*8
-    Hong Kong Kowloon, Netvigator*2
-    India Bengaluru, Digital Ocean*1
-    Indonesia Unknown City, APIK Media Networks*1
-    Italy Milan, Seflow S.N.C. Di Marco Brame' & C.*1
-    Japan Tokyo, Kirino LLC*8
-    Netherlands Unknown City, Chociz Services*1
-    Philippines Manila, Scloud Pte*1
-    Russia St Petersburg, Misaka Network, Inc.*1
-    Singapore Singapore, HIVELOCITY*1
-    Singapore Singapore, Kirino LLC*7
-    South Korea Seoul, Choopa, LLC*1
-    Taiwan Unknown City, Kirino LLC*3
-    Thailand Bangkok, Scloud Pte*1
-    United States Seattle, Kirino LLC*5
-    Vietnam Unknown City, FPT Telecom*1
-
-</details>
-
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/catnet.webp"></div>
-
-历史测速： <a href="https://honven.vercel.app/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
-
- 
- <br>
  
 ------
 
-### 十一、芬达（广州移动中转机场）  
+### 十、芬达（广州移动中转机场）  
 
 
 广州移动中转ssr机场，人目前比较少，适合想要人少机场的用户。 
@@ -810,7 +747,7 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
 
 
 
-### 十二、翼游（广州移动中转机场）
+### 十一、翼游（广州移动中转机场）
 
 ssr+trojan，广州移动中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。 
 
@@ -938,3 +875,70 @@ IOS客户端推荐：
 
 [Telegram频道推荐](https://honven.vercel.app/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
 <br>
+
+
+
+<!-- 
+------
+
+### 十、Catnet（深港专线）
+ss协议，入口是上海移动，北京移动，广州华为云BGP，过境深港专线。梦迪家分站，比主站人少。速度不错。Small 套餐适合轻量用户。    
+
+ <a href="https://suo.yt/KVNRidW" target="_blank">Catnet官网1</a>    
+
+ <a href="https://bit.ly/3QA9H6e" target="_blank">Catnet官网2(需代理)</a>
+
+
+>专线: 有   
+流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
+节点国家与地区：俄罗斯、印度、印度尼西亚、台湾、、德国、意大利、新加坡、香港、日本、美国、 荷兰、菲律宾、越南   
+开业时长：1年+
+UDP：支持     
+入口：深港专线，入口东莞电信/联通、深圳移动动态解析     
+落地ip数量 44   
+协议：ss   
+历史测速： <a href="https://honven.vercel.app/catnet历史测速结果整合.html" target="_blank">catnet历史测速结果整合</a>       
+专门客服：有  
+付款方式：支付宝、虚拟币USDT    
+[TG频道](https://t.me/Catnet_CN)         
+
+
+套餐:
+>Small kitten:11/月，每月25G，可2个在线设备  
+Small:25/月， 半年付120，每月80G，可3个在线设备  
+Meduim：50/月，半年付135, 每月300G；可3个在线设备        
+   
+
+<details>
+  <summary>具体入口与落地信息 shadowsocks流媒体解锁范围</summary>
+   入口：
+   China Unknown City, Huawei Cloud Service data center*2
+
+
+    落地：
+    Germany Frankfurt am Main, Choopa, LLC*1
+    Hong Kong Central, Kirino LLC*8
+    Hong Kong Kowloon, Netvigator*2
+    India Bengaluru, Digital Ocean*1
+    Indonesia Unknown City, APIK Media Networks*1
+    Italy Milan, Seflow S.N.C. Di Marco Brame' & C.*1
+    Japan Tokyo, Kirino LLC*8
+    Netherlands Unknown City, Chociz Services*1
+    Philippines Manila, Scloud Pte*1
+    Russia St Petersburg, Misaka Network, Inc.*1
+    Singapore Singapore, HIVELOCITY*1
+    Singapore Singapore, Kirino LLC*7
+    South Korea Seoul, Choopa, LLC*1
+    Taiwan Unknown City, Kirino LLC*3
+    Thailand Bangkok, Scloud Pte*1
+    United States Seattle, Kirino LLC*5
+    Vietnam Unknown City, FPT Telecom*1
+
+</details>
+
+<div align=center><img src="https://honven.vercel.app/uploads/vpn/catnet.webp"></div>
+
+历史测速： <a href="https://honven.vercel.app/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
+
+ 
+ <br> -->
