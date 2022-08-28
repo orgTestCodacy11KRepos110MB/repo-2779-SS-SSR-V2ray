@@ -24,12 +24,12 @@
 
 便宜机场套路3：月抛机场，买的都是月抛线路，很便宜。但是线路变化频繁，随时跑路。我推荐的机场都没这些问题。   
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/0.webp" width="200px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/0.webp" width="200px"></div>
 
 
 3.稳定与协议没有关系，协议不是最重要的，线路才是。ss，ssr，v2ray，trojan都行，不过ssr太久没维护了，目前大部分机场抛弃ssr。被识别了目前只是封ip，损失的是机场主。你换一条线路即可。总体而言ss延迟相对较低。非敏感时期的日常使用中转就好 不一定要用专线。不一定要用专线。专线不一定就好，需要看同时使用人数，几百人挤同一条小水管不如几个人的中转，甚至不如直连。机场主常年不在线，修复节点慢的也别买。速度要看机场的总带宽大小，稳定要看机场的资源质量，解锁看的是机场主的落地/解锁商是否优秀。   
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/1.webp" width="700px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/1.webp" width="700px"></div>
 
 4.看入口，入口机器很重要。入口数目多点最好，入口和用户本地网络之间的相性决定了用户使用机场的上限和下限。，因为现在都是中转机场，一旦挂了中转线路就没办法转发流量到落地机了。中转机子也是机场成本大头，一般大机场都是G口，几千上万一个月很正常。现在防火墙在每年64、国庆、除夕都会进行干扰代理，反向墙国内中转服务器，所以敏感时期需要使用专线。对于IEPl专线则污染中转机的域名。   
 
@@ -78,7 +78,6 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 
 如果打不开链接就是被墙了，可以先下载蓝灯或者使用免费SS/SSR节点；
 
-------
 
 ------
 
@@ -103,7 +102,7 @@ UDP: 部分支持Full Cone
 付款方式：支付宝    
 小白客户端：有  
 协议：SS+SSR+Trojan+v2ray      
-历史测速： <a href="https://honven.vercel.app/阿里云ss线路机场推荐GaCloud.html" target="_blank">Gacloud历史测速结果整合</a>     
+历史测速： <a href="https://jichangtuijian.com/阿里云ss线路机场推荐GaCloud.html" target="_blank">Gacloud历史测速结果整合</a>     
 
 
 套餐:   
@@ -116,7 +115,7 @@ UDP: 部分支持Full Cone
 精品 | BGP线路,双程CN2线路 |100G，59块/月；150G/月，177块/季；200G/月，708/年 | 3个    
 
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/gacloud.webp" width="800px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/gacloud.webp" width="800px"></div>
 
 ------
 
@@ -141,7 +140,7 @@ UDP：大部分支持Full Cone
 开业时长：2年+   
 落地ip数量 170+   
 协议：SSR   
-历史测速： <a href="https://honven.vercel.app/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>   
+历史测速： <a href="https://jichangtuijian.com/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>   
 专门客服：有    
 付款方式：支付宝    
 [具体节点和流媒体解锁情况](https://node.tagvpn.xyz/) 
@@ -241,7 +240,7 @@ UDP：大部分支持Full Cone
   
 </details>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/tag.webp" ></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/tag.webp" ></div>
 
 
 <br>
@@ -274,7 +273,7 @@ UDP: 部分支持Full Cone
 入口ip数量 10   
 落地ip数量 32   
 付款方式：支付宝     
-历史测速： <a href="https://honven.vercel.app/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>    
+历史测速： <a href="https://jichangtuijian.com/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>    
 
 套餐:
 
@@ -316,7 +315,7 @@ UDP: 部分支持Full Cone
    
 </details>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/stc.webp" width="600px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/stc.webp" width="600px"></div>
    
 
 <br>
@@ -351,7 +350,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 全年3288G：688/年，6设备   
 
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/yunyi.webp" width="700px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/yunyi.webp" width="700px"></div>
 
 
  ------
@@ -371,7 +370,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 客服：有   
 入口数目: 2，广州移动   
 落地数目: 28   
-历史测速： <a href="https://honven.vercel.app/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
+历史测速： <a href="https://jichangtuijian.com/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
 协议：SS   
 付款方式：支付宝   
 TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
@@ -382,7 +381,7 @@ min/pro/max等普通中转：无专线，7块/月50G起；2个设备起。稳定
 Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起）   
 按量付费：5毛/G。推荐当备用。   
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/hutao.webp" width="700px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/hutao.webp" width="700px"></div>
 
 
 
@@ -413,7 +412,7 @@ UDP：部分FullCone-PortRestrictedCone
 专门客服：有       
 [TG频道](https://t.me/thessrchannel)       
 奈飞Netflix：ipv6解锁部分线路可看非自制剧        
-历史测速： <a href="https://honven.vercel.app/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
+历史测速： <a href="https://jichangtuijian.com/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
  
 
 套餐：
@@ -444,7 +443,7 @@ Business |专线 | 1000G/月起 | 2888/年起 | 30+
 
 
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/bl.webp" width="700px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/bl.webp" width="700px"></div>
 
 <br>
 
@@ -469,7 +468,7 @@ UDP: 部分支持Full Cone,需要自己手动开
 一键使用客户端： 有    
 入口ip数量 4    
 落地ip数量 22        
-历史测速： <a href="https://honven.vercel.app/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>     
+历史测速： <a href="https://jichangtuijian.com/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>     
 协议：SS    
 付款方式：支付宝、微信、虚拟币   
 TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
@@ -510,7 +509,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
   
   [最新测速图与优惠更新在频道](https://t.me/jichangtj)
   
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/shaoshupai.webp" width="700px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/shaoshupai.webp" width="700px"></div>
 
 
 
@@ -550,7 +549,7 @@ UDP：支持
 专门客服：有    
 付款方式：支付宝、虚拟币USDT   
 奈飞Netflix：部分线路可看非自制剧        
-历史测速： <a href="https://honven.vercel.app/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>  
+历史测速： <a href="https://jichangtuijian.com/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>  
 
 套餐:
 >VIP2：11.9块/月,90G,只有Trojan协议； 年付149,128GB流量/月；走公网中转（没钱学生党随便用用可以买）  
@@ -650,9 +649,9 @@ VIP4：标准36.90块/月起，360G；年付439,512GB流量/月； SSR+V2ray协�
 
 ss节点南方移动测速结果：
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/paoluss.webp"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/paoluss.webp"></div>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/paoluv2.webp"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/paoluv2.webp"></div>
 
 
 
@@ -730,7 +729,7 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 一键使用客户端： 有    
 协议：SSR    
 付款方式：支付宝、银联       
-历史测速： <a href="https://honven.vercel.app/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>  
+历史测速： <a href="https://jichangtuijian.com/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>  
 
 
 套餐：
@@ -738,7 +737,7 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 进阶月付：22.8块/月188G起；4个设备起。      
 旗舰月付：32.8块/月288G起；6个设备起。  
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/fenda.webp"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/fenda.webp"></div>
 
 
 ------
@@ -770,7 +769,7 @@ UDP：部分支持Full Cone
 专门客服：有 
 平台小白一键使用客户端:有     
 付款方式：支付宝、银联      
-历史测速： <a href="https://honven.vercel.app/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
+历史测速： <a href="https://jichangtuijian.com/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
 
 
 套餐 |  流量 | 价格 |客户端数目 
@@ -804,7 +803,7 @@ UDP：部分支持Full Cone
   
 </details>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/yiyou.webp" width="800px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/yiyou.webp" width="800px"></div>
 
 
 
@@ -837,25 +836,25 @@ telegram机场观察频道，机场推荐，机场优惠，新闻，欢迎关注
 
 ## 其它博客
 <br>
-<a href="https://honven.vercel.app/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html" target="_blank">稳定高速机场推荐</a> 
+<a href="https://jichangtuijian.com/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html" target="_blank">稳定高速机场推荐</a> 
 
 
    
 
 windows客户端：
-[win/mac客户端推荐使用clash,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择延迟最低的节点](https://honven.top/clash%E6%95%99%E7%A8%8B.html)
+[win/mac客户端推荐使用clash,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择延迟最低的节点](https://jichangtuijian.com/clash%E6%95%99%E7%A8%8B.html)
 
 游戏客户端推荐：
-[netch使用教程](https://honven.vercel.app/netch%E6%95%99%E7%A8%8B.html)
+[netch使用教程](https://jichangtuijian.com/netch%E6%95%99%E7%A8%8B.html)
 
-[sstap使用教程](https://honven.vercel.app/sstap%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[sstap使用教程](https://jichangtuijian.com/sstap%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
 https://github.com/nekohasekai/SagerNet
 
 安卓客户端推荐：
-[Android—Clash for Android 使用教程](https://honven.vercel.app/Android%E2%80%94Clash%20for%20Android%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[Android—Clash for Android 使用教程](https://jichangtuijian.com/Android%E2%80%94Clash%20for%20Android%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[安卓ssr-v2ray-trojan代理客户端ssrray使用教程](https://honven.vercel.app/%E5%AE%89%E5%8D%93ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AFssrray%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[安卓ssr-v2ray-trojan代理客户端ssrray使用教程](https://jichangtuijian.com/%E5%AE%89%E5%8D%93ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AFssrray%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
 SagerNet: https://github.com/SagerNet/SagerNet 
 支持的代理协议: SOCKS、Shadowsocks、SSR、VMess、VLESS、Trojan.
@@ -863,17 +862,17 @@ SagerNet: https://github.com/SagerNet/SagerNet
 <br>
 IOS客户端推荐：
 
-<a href="https://honven.vercel.app/IOS-Shadowrocket(%E5%B0%8F%E7%81%AB%E7%AE%AD)%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">IOS-Shadowrocket(小火箭)使用教程</a> 
+<a href="https://jichangtuijian.com/IOS-Shadowrocket(%E5%B0%8F%E7%81%AB%E7%AE%AD)%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">IOS-Shadowrocket(小火箭)使用教程</a> 
 
-[Quantumult简单使用教程](https://honven.vercel.app/Quantumult%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[Quantumult简单使用教程](https://jichangtuijian.com/Quantumult%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[QuantumultX小白简单使用教程](https://honven.vercel.app/QuantumultX%E5%B0%8F%E7%99%BD%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[QuantumultX小白简单使用教程](https://jichangtuijian.com/QuantumultX%E5%B0%8F%E7%99%BD%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[路由器老毛子Padavan固件ss/v2ray机场服务器订阅设置和clash配置](https://honven.vercel.app/%E8%80%81%E6%AF%9B%E5%AD%90Padavan%E5%9B%BA%E4%BB%B6ssv2ray%E6%9C%BA%E5%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A2%E9%98%85%E4%B8%8Eclash%E9%85%8D%E7%BD%AE.html)
+[路由器老毛子Padavan固件ss/v2ray机场服务器订阅设置和clash配置](https://jichangtuijian.com/%E8%80%81%E6%AF%9B%E5%AD%90Padavan%E5%9B%BA%E4%BB%B6ssv2ray%E6%9C%BA%E5%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A2%E9%98%85%E4%B8%8Eclash%E9%85%8D%E7%BD%AE.html)
 
-[机场订阅链接转换收集与教程](https://honven.vercel.app/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html):支持ss、ssr、v2ray转clash/quantumultx等
+[机场订阅链接转换收集与教程](https://jichangtuijian.comp/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html):支持ss、ssr、v2ray转clash/quantumultx等
 
-[Telegram频道推荐](https://honven.vercel.app/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
+[Telegram频道推荐](https://jichangtuijian.com/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
 <br>
 
 
@@ -897,7 +896,7 @@ UDP：支持
 入口：深港专线，入口东莞电信/联通、深圳移动动态解析     
 落地ip数量 44   
 协议：ss   
-历史测速： <a href="https://honven.vercel.app/catnet历史测速结果整合.html" target="_blank">catnet历史测速结果整合</a>       
+历史测速： <a href="https://jichangtuijian.com/catnet历史测速结果整合.html" target="_blank">catnet历史测速结果整合</a>       
 专门客服：有  
 付款方式：支付宝、虚拟币USDT    
 [TG频道](https://t.me/Catnet_CN)         
@@ -936,9 +935,9 @@ Meduim：50/月，半年付135, 每月300G；可3个在线设备
 
 </details>
 
-<div align=center><img src="https://honven.vercel.app/uploads/vpn/catnet.webp"></div>
+<div align=center><img src="https://jichangtuijian.comp/uploads/vpn/catnet.webp"></div>
 
-历史测速： <a href="https://honven.vercel.app/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
+历史测速： <a href="https://jichangtuijian.com/catnet%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">catnet历史测速结果整合</a>
 
  
  <br> -->
