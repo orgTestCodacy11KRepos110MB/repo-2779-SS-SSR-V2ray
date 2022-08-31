@@ -521,7 +521,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 
 ### 八、跑路云
 
-深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。入口：广州华为云、湖南联通，过境：广港专线。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。
+深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。入口：广州华为云、湖南联通，过境：广港专线。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。技术不错，且修复线路速度也快。它家进Telegram群答的题目比较难。
 
 v1等级套餐直连线路trojan   
 v2套餐是走公网中转   
@@ -551,11 +551,12 @@ UDP：支持
 奈飞Netflix：部分线路可看非自制剧        
 历史测速： <a href="https://jichangtuijian.com/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>  
 
-套餐:
->VIP2：11.9块/月,90G,只有Trojan协议； 年付149,128GB流量/月；走公网中转（没钱学生党随便用用可以买）  
-VIP3：标准19.9块/月起,160G； 年付329,360GB流量/月； SSR+Trojan协议、深港（建议v3等级起）  
-VIP4：标准36.90块/月起，360G；年付439,512GB流量/月； SSR+V2ray协议、深港+华为云（最好买这个套餐）  
-    
+
+**套餐，有时会变:
+* VIP1：9.9/季100G;直连线路，仅Trojan协议（不建议，直连线路晚高峰不大行，随缘用的）
+* VIP2：11.9块/月,80G,只有Trojan协议； 年付149,128GB流量/月；走公网中转（没钱学生党随便用用可以买）
+* VIP3：标准17.9块/月起,125G； 年付299,2680GB流量/月； SSR+Trojan协议、深港，移动专线接入（建议v3等级起，可用性保证: 24小时内修复线路故障）
+* VIP4：标准34.9块/月起，300G；年付439,512GB流量/月； SSR+V2ray协议、深港+华为云（需要高可用最好买这个套餐，可用性保证: 3小时内修复线路故障）
 
 
 
@@ -651,7 +652,7 @@ ss节点南方移动测速结果：
 
 <div align=center><img src="https://jichangtuijian.com/uploads/vpn/paoluss.webp"></div>
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/paoluv2.webp"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/paolutrojan.webp"></div>
 
 
 
