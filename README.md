@@ -280,14 +280,16 @@ UDP：部分FullCone-PortRestrictedCone
 历史测速： <a href="https://jichangtuijian.com/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
  
 
-套餐：
+
+套餐(单位为港币)：
 
 套餐 | 线路 | 流量 | 价格 |客户端数目 
 ---- | ---  | --- | --- | --- 
-Pro | 专线  | 200Gi/月起 | 499.9 HKD/年 | 6+
-Lite | 专线 | 100G/月 | 399.9 HKD/年| 6+
-Micro | 专线 | 50G/月 | 299.9 HKD/年| 6+
-Business |专线 | 1000G/月起 | 2888/年起 | 30+
+小流量套餐 | 专线  |50/100/200G/月 | 319/519/619HK/年 | 6+
+Pro | 专线  | 200G/月 | 239/季、399/半年、599.9/年 | 6+
+Lite | 专线 | 100G/月 | 179/季、299/半年、499.9/年| 6+
+Micro | 专线 | 50G/月 | 119/季、199/半年、299.9/年| 6+
+Business |专线+Premium节点 | 1000G/月起 | 5888/6888/108888HKD/年 | 10/15/400+, 无限速
 
 
 <details>
@@ -311,6 +313,7 @@ Business |专线 | 1000G/月起 | 2888/年起 | 30+
 <div align=center><img src="https://jichangtuijian.com/uploads/vpn/bl.webp" width="700px"></div>
 
 <br>
+
 ------
 
 ### 四、STC-SERVER
@@ -383,7 +386,10 @@ UDP: 部分支持Full Cone
 <br>
   
 
+
 ------
+
+
 
 ### 五、云翼网络  
 
