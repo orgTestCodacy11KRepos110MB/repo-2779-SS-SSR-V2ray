@@ -88,7 +88,7 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 
 官网（通过这个链接注册新用户全员无门槛8折优惠券,只能用一次）：
 
- <a href="https://suo.yt/3a9ya84" target="_blank">Gacloud官网1(如果打不开请切换为全局代理)</a>
+ <a href="https://suo.yt/xtRvPga" target="_blank">Gacloud官网1(如果打不开请切换为全局代理)</a>
 
  <a href="https://bit.ly/3raw9sD" target="_blank">Gacloud官网2(需代理)</a>
 
@@ -125,7 +125,7 @@ UDP: 部分支持Full Cone
 特色：流媒体解锁和落地，有大量冷门节点，全球80+国家地区，各地家宽IP、原生ip，最多国家的机场，没有之一。老板很认真挑选落地节点，基本都是原生（解锁各种流媒体）并且带宽大的才用，非常适合各类流媒体爱好者。老板人挺好，基本都在群里回答问题。
 机场主在香港。不买他家套餐，也推荐买140一年的流量包可做备用。    
 
-<a href="https://suo.yt/DSCJpgb" target="_blank">TAG官网1(如果打不开请切换为全局代理) </a>
+<a href="https://suo.yt/epCKr1G" target="_blank">TAG官网1(如果打不开请切换为全局代理) </a>
 
 <a href="https://bit.ly/3K49q9d" target="_blank">TAG官网2(如果打不开请切换为全局代理)</a>
 
@@ -763,9 +763,9 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 
 ssr+trojan，广州移动中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。 
 
- <a href="https://suo.yt/cPYd4aA" target="_blank">官网1(如果打不开请切换为全局代理)</a>   
+ <a href="https://suo.yt/jo4NFtf" target="_blank">官网1(如果打不开请切换为全局代理)</a>   
 
- <a href="https://bit.ly/32Htu07" target="_blank">官网2(需代理)7</a>   
+ <a href="https://bit.ly/3d3Yqga" target="_blank">官网2(需代理)7</a>   
 
 
 >中继：有     
