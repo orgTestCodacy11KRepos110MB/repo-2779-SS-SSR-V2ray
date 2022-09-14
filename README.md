@@ -530,10 +530,186 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 <br>
 
 
+
+
+------
+
+### 八、Just my sock
+
+搬瓦工官方的ss+v2ray机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。 
+相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。IP 被墙自动切换。 
+如果是对安全性的重视程度较大的和担心私人机场跑路的用户，有敏感操作的，推荐这家机场。  
+支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
+ <a href="https://bit.ly/3weANGp" target="_blank">官网注册地址,需要代理或全局模式访问 </a>
+
+>专线: 有     
+落地：香港、日本、美国     
+开业时间：2018   
+协议：SSR + V2ray    
+专门客服：有    
+付款方式：支付宝、银联、Paypal    
+
+
+
+
+套餐:
+
+Just My Socks IPLC HK 100 ** EARLY ACCESS：深圳-香港 IPLC 跨境专线。   
+v2ray协议，IPLC香港线路。3条线路：     
+1）100G/每月21刀，限速100Mbps，3个设备。    
+2）300G/每月49刀，限速100Mbps，3个设备。  
+新出的套餐，搬瓦工还是懂得大家需要什么。对电信联调和移动三网有优化，延迟低。我之前实测是不限速的。适合游戏爱好者。   
+ct:适合中国电信；cu：适合中国联通，cm：适合中国移动网络。  
+不一定有货，挺抢手的，用了一个月，挺稳的，但是就是比一般机场贵   
+
+
+Just My Socks Hong Kong  香港节点：       
+100流量，34.99美元/月,3个设备。限速100Mbps    
+500G流量，149.99美元/月,5个设备.限速500Mbps    
+1000G流量，279.99美元/月,无限个设备.限速1000Mbps    
+三网直连，电信双向CN2 GIA，移动和联通直连，跟搬瓦工香港机房的线路一样是香港机房的最优线路。速度快、延迟低、线路稳    
+
+Just My Socks Tokyo 日本节点：       
+100G流量，29.99美元/月,3个设备。限速100Mbps    
+500G流量，135.99美元/月,5个设备.限速200Mbps    
+日本东京节点，三网 CN2 GIA 线路。适合电信和联调带宽。移动的没优势。比Just My Socks LA好一点    
+
+Just My Socks HK CMI+NTT Plan 500：    
+8.99刀/月，500GB/月,不限速,5个设备    
+HK CMI是中国移动香港数据中心，走NTT香港中转。中国电信使用CN2 GIA线路，联通电信直连    
+新套餐：电信，早晚速度可以，其他时段速度比较感人（1080P），延迟稳定在80-95ms。非电信网络，速度稳定，延迟在40-60ms左右，500MB宽带以下能跑满，上传速度20Mbps左右。使用移动和联通网络的可以试试，电信不建议    
+
+Just My Socks London 500       
+6.8刀/月，500GB/月,不限速, 5个设备。ss+v2ray    
+
+
+Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多人买这个，不推荐，慢，超售）：       
+500G流量，5.88美元/月,5个设备。限速2.5Gbps     
+1T流量，9.88美元/月,不限设备数。限速5Gbps****
+5T流量，48.99美元/月,不限设备数。限速5Gbps    
+美国洛杉矶 CN2 GT/CN2 GIA    
+
+肯定还是有人想自建，最好购买它家CN2 GIA线路：    
+搬瓦工CN2-GIA是目前最稳定的线路之一，三网表现都不错。绝版瓦工套餐价格居高不下，已经成为传家宝，理财产品。    
+虽然市面上有很多vps厂商声称有GIA线路，但是搬瓦工比他们中的绝大多数都要好不少。    
+[搬瓦工官网](https://bit.ly/3sDxUwC)    
+
+ 
+      
+<br>
+
+ 
+------
+
+### 九、芬达（广州移动中转机场）  
+
+
+广州移动中转ssr机场，人目前比较少，适合想要人少机场的用户。 
+
+[芬达官网1](https://suo.yt/c0CZffc)
+
+
+[芬达官网2](https://suo.yt/c0CZffc)
+
+
+>中继：有  
+原生节点：有     
+落地：美国、台湾、新加坡、日本、香港、韩国    
+老板肉身：北美    
+开业时间：2021    
+入口ip数量：1    
+落地ip数量：13+    
+一键使用客户端： 有    
+协议：SSR    
+付款方式：支付宝、银联       
+历史测速： <a href="https://jichangtuijian.com/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>  
+
+
+套餐：
+基础月付：12.8块/月88G起；3个设备起。  
+进阶月付：22.8块/月188G起；4个设备起。      
+旗舰月付：32.8块/月288G起；6个设备起。  
+
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/fenda.webp"></div>
+
+
 ------
 
 
-### 八、跑路云
+
+
+
+### 十、翼游（广州移动中转机场）
+
+ssr+trojan，广州移动中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。 
+
+ <a href="https://suo.yt/jo4NFtf" target="_blank">官网1(如果打不开请切换为全局代理)</a>   
+
+ <a href="https://bit.ly/3d3Yqga" target="_blank">官网2(需代理)7</a>   
+
+
+>中继：有     
+原生节点：有     
+落地：美国、台湾、新加坡、日本、香港     
+老板肉身：北美     
+开业时间：2019   
+入口ip数量 1   
+UDP：部分支持Full Cone     
+落地ip数量 20   
+直连节点数量：有 Trojan协议  
+一键使用客户端： 有     
+协议：SSR + +Trojan    
+专门客服：有 
+平台小白一键使用客户端:有     
+付款方式：支付宝、银联      
+历史测速： <a href="https://jichangtuijian.com/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
+
+
+套餐 |  流量 | 价格 |客户端数目 
+---- |  --- | --- | --- 
+1 |50G/月 |10块/月 | 2
+2 | 10G/月 |18块/月 | 3
+3 | 300G/月 |28块/月 | 5
+4 | 500G/月 |38块/月 | 6
+5 | 1000G/月 |78块/月 | 18
+6 | 2000G/月 |98块/月 | 18
+
+
+<details>
+  <summary>翼游SS+trojan具体入口和落地信息</summary>
+
+    入口：
+    China Unknown City, China Mobile*1
+
+    落地：
+    China Unknown City, Amazon.com*1
+    Hong Kong Central, Microsoft Azure*1
+    Hong Kong Unknown City, Kirino LLC*4
+    Japan Tokyo, Amazon.com*3
+    Japan Tokyo, Linode*1
+    Singapore Singapore, Amazon.com*1
+    Singapore Singapore, Microsoft Azure*2
+    South Korea Seoul, Microsoft Azure*1
+    Taiwan Chang-hua, Chunghwa Telecom*2
+    United States San Jose, Amazon.com*2
+    United States Unknown City, Microsoft Azure*2
+  
+</details>
+
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/yiyou.webp" width="800px"></div>
+
+
+
+<br>
+
+
+
+------
+
+------
+
+
+### 十一、跑路云
 
 深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。入口：广州华为云、湖南联通，过境：广港专线。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。技术不错，且修复线路速度也快。它家进Telegram群答的题目比较难。
 
@@ -672,182 +848,6 @@ ss节点南方移动测速结果：
 
   
 <br>
-
-------
-
-### 九、Just my sock
-
-搬瓦工官方的ss+v2ray机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。 
-相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。IP 被墙自动切换。 
-如果是对安全性的重视程度较大的和担心私人机场跑路的用户，有敏感操作的，推荐这家机场。  
-支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
- <a href="https://bit.ly/3weANGp" target="_blank">官网注册地址,需要代理或全局模式访问 </a>
-
->专线: 有     
-落地：香港、日本、美国     
-开业时间：2018   
-协议：SSR + V2ray    
-专门客服：有    
-付款方式：支付宝、银联、Paypal    
-
-
-
-
-套餐:
-
-Just My Socks IPLC HK 100 ** EARLY ACCESS：深圳-香港 IPLC 跨境专线。   
-v2ray协议，IPLC香港线路。3条线路：     
-1）100G/每月21刀，限速100Mbps，3个设备。    
-2）300G/每月49刀，限速100Mbps，3个设备。  
-新出的套餐，搬瓦工还是懂得大家需要什么。对电信联调和移动三网有优化，延迟低。我之前实测是不限速的。适合游戏爱好者。   
-ct:适合中国电信；cu：适合中国联通，cm：适合中国移动网络。  
-不一定有货，挺抢手的，用了一个月，挺稳的，但是就是比一般机场贵   
-
-
-Just My Socks Hong Kong  香港节点：       
-100流量，34.99美元/月,3个设备。限速100Mbps    
-500G流量，149.99美元/月,5个设备.限速500Mbps    
-1000G流量，279.99美元/月,无限个设备.限速1000Mbps    
-三网直连，电信双向CN2 GIA，移动和联通直连，跟搬瓦工香港机房的线路一样是香港机房的最优线路。速度快、延迟低、线路稳    
-
-Just My Socks Tokyo 日本节点：       
-100G流量，29.99美元/月,3个设备。限速100Mbps    
-500G流量，135.99美元/月,5个设备.限速200Mbps    
-日本东京节点，三网 CN2 GIA 线路。适合电信和联调带宽。移动的没优势。比Just My Socks LA好一点    
-
-Just My Socks HK CMI+NTT Plan 500：    
-8.99刀/月，500GB/月,不限速,5个设备    
-HK CMI是中国移动香港数据中心，走NTT香港中转。中国电信使用CN2 GIA线路，联通电信直连    
-新套餐：电信，早晚速度可以，其他时段速度比较感人（1080P），延迟稳定在80-95ms。非电信网络，速度稳定，延迟在40-60ms左右，500MB宽带以下能跑满，上传速度20Mbps左右。使用移动和联通网络的可以试试，电信不建议    
-
-Just My Socks London 500       
-6.8刀/月，500GB/月,不限速, 5个设备。ss+v2ray    
-
-
-Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多人买这个，不推荐，慢，超售）：       
-500G流量，5.88美元/月,5个设备。限速2.5Gbps     
-1T流量，9.88美元/月,不限设备数。限速5Gbps****
-5T流量，48.99美元/月,不限设备数。限速5Gbps    
-美国洛杉矶 CN2 GT/CN2 GIA    
-
-肯定还是有人想自建，最好购买它家CN2 GIA线路：    
-搬瓦工CN2-GIA是目前最稳定的线路之一，三网表现都不错。绝版瓦工套餐价格居高不下，已经成为传家宝，理财产品。    
-虽然市面上有很多vps厂商声称有GIA线路，但是搬瓦工比他们中的绝大多数都要好不少。    
-[搬瓦工官网](https://bit.ly/3sDxUwC)    
-
- 
-      
-<br>
-
- 
-------
-
-### 十、芬达（广州移动中转机场）  
-
-
-广州移动中转ssr机场，人目前比较少，适合想要人少机场的用户。 
-
-[芬达官网1](https://suo.yt/c0CZffc)
-
-
-[芬达官网2](https://suo.yt/c0CZffc)
-
-
->中继：有  
-原生节点：有     
-落地：美国、台湾、新加坡、日本、香港、韩国    
-老板肉身：北美    
-开业时间：2021    
-入口ip数量：1    
-落地ip数量：13+    
-一键使用客户端： 有    
-协议：SSR    
-付款方式：支付宝、银联       
-历史测速： <a href="https://jichangtuijian.com/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>  
-
-
-套餐：
-基础月付：12.8块/月88G起；3个设备起。  
-进阶月付：22.8块/月188G起；4个设备起。      
-旗舰月付：32.8块/月288G起；6个设备起。  
-
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/fenda.webp"></div>
-
-
-------
-
-
-
-
-
-### 十一、翼游（广州移动中转机场）
-
-ssr+trojan，广州移动中继机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。 
-
- <a href="https://suo.yt/jo4NFtf" target="_blank">官网1(如果打不开请切换为全局代理)</a>   
-
- <a href="https://bit.ly/3d3Yqga" target="_blank">官网2(需代理)7</a>   
-
-
->中继：有     
-原生节点：有     
-落地：美国、台湾、新加坡、日本、香港     
-老板肉身：北美     
-开业时间：2019   
-入口ip数量 1   
-UDP：部分支持Full Cone     
-落地ip数量 20   
-直连节点数量：有 Trojan协议  
-一键使用客户端： 有     
-协议：SSR + +Trojan    
-专门客服：有 
-平台小白一键使用客户端:有     
-付款方式：支付宝、银联      
-历史测速： <a href="https://jichangtuijian.com/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
-
-
-套餐 |  流量 | 价格 |客户端数目 
----- |  --- | --- | --- 
-1 |50G/月 |10块/月 | 2
-2 | 10G/月 |18块/月 | 3
-3 | 300G/月 |28块/月 | 5
-4 | 500G/月 |38块/月 | 6
-5 | 1000G/月 |78块/月 | 18
-6 | 2000G/月 |98块/月 | 18
-
-
-<details>
-  <summary>翼游SS+trojan具体入口和落地信息</summary>
-
-    入口：
-    China Unknown City, China Mobile*1
-
-    落地：
-    China Unknown City, Amazon.com*1
-    Hong Kong Central, Microsoft Azure*1
-    Hong Kong Unknown City, Kirino LLC*4
-    Japan Tokyo, Amazon.com*3
-    Japan Tokyo, Linode*1
-    Singapore Singapore, Amazon.com*1
-    Singapore Singapore, Microsoft Azure*2
-    South Korea Seoul, Microsoft Azure*1
-    Taiwan Chang-hua, Chunghwa Telecom*2
-    United States San Jose, Amazon.com*2
-    United States Unknown City, Microsoft Azure*2
-  
-</details>
-
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/yiyou.webp" width="800px"></div>
-
-
-
-<br>
-
-
-
-------
-
-
 
 
 
