@@ -88,7 +88,7 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 
 官网（通过这个链接注册新用户全员无门槛8折优惠券,只能用一次，目前每充值一百可以抽奖，还有75折优惠）：
 
- <a href="https://suo.yt/xtRvPga" target="_blank">Gacloud官网1(如果打不开请切换为全局代理)</a>
+ <a href="https://suo.yt/SYL6IiX" target="_blank">Gacloud官网1(如果打不开请切换为全局代理)</a>
 
  <a href="https://bit.ly/3raw9sD" target="_blank">Gacloud官网2(需代理)</a>
 
@@ -251,8 +251,6 @@ UDP：大部分支持Full Cone
 ------
 
 ### 三、Blinkload（IEPL+华为云专线）
-
-除了Premium节点近期被ddos  
 
 老牌高端专线机场，香港老板，落地大部分是自有机房，有自己的面板，总稳定性很好。年付起。 
 
