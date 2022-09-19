@@ -427,7 +427,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 
  ------
 
-### 五、Hutao（IEPL专线机场）（暂时有问题不可使用）
+### 五、Hutao（IEPL专线机场）
 
 中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
 <a href="https://bit.ly/3G9K4Dy" target="_blank">Hutao官网(需代理)</a>
