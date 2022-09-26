@@ -4,7 +4,7 @@
 
 机场推荐购买付费账号，收费机场比较好，不建议买付费的VPN,感觉付费VPN不如付费ssr/v2ray机场；花钱可以节省很多时间和精力,而且贵点的稳定点舒服很多，不可能又便宜又稳定流量还多的。用了好的就回不去了；之前自己搭建虽然最安全，但是容易受到高墙干扰，维护很麻烦不推荐购买直接使用搜索vpn出来的软件，迟早药丸免费机场/白嫖机场一般不太稳定；下面有几个稳定的机场推荐，包括ssr、ss、v2ray、trojan等协议，也有可以打游戏的、IPLC专线机场等。因为现在防火墙在每年64、国庆、除夕都会进行干扰代理，目前的方法是反向墙国内中转服务器，所以敏感时期需要使用专线，如果是企业，需要高稳定性直接买专线机场就好。
 
-[Telegram机场观察频道](https://t.me/jichangtj) :掌握最新机场优惠折扣通知，最新机场推荐评测与测速图，最新科学上网相关新闻与消息，欢迎关注
+我的频道： [Telegram机场观察频道](https://t.me/jichangtj) :掌握最新机场优惠折扣通知，更新最新机场推荐评测与测速图，最新科学上网相关新闻与消息，欢迎关注
 
 建议收藏本页，持续更新
 如果觉得有帮助到您，Star下呗~~~ 经常更新！！！
@@ -76,7 +76,7 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 拿2020年两会期间某家机场公告举个例子：“经证实，墙是持续性的，通俗易懂来讲他每15分钟墙一波，目前受影响的为所有直连ssr节点，v2ray直连持续性断流，目前暂停修复所有直连线路，待两会结束后再进行修复，V1请尽量使用IPLC线路，其他套餐的会员请使用中转线路。”
 
 
-如果打不开链接就是被墙了，可以先下载蓝灯或者使用免费SS/SSR节点；
+如果打不开链接就是被墙了，可以先下载迷雾通 或者 使用 [使用免费节点](https://github.com/hwanz/SSR-V2ray-Trojan-vpn)
 
 
 ------
@@ -247,81 +247,12 @@ UDP：大部分支持Full Cone
 
 
  
-<!-- 
-------
-
-### 三、Blinkload（IEPL+华为云专线）近期被ddos
-
-老牌高端专线机场，香港老板，落地大部分是自有机房，有自己的面板，总稳定性很好。年付起。 
-
-Micro/Lite/Pro/Business套餐：普通节点佛山移动和佛山电信入口，做了双路容灾，有问题自动切换；全节点IEPL传输，IEPL专线也拉了3条做容灾处理，一样也是有故障自动切换；  
-Pro+/Business+套餐：Premium节点使用了华为云BGP入口的云上+本地多冗余传输，进一步提高可用率。  
-落地基本都是自有ASN。速度不错，晚高峰可以跑满2Gbps的带宽。     
-
-[Blinkload官网注册地址1](https://suo.yt/EE0qmxd)
-
-[Blinkload官网注册地址2](https://bit.ly/341mV9g)  
-
-
-
-
->专线: IEPL专线    
-UDP：部分FullCone-PortRestrictedCone        
-落地：台湾、香港、新加坡、日本、美国    
-开业时间：2017年  
-UDP：部分FullCone-PortRestrictedCone
-入口ip数量 29    
-落地ip数量 29    
-流媒体解锁：Netflix、youtube Premium、HBO Max 、 DAZN、PCR jP    
-协议：SSR + SS    
-专门客服：有       
-[TG频道](https://t.me/thessrchannel)       
-奈飞Netflix：ipv6解锁部分线路可看非自制剧        
-历史测速： <a href="https://jichangtuijian.com/blinkload%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">blinkload历史测速结果整合</a>
- 
-
-
-套餐(单位为港币)：
-
-现阶段有试用套餐临时开放，套餐119.9HKD/季度起，不定时有提供套餐开放库存   
-
-
-套餐 | 线路 | 流量 | 价格 |客户端数目 
----- | ---  | --- | --- | --- 
-小流量套餐 | 专线  |50/100/200G/月 | 319/519/619HK/年 | 3
-Pro | 专线  | 200G/月 | 239/季、399/半年、599.9/年 | 3+
-Lite | 专线 | 100G/月 | 179/季、299/半年、499.9/年| 3
-Micro | 专线 | 50G/月 | 119/季、199/半年、299.9/年| 3
-Business |专线+Premium节点 | 1000G/月起 | 5888/6888/108888HKD/年 | 10/15/400+, 无限速
-
-
-<details>
-  <summary>Pro套餐具体入口与落地信息</summary>
-          
-    入口:
-    China Unknown City, China Mobile 
-    China Unknown City, China Telecom Guangdong
-
-    落地
-    Hong Kong Unknown City, Blinkload Technology Co., Ltd Hong Kong× 12
-    Singapore Unknown City, Blinkload Technology Co., Ltd× 4
-    Taiwan New Taipei, Chunghwa Telecom× 3
-    United States Unknown City, Blinkload Technology Co., Ltd× 4
-
-   
-</details>
-
-
-
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/bl.webp" width="700px"></div>
-
-<br>
- -->
 ------
 
 ### 三、STC-SERVER
 
-IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。推荐旗舰套餐起。  高级节点可以用低级节点，需要去面板选择。  
+IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。推荐旗舰套餐起。  高级节点可以用低级节点，需要去面板选择。
+原生流媒体解锁；BGP专线节点；全节点不限速 
 
  <a href="https://suo.yt/msGOhsW" target="_blank">官网1(如果打不开请切换为全局代理)</a>  
 
@@ -407,7 +338,9 @@ IEPl专线与公网中转ss机场。
 >线路：IEPL内网（深圳移动）+公网中转（湖南联通）   
 协议：SS   
 开业时间：2018  
-老板肉身：墙外   
+老板肉身：墙外 
+国家地区：16+   
+节点数目：37+  
 udp：支持    
 TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 地区：俄罗斯、印度、土耳其、巴基斯坦、巴西泰国、澳洲、菲律宾、阿根廷、韩国、香港、台湾、新加坡、日本、美国、英国   
@@ -535,7 +468,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 ### 七、Just my sock
 
 搬瓦工官方的ss+v2ray机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。 
-相比私人的机场，好处就是安全，无审计，基本不会跑路，信息泄露概率小。IP 被墙自动切换。 
+相比私人的机场，好处就是安全，无审计（只审计BT），基本不会跑路，信息泄露概率小。IP 被墙自动切换。 同时，不满意一般可以退款。    
 如果是对安全性的重视程度较大的和担心私人机场跑路的用户，有敏感操作的，推荐这家机场。  
 支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
  <a href="https://bit.ly/3weANGp" target="_blank">官网注册地址,需要代理或全局模式访问 </a>
@@ -704,12 +637,13 @@ UDP：部分支持Full Cone
 
 ------
 
-------
 
 
 ### 十、跑路云
 
-深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。入口：广州华为云、湖南联通，过境：广港专线。实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。技术不错，且修复线路速度也快。它家进Telegram群答的题目比较难。
+深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。入口：广州华为云、湖南联通，过境：广港专线。
+
+<!-- 实力大佬，手上很多家机场，这家是他们家最大的，也是线路类似最多的。不少线路是它自家的。套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。技术不错，且修复线路速度也快。它家进Telegram群答的题目比较难。 -->
 
 v1等级套餐直连线路trojan   
 v2套餐是走公网中转   
@@ -717,8 +651,8 @@ V3套餐是走深港专线
 V4套餐是走华为云专线，且有Game游节点仅支持SSR协议。主要是花卷莞港莞新、腾讯沪韩、华为广港沪日（V4套餐独有）     
 也有一些冷门节点，仅支持Trojan协议。  
 
-20块左右里面的机场这家值得推荐,套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。    
-
+<!-- 20块左右里面的机场这家值得推荐,套餐等级越高，能用的入口越多，不用担心一个中转挂了就全不能用。何况还有直连线路。    
+ -->
 官网(使用这个链接赠送1块余额)： （机场在限制新增用户数，邀请次数有限，用完就只能等老板给了，如果打不开请切换为全局代理）：<a href="https://owo-qvq-uvu-owo.xn--mes358a082apda.com/auth/register?code=He5q" target="_blank">跑路云官网地址</a>
 
 
