@@ -454,7 +454,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
   
   [最新测速图与优惠更新在频道](https://t.me/jichangtj)
   
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/shaoshupai.webp" width="700px"></div>
+<div align=center><img src="https://jichangtuijian.com/uploads/vpn/ssp.webp" width="700px"></div>
 
 
 
