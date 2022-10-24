@@ -363,7 +363,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 
 ### 五、Hutao（IEPL专线机场）
 
-中继隧道传输和IEPL专线传输，支持 SS,V2ray协议机场。目前人少。推荐给需要按量付费或者是轻量用户。只建议Exclusive套餐。普通中转肯定是不够稳定的。
+全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。
 <a href="https://bit.ly/3G9K4Dy" target="_blank">Hutao官网(需代理)</a>
 
 
@@ -375,17 +375,19 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 老板肉身：北美   
 客服：有   
 入口数目: 2，广州移动   
-落地数目: 28   
+落地数目: 30+  
 历史测速： <a href="https://jichangtuijian.com/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
-协议：SS   
+协议：SS+SSR++V2ray+Trojan  
 付款方式：支付宝   
 TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
 
 
 套餐：
-min/pro/max等普通中转：无专线，7块/月50G起；2个设备起。稳定性一般   
-Exclusive：IEPL专线：27块/月50G起。不限制设备（建议IEPL专线起）   
-按量付费：5毛/G。推荐当备用。   
+* mini：9块/月50G起,限速200M
+* Pro：19块/月150G起,不限速
+* Business：29块/月300G起,不限速
+* Enterprise：99块/月1500G起,不限速
+* 按量付费：5毛/G,限速100M。推荐当备用。   
 
 <div align=center><img src="https://jichangtuijian.com/uploads/vpn/hutao.webp" width="700px"></div>
 
