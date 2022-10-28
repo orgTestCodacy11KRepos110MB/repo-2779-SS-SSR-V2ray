@@ -103,7 +103,7 @@ UDP: 不支持
 付款方式：支付宝    
 小白客户端：有  
 协议：SS+SSR+Trojan+v2ray      
-历史测速： <a href="https://jichangtuijian.com/阿里云ss线路机场推荐GaCloud.html" target="_blank">Gacloud历史测速结果整合</a>     
+历史测速： <a href="https://honven.cc/阿里云ss线路机场推荐GaCloud.html" target="_blank">Gacloud历史测速结果整合</a>     
 
 
 套餐:   
@@ -116,7 +116,7 @@ UDP: 不支持
 精品 | BGP线路,双程CN2线路 |100G，59块/月；150G/月，177块/季；200G/月，708/年 | 3个    
 
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/gacloud.webp" width="800px"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/gacloud.webp" width="800px"></div>
 
 ------
 
@@ -141,7 +141,7 @@ UDP：大部分支持Full Cone
 开业时间：2018   
 落地ip数量 170+   
 协议：SSR   
-历史测速： <a href="https://jichangtuijian.com/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>   
+历史测速： <a href="https://honven.cc/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>   
 专门客服：有    
 付款方式：支付宝    
 [具体节点和流媒体解锁情况](https://node.tagvpn.xyz/) 
@@ -241,7 +241,7 @@ UDP：大部分支持Full Cone
   
 </details>
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/tag.webp" ></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/tag.webp" ></div>
 
 
 <br>
@@ -273,7 +273,7 @@ UDP: 部分支持Full Cone
 入口ip数量 10   
 落地ip数量 32   
 付款方式：支付宝     
-历史测速： <a href="https://jichangtuijian.com/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>    
+历史测速： <a href="https://honven.cc/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>    
 
 套餐:
 
@@ -315,7 +315,7 @@ UDP: 部分支持Full Cone
    
 </details>
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/stc.webp" width="600px"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/stc.webp" width="600px"></div>
    
 
 <br>
@@ -356,7 +356,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 全年3288G：688/年，6设备   
 
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/yunyi.webp" width="700px"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/yunyi.webp" width="700px"></div>
 
 
  ------
@@ -376,7 +376,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 客服：有   
 入口数目: 2，广州移动   
 落地数目: 30+  
-历史测速： <a href="https://jichangtuijian.com/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
+历史测速： <a href="https://honven.cc/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
 协议：SS+SSR++V2ray+Trojan  
 付款方式：支付宝   
 TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
@@ -389,7 +389,7 @@ TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)
 * Enterprise：99块/月1500G起,不限速
 * 按量付费：5毛/G,限速100M。推荐当备用。   
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/hutao.webp" width="700px"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/hutao.webp" width="700px"></div>
 
 
 
@@ -416,7 +416,7 @@ UDP: 部分支持Full Cone,需要自己手动开
 一键使用客户端： 有    
 入口ip数量 4    
 落地ip数量 22        
-历史测速： <a href="https://jichangtuijian.com/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>     
+历史测速： <a href="https://honven.cc/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>     
 协议：SS    
 付款方式：支付宝、微信、虚拟币   
 TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
@@ -457,7 +457,7 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
   
   [最新测速图与优惠更新在频道](https://t.me/jichangtj)
   
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/ssp.webp" width="700px"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/ssp.webp" width="700px"></div>
 
 
 
@@ -556,7 +556,7 @@ Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多�
 一键使用客户端： 有    
 协议：SSR    
 付款方式：支付宝、银联       
-历史测速： <a href="https://jichangtuijian.com/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>  
+历史测速： <a href="https://honven.cc/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>  
 
 
 套餐：
@@ -564,7 +564,7 @@ Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多�
 进阶月付：22.8块/月188G起；4个设备起。      
 旗舰月付：32.8块/月288G起；6个设备起。  
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/fenda.webp"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/fenda.webp"></div>
 
 
 ------
@@ -596,7 +596,7 @@ UDP：部分支持Full Cone
 专门客服：有 
 平台小白一键使用客户端:有     
 付款方式：支付宝、银联      
-历史测速： <a href="https://jichangtuijian.com/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
+历史测速： <a href="https://honven.cc/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
 
 
 套餐 |  流量 | 价格 |客户端数目 
@@ -630,7 +630,7 @@ UDP：部分支持Full Cone
   
 </details>
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/yiyou.webp" width="800px"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/yiyou.webp" width="800px"></div>
 
 
 
@@ -674,7 +674,7 @@ UDP：支持
 专门客服：有    
 付款方式：支付宝、虚拟币USDT   
 奈飞Netflix：部分线路可看非自制剧        
-历史测速： <a href="https://jichangtuijian.com/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>  
+历史测速： <a href="https://honven.cc/%E8%B7%91%E8%B7%AF%E4%BA%91%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">跑路云历史测速结果整合</a>  
 
 
 **套餐，有时会变:
@@ -775,9 +775,9 @@ UDP：支持
 
 ss节点南方移动测速结果：
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/paoluss.webp"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/paoluss.webp"></div>
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/paolutrojan.webp"></div>
+<div align=center><img src="https://honven.cc/uploads/vpn/paolutrojan.webp"></div>
 
 
 
