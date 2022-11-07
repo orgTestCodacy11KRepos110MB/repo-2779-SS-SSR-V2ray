@@ -94,15 +94,15 @@ vps 和线路注定，稳定&流量多&便宜==不存在
  <a href="https://bit.ly/3raw9sD" target="_blank">Gacloud官网2(需代理)</a>
 
 
->节点国家与地区：香港、日本、新加坡、美国、台湾   
-老板肉身：香港   
+>老板肉身：香港   
 UDP: 不支持   
 开业时间：2021   
-入口ip数量 2 （深圳和上海）   
-落地ip数量 33   
+入口ip数量：2 （深圳和上海）   
+落地ip数量：50+  
 付款方式：支付宝    
 小白客户端：有  
-协议：SS+SSR+Trojan+v2ray      
+协议：SS+SSR+Trojan+Vmess    
+节点国家与地区：香港、日本、新加坡、美国、台湾、加拿大、俄罗斯、韩国、印尼、印度、土耳其、巴西、德国、泰国、澳洲、英国、荷兰、菲律宾、马来西亚          
 历史测速： <a href="https://honven.cc/阿里云ss线路机场推荐GaCloud.html" target="_blank">Gacloud历史测速结果整合</a>     
 
 
@@ -114,8 +114,9 @@ UDP: 不支持
 ---- | ---  | --- | --- 
 基础 | 无国际Global Accelerator专线 | 39/月 100G流量；150G，117块/季度；200G/月，468/年| 3个，无SLA保证  
 优质 | BGP线路 |100G，49块/月；150G，147块/季度；200G/月，588/年 |3个  
-精品 | BGP线路,双程CN2线路 |100G，59块/月；150G/月，177块/季；200G/月，708/年 | 3个    
+精品 | BGP线路,双程CN2线路 |100G，59块/月；150G/月，177块/季；200G/月，708/年 | 3个（推荐这个）    
 
+以下是精品套餐测速图
 
 <div align=center><img src="https://honven.cc/uploads/vpn/gacloud.webp" width="800px"></div>
 
