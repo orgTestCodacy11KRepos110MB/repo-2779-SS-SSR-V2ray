@@ -128,7 +128,7 @@ UDP: 不支持
 特色：流媒体解锁和落地，有大量冷门节点，全球80+国家地区，各地家宽IP、原生ip，最多国家的机场，没有之一。老板很认真挑选落地节点，基本都是原生（解锁各种流媒体）并且带宽大的才用，非常适合各类流媒体爱好者。老板人挺好，基本都在群里回答问题。
 机场主在香港。不买他家套餐，也推荐买140一年的流量包可做备用。    
 
-<a href="https://suo.yt/epCKr1G" target="_blank">TAG官网1(如果打不开请切换为全局代理) </a>
+<a href="https://suo.yt/KIv9ZJq" target="_blank">TAG官网1(如果打不开请切换为全局代理) </a>
 
 <a href="https://bit.ly/3K49q9d" target="_blank">TAG官网2(如果打不开请切换为全局代理)</a>
 
@@ -300,7 +300,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 新用户首次95折优惠码：SPECIAL   
 3天无理由退款（仅虚拟货币）   
 
-[RelayCloud官网1](https://suo.yt/j4id20d)
+[RelayCloud官网1](https://suo.yt/5eLg5zn)
 
 [RelayCloud官网2](https://bit.ly/3TNkBaz)
 
