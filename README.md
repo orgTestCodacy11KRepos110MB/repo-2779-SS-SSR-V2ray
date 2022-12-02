@@ -341,9 +341,46 @@ UDP: 支持
 <div align=center><img src="https://honven.cc/uploads/vpn/relaycloud.webp" width="700px"></div>
 
 
+
+### 五、EdCloud
+
+vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G流量起。  
+有两个特色：   
+1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。  
+2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。   
+
+[EdCloud网链接1](https://suo.yt/h2luF8x)    
+
+[EdCloud官网链接2，需要代理打开](https://bit.ly/3DcTK0o)    
+
+
+
+>专线：深港专线   
+老板肉身：加拿大   
+开业时间：2021.05   
+TG频道： [EdNovas云](https://t.me/ednovasyun1)   
+回国线路：有，上白名单   
+协议：V2ray   
+一键使用客户端： [安卓客户端下载地址](https://ednovas.dev/ednovas_cloud.apk)   
+付款方式：支付宝、虚拟币   
+UDP: 不支持   
+服务器探针  https://tz.ednovas.me/   
+在线设备数： 5   
+节点数目：220+   
+落地国家： 130+，[目前机场节点覆盖图](https://lab.magiconch.com/world-ex/)      
+
+套餐：
+<div align=center><img src="https://honven.cc/uploads/vpn/edcloudtaocan.webp" width="600px"></div>
+
+<div align=center><img src="https://honven.cc/uploads/vpn/edcloud.webp" width="600px"></div>
+   
+
+<br>
+  
+
  ------
 
-### 五、STC-SERVER
+### 六、STC-SERVER
 
 IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付。也有按量付费。推荐旗舰套餐起。  高级节点可以用低级节点，需要去面板选择。
 原生流媒体解锁；BGP专线节点；全节点不限速 
@@ -417,7 +454,7 @@ UDP: 部分支持Full Cone
 
 ------
 
-## 六、Kycloud（IEPl专线机场）
+## 七、Kycloud（IEPl专线机场）
 
 IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给国外的人用的）。
 套餐不限同时在线客户端数。注册需要先购买。
@@ -459,42 +496,7 @@ Team 2 ：609/季度每月2T流量
 
  ------
 
-### 七、Hutao（IEPL专线机场）
 
-全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。
-<a href="https://bit.ly/3G9K4Dy" target="_blank">Hutao官网(需代理)</a>
-
-
-中继：有  
-专线：有  
-原生节点：有  
-落地：美国、台湾、新加坡、日本、香港、韩国   
-节点数目：120+   
-老板肉身：北美   
-客服：有   
-入口数目: 2，广州移动   
-落地数目: 30+  
-历史测速： <a href="https://honven.cc/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
-协议：SS+SSR++V2ray+Trojan  
-付款方式：支付宝   
-TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
-
-
-**套餐：**
-
-* mini：9块/月50G起,限速200M
-* Pro：19块/月150G起,不限速
-* Business：29块/月300G起,不限速
-* Enterprise：99块/月1500G起,不限速
-* 按量付费：5毛/G,限速100M。推荐当备用。   
-
-<div align=center><img src="https://honven.cc/uploads/vpn/hutao.webp" width="700px"></div>
-
-
-
-
-
-------
 
 ###  八、少数派（IEPL专线机场）
 
@@ -563,11 +565,46 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 <br>
 
 
+------
+
+### 九、Hutao（IEPL专线机场）
+
+全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。
+<a href="https://bit.ly/3G9K4Dy" target="_blank">Hutao官网(需代理)</a>
+
+
+中继：有  
+专线：有  
+原生节点：有  
+落地：美国、台湾、新加坡、日本、香港、韩国   
+节点数目：120+   
+老板肉身：北美   
+客服：有   
+入口数目: 2，广州移动   
+落地数目: 30+  
+历史测速： <a href="https://honven.cc/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
+协议：SS+SSR++V2ray+Trojan  
+付款方式：支付宝   
+TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
+
+
+**套餐：**
+
+* mini：9块/月50G起,限速200M
+* Pro：19块/月150G起,不限速
+* Business：29块/月300G起,不限速
+* Enterprise：99块/月1500G起,不限速
+* 按量付费：5毛/G,限速100M。推荐当备用。   
+
+<div align=center><img src="https://honven.cc/uploads/vpn/hutao.webp" width="700px"></div>
+
+
+
 
 
 ------
 
-### 九、Just my sock
+### 十、Just my sock
 
 搬瓦工官方的ss+v2ray机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。 
 相比私人的机场，好处就是安全，无审计（只审计BT），基本不会跑路，信息泄露概率小。IP 被墙自动切换。 同时，不满意一般可以退款。    
@@ -635,7 +672,7 @@ Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多�
  
 ------
 
-### 十、芬达（全IEPl专线机场）  
+### 十一、芬达（全IEPl专线机场）  
 
 
 全IEPl专线机场ssr机场，人目前比较少，适合想要人少机场的用户。 
@@ -674,7 +711,7 @@ Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多�
 
 
 
-### 十一、翼游（IEPl专线机场）
+### 十二、翼游（IEPl专线机场）
 
 ssr+trojan，全IEPl专线机场。从线路质量来看，价格算是比较便宜的。有各个平台小白一键使用客户端。 
 
@@ -745,7 +782,7 @@ UDP：部分支持Full Cone
 
 
 
-### 十二、跑路云
+### 十三、跑路云
 
 深港专线+华为云专线+BGP中转SSR+trojan机场,主要是SSR。入口：广州华为云、湖南联通，过境：广港专线。
 
