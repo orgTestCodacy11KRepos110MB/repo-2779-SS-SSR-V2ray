@@ -344,7 +344,7 @@ UDP: 支持
  ------
  
 
-### 五、EdCloud
+### 五、EdNovas云  
 
 vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G流量起。  
 有两个特色：   
@@ -354,9 +354,9 @@ vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G�
 圣诞月85折全场优惠码：HappyDecember    
 优惠码有效期至12月31日   
 
-[EdCloud网链接1](https://suo.yt/h2luF8x)    
+[EdNovas云官网链接1](https://suo.yt/h2luF8x)    
 
-[EdCloud官网链接2，需要代理打开](https://bit.ly/3DcTK0o)    
+[EdNovas云官网链接2，需要代理打开](https://bit.ly/3DcTK0o)    
 
 
 
