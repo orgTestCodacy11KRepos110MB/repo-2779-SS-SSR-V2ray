@@ -341,6 +341,8 @@ UDP: 支持
 <div align=center><img src="https://honven.cc/uploads/vpn/relaycloud.webp" width="700px"></div>
 
 
+ ------
+ 
 
 ### 五、EdCloud
 
@@ -348,6 +350,9 @@ vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G�
 有两个特色：   
 1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。  
 2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。   
+
+圣诞月85折全场优惠码：HappyDecember    
+优惠码有效期至12月31日   
 
 [EdCloud网链接1](https://suo.yt/h2luF8x)    
 
@@ -357,9 +362,9 @@ vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G�
 
 >专线：深港专线   
 老板肉身：加拿大   
-开业时间：2021.05   
+开业时间：2020年12月     
 TG频道： [EdNovas云](https://t.me/ednovasyun1)   
-回国线路：有，上白名单   
+回国线路：有，北京、上海和一个随机城市。上白名单   
 协议：V2ray   
 一键使用客户端： [安卓客户端下载地址](https://ednovas.dev/ednovas_cloud.apk)   
 付款方式：支付宝、虚拟币   
@@ -454,6 +459,7 @@ UDP: 部分支持Full Cone
 
 ------
 
+
 ## 七、Kycloud（IEPl专线机场）
 
 IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给国外的人用的）。
@@ -493,6 +499,7 @@ Team 1 ：369/季度每月1T流量
 Team 2 ：609/季度每月2T流量   
 
 <div align=center><img src="https://honven.cc/uploads/vpn/kycloud.webp" width="700px"></div>
+
 
  ------
 
