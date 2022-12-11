@@ -279,7 +279,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 地区：俄罗斯、印度、土耳其、巴基斯坦、巴西、泰国、澳洲、菲律宾、阿根廷、韩国、香港、台湾、新加坡、日本、美国、英国   
 
 **套餐:**  
-
+试用：1块1天5G   
 标准：22.8/月108G流量，4设备   
 高级：32.8/月198G流量，4设备   
 终极：89.8/月520G流量，10设备   
@@ -368,7 +368,7 @@ TG频道： [EdNovas云](https://t.me/ednovasyun1)
 协议：V2ray   
 一键使用客户端： [安卓客户端下载地址](https://ednovas.dev/ednovas_cloud.apk)   
 付款方式：支付宝、虚拟币   
-UDP: 不支持   
+UDP: 支持   
 服务器探针  https://tz.ednovas.me/   
 在线设备数： 5   
 节点数目：220+   
