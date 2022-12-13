@@ -465,7 +465,7 @@ UDP: 部分支持Full Cone
 IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给国外的人用的）。
 套餐不限同时在线客户端数。注册需要先购买。
 
-[kycloud官网1](https://suo.yt/Wu4o6b1) 
+[kycloud官网1](https://suo.yt/NVrN8Vj) 
 
 [kycloud官网2](https://bit.ly/3U0EZV8) 
 
