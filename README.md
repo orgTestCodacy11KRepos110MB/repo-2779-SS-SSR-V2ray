@@ -89,9 +89,9 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 
 官网（通过这个链接注册新用户全员无门槛8折优惠券,只能用一次，目前每充值一百可以抽奖，还有75折优惠）：
 
- <a href="https://suo.yt/0KafTAn" target="_blank">WgetCloud官网1(如果打不开请切换为全局代理)</a>
+ <a href="https://invite.wgetcloud.ltd/auth/register?code=n7z3" target="_blank">WgetCloud官网1(如果打不开请切换为全局代理)</a>
 
- <a href="https://bit.ly/3EupmjU" target="_blank">WgetCloud官网2(需代理)</a>
+ <a href="https://bit.ly/3Ik4FJV" target="_blank">WgetCloud官网2(需代理)</a>
 
 
 >老板肉身：香港   
@@ -300,7 +300,7 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 新用户首次95折优惠码：SPECIAL   
 3天无理由退款（仅虚拟货币）   
 
-[RelayCloud官网1](https://suo.yt/5eLg5zn)
+[RelayCloud官网1]([https://suo.yt/5eLg5zn](https://relaycloud.pro/auth/register?code=YqVfn))
 
 [RelayCloud官网2](https://bit.ly/3TNkBaz)
 
