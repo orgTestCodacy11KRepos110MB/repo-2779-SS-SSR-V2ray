@@ -50,17 +50,20 @@
 
 12.抄袭我的请要点脸。上面都是我长期使用总结出来的，直接全复制粘贴，家人安好？
 
-13.**各平台客户端推荐：**   
->windows推荐使用clash for window/netch    
-Mac推荐使用clash for windows mac版本/ clashX /有钱的买surge   
-IOS推荐小火箭/quantumultX/有钱的买surge   
-安卓推荐Surfboard、clashforAndroid(CFA) 、v2rayNG 
+13.**各平台客户端推荐：**  
+
+>Windows推荐使用[clash for window](https://github.com/Fndroid/clash_for_windows_pkg), [clash-verge](https://github.com/zzzgydi/clash-verge)，[netch](https://github.com/netchx/netch)    
+Mac推荐使用clash for windows的mac版本 / [clashX](https://github.com/yichengchen/clashX) / 有钱的买surge   
+IOS推荐小火箭Shadowrocket/quantumultX/有钱的买surge；    
+安卓推荐[clashforAndroid(CFA)](https://github.com/Kr328/ClashForAndroid) 、Surfboard、v2rayNG
+linux 推荐shell clash或者clash for windows和clash-verg的linux版本    
+路由器可以使用[OpenClash](https://github.com/vernesong/OpenClash) 
 
 **免费软件**
 
 迷雾通
 
-[免翻墙，Github下载地址](https://rentry.co/getmwt)
+[迷雾通下载地址](https://rentry.co/getmwt)
 
 [官网，需要翻墙才能打开](https://geph.io/zhs/)
 
