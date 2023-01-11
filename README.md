@@ -284,6 +284,8 @@ IEPl专线与公网中转ss机场。稳定性不错。
 udp：支持    
 TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 地区：俄罗斯、印度、土耳其、巴基斯坦、巴西、泰国、澳洲、菲律宾、阿根廷、韩国、香港、台湾、新加坡、日本、美国、英国   
+历史测速结果合集: <a href="https://honven.cc/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络历史测速结果</a>
+
 
 **套餐:**  
 试用：1块1天5G   
@@ -323,7 +325,7 @@ TG频道：[RelayCloud Notice](https://t.me/joinchat/AAAAAFfR7-mbeYbPP8XH5w)  �
 付款方式：支付宝   
 UDP: 支持   
 退款：支持   
-历史测速结果合集: <a href="./relaycloud历史测速结果整合.html" target="_blank">Relaycloud历史测速结果整合</a>
+历史测速结果合集: <a href="https://honven.cc/relaycloud历史测速结果整合.html" target="_blank">Relaycloud历史测速结果整合</a>
 
 
 
@@ -382,6 +384,8 @@ UDP: 支持
 [审计规则，屏蔽的网站](https://github.com/EdNovas/rulelist/blob/main/rulelist)   
 退款：有  
 落地国家： 130+，[目前机场节点覆盖图](https://lab.magiconch.com/world-ex/)      
+历史测速结果合集: <a href="https://honven.cc/回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud历史测速结果整合</a>
+
 
 套餐：
 <div align=center><img src="https://honven.cc/uploads/vpn/edcloudtaocan.webp" width="600px"></div>
@@ -491,6 +495,7 @@ IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有�
 付款方式：支付宝、虚拟币USDT   
 UDP：基本支持Full-Cone NAT   
 TG频道和群组：在套餐内   
+历史测速结果合集: <a href="https://honven.cc/IEPL专线机场kycloud历史测速结果整合.html" target="_blank">IEPL专线机场kycloud历史测速结果整合</a>
 
 
 
