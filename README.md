@@ -106,7 +106,7 @@ UDP: 不支持
 小白客户端：有  
 协议：SS+SSR+Trojan+Vmess    
 节点国家与地区：香港、日本、新加坡、美国、台湾、加拿大、俄罗斯、韩国、印尼、印度、土耳其、巴西、德国、泰国、澳洲、英国、荷兰、菲律宾、马来西亚          
-历史测速： <a href="https://honven.cc/阿里云ss线路机场推荐GaCloud.html" target="_blank">Gacloud历史测速结果整合</a>     
+历史测速： <a href="https://honven.cc/阿里云ss线路机场推荐GaCloud.html" target="_blank">WgetCloud历史测速结果整合</a>     
 
 
 **套餐:**  
@@ -148,13 +148,13 @@ UDP：大部分支持Full Cone
 [网络监控](http://system.tagvpn.xyz )    
 开业时间：2018   
 落地ip数量 220+   
+[具体节点和流媒体解锁情况](https://node.tagvpn.xyz/)   
 协议：Shadowsocks    
-历史测速： <a href="https://honven.cc/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>   
 专门客服：有    
 付款方式：支付宝    
 设备数目： 10+    
 UDP: 大多数支持Full Cone   
-[具体节点和流媒体解锁情况](https://node.tagvpn.xyz/) 
+历史测速： <a href="https://honven.cc/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>   
 
 
 **套餐:**
@@ -535,11 +535,10 @@ UDP: 部分支持Full Cone,需要自己手动开
 一键使用客户端： 有    
 入口ip数量 4    
 落地ip数量 22        
-历史测速： <a href="https://honven.cc/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>     
+TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
 协议：SS    
 付款方式：支付宝、微信、虚拟币   
-TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
-
+历史测速： <a href="https://honven.cc/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>    
 
 **套餐：**
 
@@ -598,12 +597,12 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 节点数目：120+   
 老板肉身：北美   
 客服：有   
-入口数目: 2，广州移动   
+TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
+入口数目: 2，广州移动   1
 落地数目: 30+  
-历史测速： <a href="https://honven.cc/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>   
 协议：SS+SSR++V2ray+Trojan  
 付款方式：支付宝   
-TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
+历史测速： <a href="https://honven.cc/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>    
 
 
 **套餐：**
