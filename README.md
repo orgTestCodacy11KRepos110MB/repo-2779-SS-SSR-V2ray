@@ -29,7 +29,7 @@
 
 3.稳定与协议没有关系，协议不是最重要的，线路才是。ss，ssr，v2ray，trojan都行，不过ssr太久没维护了，目前大部分机场抛弃ssr。被识别了目前只是封ip，损失的是机场主。你换一条线路即可。总体而言ss延迟相对较低。非敏感时期的日常使用中转就好 不一定要用专线。不一定要用专线。专线不一定就好，需要看同时使用人数，几百人挤同一条小水管不如几个人的中转，甚至不如直连。机场主常年不在线，修复节点慢的也别买。速度要看机场的总带宽大小，稳定要看机场的资源质量，解锁看的是机场主的落地/解锁商是否优秀。   
 
-<div align=center><img src="https://jichangtuijian.com/uploads/vpn/1.webp" width="700px"></div>
+<div align=center><img src="https://jichangpingce.com/uploads/vpn/1.webp" width="700px"></div>
 
 4.看入口，入口机器很重要。入口数目多点最好，入口和用户本地网络之间的相性决定了用户使用机场的上限和下限。，因为现在都是中转机场，一旦挂了中转线路就没办法转发流量到落地机了。中转机子也是机场成本大头，一般大机场都是G口，几千上万一个月很正常。现在防火墙在每年64、国庆、除夕都会进行干扰代理，反向墙国内中转服务器，所以敏感时期需要使用专线。对于IEPl专线则污染中转机的域名。   
 
@@ -45,18 +45,18 @@
 
 10.注意机场的倍率，2倍率就是用1M算2M流量，用10倍率的线路，流量可能一下就没了。别看单价流量多就觉得值,1块1T不好用也是浪费钱。机场基本都是有审计的，比如是BT下载、邮件端口和政治敏感网站。
 
-11.尽量选择gmail、outlook、protonmail等邮箱注册，如果可以尽量选择数字货币支付。不要使用真实个人信息。有试用先试用。但是试用可能不限速，套餐限速。所以需要看购买的套餐带宽是否是限速的。
+11.尽量选择Gmail、Outlook、Protonmail等邮箱注册，如果可以尽量选择数字货币支付。不要使用真实个人信息。有试用先试用。但是试用可能不限速，套餐限速。所以需要看购买的套餐带宽是否是限速的。
 
 12.抄袭我的请要点脸。上面都是我长期使用总结出来的，直接全复制粘贴，家人安好？
 
 13.**各平台客户端推荐：**  
 
->Windows推荐使用[Clash for window](https://github.com/Fndroid/clash_for_windows_pkg), [clash-verge](https://github.com/zzzgydi/clash-verge)，[netch](https://github.com/netchx/netch)    
-Mac推荐使用Clash for windows的mac版本 / [clashX](https://github.com/yichengchen/clashX) / 有钱的买surge   
-IOS推荐小火箭Shadowrocket/quantumultX/有钱的买surge；    
-安卓推荐[ClashforAndroid(CFA)](https://github.com/Kr328/ClashForAndroid) 、Surfboard、v2rayNG
-linux 推荐Shell clash或者clash for windows和clash-verg的linux版本    
-路由器可以使用[OpenClash](https://github.com/vernesong/OpenClash) 
+>Windows:推荐使用[Clash for window](https://github.com/Fndroid/clash_for_windows_pkg),  [Clash-verge](https://github.com/zzzgydi/clash-verge)， [Netch](https://github.com/netchx/netch)    
+Mac:推荐使用Clash for windows的mac版本 / [ClashX](https://github.com/yichengchen/clashX) / 有钱的买Surge   
+IOS:推荐小火箭Shadowrocket / QuantumultX/有钱的买Surge        
+安卓:推荐[ClashforAndroid(CFA)](https://github.com/Kr328/ClashForAndroid) 、Surfboard、V2rayNG
+linux:推荐Shell clash或者Clash for windows和Clash-verg的Linux版本    
+路由器:可以使用[OpenClash](https://github.com/vernesong/OpenClash) 
 
 **免费软件**
 
@@ -110,11 +110,11 @@ UDP： 不支持
 
 有按量付费和自定义套餐选项
 
-套餐 | 线路 | 套餐  |客户端数目  
----- | ---  | --- | --- 
-基础 | 无国际Global Accelerator专线，节点数：15 | 49/月 120G流量；180G，147块/季度；240G/月，588/年 | 3个，无SLA保证  
-优质 | BGP线路，节点数：15 | 120G，59块/月；180G，177块/季度；240G/月，708/年 | 3个  
-精品 | BGP线路,双程CN2线路，节点数：29 | 120G，69块/月；180G/月，207块/季；240G/月，828/年 | 3个 
+套餐 | 线路 | 套餐   
+---- | ---  | --- 
+基础 | 15个节点 | 120G/月49块/月；180G/月147块/季；240G/月588块/年,无SLA保证  
+优质 | BGP线路，15个节点 | 120G/月59块/月；180G/月177块/季；240G/月708块/年
+精品 | BGP线路,双程CN2线路，29个节点 | 120G/月69块/月；180G/月207块/季；240G/月828块/年
 
 以下是精品套餐测速图,更多测速图参考历史测速
 
@@ -386,15 +386,16 @@ TG频道和群组：在套餐内
 **套餐:**
 
 
-Mini:每月10G,年付150，可以做备用   
-Basic：每月50G,季付75   
-Basic：每月50G,季付75   
-Silver：每月100G,月付30   
-Platinum：每月200G,月付40   
-Ultimate 1 ：150/季度每月300G流量;年费498元   
-Ultimate 2 ：210/季度每月500G流量;年费698元   
-Team 1 ：369/季度每月1T流量   
-Team 2 ：609/季度每月2T流量   
+套餐 |  流量 | 价格  
+----  | --- | ---   
+Mini | 10G/月 | 150块/年,可做备用 
+Basic | 50G/月 | 75块/季度 
+Silver | 100G/月 | 30块/月  
+Platinum | 200G/年 | 40块/月  
+Ultimate1 | 300G/年 | 150块/季度，498块/年  
+Ultimate2 | 500G/年 | 398.8块/月，698块/年
+Team1 | 1T/月 | 369块/季度  
+Team2 | 2T/月 | 609块/季度 
 
 <div align=center><img src="https://honven.cc/uploads/vpn/kycloud.webp" width="700px"></div>
 
@@ -428,11 +429,11 @@ UDP：支持
 
 **套餐：**
 
-套餐 | 流量 | 价格 |客户端数目 
----- | --- | --- | --- 
-1 | 200G/月 |29/月 | 3
-2 | 300G/月 |45/月 | 3
-3 | 600G/月 |89/月 | 10
+流量 | 价格 |客户端数目 
+--- | --- | --- 
+200G/月 |29块/月 | 3
+300G/月 |45块/月 | 3
+600G/月 |89块/月 | 10
 
 
 <details>
@@ -494,11 +495,15 @@ TG频道：[Hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)
 
 **套餐：**
 
-* mini：9块/月50G起,限速200M
-* Pro：19块/月150G起,不限速
-* Business：29块/月300G起,不限速
-* Enterprise：99块/月1500G起,不限速
 * 按量付费：5毛/G,限速100M。推荐当备用。   
+
+套餐 |  流量 | 价格  
+----  | --- | ---   
+Mini | 50G/月 | 9块/月
+Pro | 150G/月 |19块/月
+Business | 300G/月 | 29块/月  
+Enterprise | 1500G/月 | 99/月  
+ 
 
 <div align=center><img src="https://honven.cc/uploads/vpn/hutao.webp" width="700px"></div>
 
@@ -598,11 +603,14 @@ UDP：支持
 历史测速结果合集: <a href="https://honven.cc/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>   
 
 
-**套餐：**
 
-基础月付：12.8块/月88G起；3个设备起。  
-进阶月付：22.8块/月188G起；4个设备起。      
-旗舰月付：32.8块/月288G起；6个设备起。  
+**套餐:** 
+
+套餐 |  流量 | 价格 |客户端数目 
+----  | --- | --- | ---    
+基础月付 | 88G/月 | 12.8块/月 | 3   
+进阶月付 | 188G/月 | 22.8块/月 | 4   
+旗舰月付 | 288G/月 | 32.8块/月 | 6   
 
 <div align=center><img src="https://honven.cc/uploads/vpn/fenda.webp"></div>
 
@@ -637,14 +645,14 @@ UDP：支持
 
 **套餐：**
 
-套餐 |  流量 | 价格 |客户端数目 
----- |  --- | --- | --- 
-1 |50G/月 |10块/月 | 2
-2 | 10G/月 |18块/月 | 3
-3 | 300G/月 |28块/月 | 5
-4 | 500G/月 |38块/月 | 6
-5 | 1000G/月 |78块/月 | 18
-6 | 2000G/月 |98块/月 | 18
+流量 | 价格 |客户端数目 
+ --- | --- | --- 
+50G/月 |10块/月 | 2
+10G/月 |18块/月 | 3
+300G/月 |28块/月 | 5
+500G/月 |38块/月 | 6
+1000G/月 |78块/月 | 18
+2000G/月 |98块/月 | 18
 
 
 <details>
