@@ -11,7 +11,8 @@
 
 **说在前面的话**
 
-1.机场主要就是看线路。总体线路质量：华为云/阿里云BGP专线入口的IEPL专线>单入口IEPL>普通公网中转比如广东移动、湖南联通等。总体越贵越好尽量选择有IPLC/IEPL内网专线;BGP多入口中转的比单入口的要稳。在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。
+1.机场主要就是看线路。**总体线路质量：华为云/阿里云BGP专线入口的IEPL专线>单入口IEPL>普通公网中转比如广东移动、湖南联通等。**  
+总体越贵越好尽量选择有IPLC/IEPL内网专线;BGP多入口中转的比单入口的要稳。在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。
 
 看你使用的网络运营商: 电信和联通一般都不错。移动，教育网和中国铁通最好买BGP三网中继线路，体验才好。目前主流的是利用公有云不同区域的VPC之间内网互通机制，组建的内网。最经典的就是阿里云的经典网络内网，可惜已经没了。
 
@@ -47,7 +48,7 @@
 
 11.尽量选择Gmail、Outlook、Protonmail等邮箱注册，如果可以尽量选择数字货币支付。不要使用真实个人信息。有试用先试用。但是试用可能不限速，套餐限速。所以需要看购买的套餐带宽是否是限速的。
 
-12.抄袭我的请要点脸。上面都是我长期使用总结出来的，直接全复制粘贴，家人安好？
+12.抄袭或者洗稿的请要点脸。上面都是我长期使用总结出来的。
 
 13.**各平台客户端推荐：**  
 
@@ -110,12 +111,16 @@ UDP： 不支持
 
 有按量付费和自定义套餐选项
 
+<div align="center">
+
 套餐 | 线路 | 套餐   
----- | ---  | --- 
+ :-:  | :-:   | :-: 
 基础 | 15个节点 | 120G/月49块/月；180G/月147块/季；240G/月588块/年,无SLA保证  
 优质 | BGP线路，15个节点 | 120G/月59块/月；180G/月177块/季；240G/月708块/年
 精品 | BGP线路,双程CN2线路，29个节点 | 120G/月69块/月；180G/月207块/季；240G/月828块/年
 
+ </div>
+ 
 以下是精品套餐测速图,更多测速图参考历史测速
 
 <div align=center><img src="https://honven.cc/uploads/vpn/gacloud.webp" width="800px"></div>
@@ -149,14 +154,17 @@ TG频道：[TAG Notification Channel](https://t.me/tagnotif)
 
 **套餐:**
 
+<div align="center">
+
 套餐 |  流量 | 价格 
----- |  --- | --- 
+:-: |  :-: | :-: 
 个人Bronze | 250G/月 |160块/季 
 个人Silver | 500G/月 |99块/月 
 个人190Gold | 999G/月 |190块/月 
 特选套餐 | 200G/年 |140块/年，可做备用
 团队套餐 |3000G/月 |570块/每月
-
+</div>
+ 
 <div align=center><img src="https://honven.cc/uploads/vpn/tag.webp" ></div>
 
 <br>
@@ -186,14 +194,18 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 **套餐:**  
 试用：1块1天5G   
 
+<div align="center">
+
 套餐 |  流量 | 价格 | 设备数 
----- |  --- | --- | --- 
+:-: | :-: |:-: | :-:
 标准 | 108G/月 |22.8/月 | 4
 高级 | 198GG/月 |32.8/月 | 4
 终极 | 520G/月 |89.8/月 | 10
 全年一次性648G | 648G/年 |188/年 |  3
 全年一次性1398G |1398GG/月 |328/年 | 4
 全年一次性3288G | 3288G/月 |688/年 | 6
+ 
+</div>
 
 
 <div align=center><img src="https://honven.cc/uploads/vpn/yunyi.webp" width="700px"></div>
@@ -226,14 +238,17 @@ TG频道：[RelayCloud Notice](https://t.me/joinchat/AAAAAFfR7-mbeYbPP8XH5w)  �
 
 **套餐:** 
 
+<div align="center">
+
 套餐 |  流量 | 价格 |客户端数目 
-----  | --- | --- | ---    
+:-:  | :-: | :-: | :-:    
 月付80GB | 80G/月 | 19块/月 | 3   
 月付10GB | 180G/月 | 26.8块/月 | 3   
 月付380GB | 380G/月 | 56.8块/月 | 5   
 年付600GB | 600G/年 | 148.8块/年 | 3   
 年付1200GB | 1200G/年 | 218.8块/月 | 3   
 年付2400GB | 2400G/年 | 398.8块/月 | 3   
+</div>
  
 <div align=center><img src="https://honven.cc/uploads/vpn/relaycloud.webp" width="700px"></div>
 
@@ -312,51 +327,18 @@ UDP：部分支持Full Cone
 
 **套餐:**
 
+
 按量付费：0.8块/G,不用不花钱.
 基础套餐 | 中转线路,线路38条 |每月100G流量，38块/月，2/3个在线客户端    
 进阶套餐 |  中转线路,更多线路38+13条 |每月100G流量，48块/月，3/4个在线客户端     
 旗舰套餐 |  中转线路+专线线路,线路38+13+7条 |每月100G流量，88块/月，4/5个在线客户端    
 企业套餐 |  中转线路+更多专线线路,线路38+13+7+4条 |每月100G流量，108块/月，5/6个在线客户端   
 
-<details>
-  <summary>具体入口和落地信息</summary>
-  
-    入口：
-     China Nanjing, China Unicom Liaoning*1
-     China Pudong, China Unicom Shanghai*1
-     China Shanghai, China Unicom Shanghai*1
-     China Suzhou, China Mobile*2
-     China Unknown City, CHINATELECOM JiangSu YangZhou IDC networkdescr: Ya*1
-     China Unknown City, China Mobile*2
-     China Unknown City, China Telecom Shanghai*2
-  
-
-    落地：
-    China Tianjin, SuperInternet ACCESS Pte*2
-    Hong Kong Central, China Mobile Hong Kong Broadband*1
-    Hong Kong Central, Hong Kong Broadband Network*2
-    Hong Kong Kowloon, Netvigator*5
-    Hong Kong Kwun Hang, China Mobile Hong Kong Broadband*1
-    Hong Kong Lai Chi Kok, Hong Kong Broadband Network*1
-    Hong Kong Sham Tseng, Netvigator*1
-    Hong Kong Tin Shui Wai, Netvigator*1
-    Hong Kong Tuen Mun, Netvigator*4
-    Japan Tokyo, Kirino LLC*3
-    Taiwan New Taipei, Chunghwa Telecom*5
-    Taiwan Tainan City, Chunghwa Telecom*4
-    United States Los Angeles, DMIT*1
-    United States Seattle, Kirino LLC*1
-
-   
-</details>
-
 <div align=center><img src="https://honven.cc/uploads/vpn/stc.webp" width="600px"></div>
-   
+  
 
 <br>
   
-
-
 ------
 
 
@@ -385,9 +367,10 @@ TG频道和群组：在套餐内
 
 **套餐:**
 
+<div align="center">
 
 套餐 |  流量 | 价格  
-----  | --- | ---   
+:-:  | :-: | :-:  
 Mini | 10G/月 | 150块/年,可做备用 
 Basic | 50G/月 | 75块/季度 
 Silver | 100G/月 | 30块/月  
@@ -396,6 +379,7 @@ Ultimate1 | 300G/年 | 150块/季度，498块/年
 Ultimate2 | 500G/年 | 398.8块/月，698块/年
 Team1 | 1T/月 | 369块/季度  
 Team2 | 2T/月 | 609块/季度 
+</div>
 
 <div align=center><img src="https://honven.cc/uploads/vpn/kycloud.webp" width="700px"></div>
 
@@ -429,11 +413,14 @@ UDP：支持
 
 **套餐：**
 
+<div align="center">
+
 流量 | 价格 |客户端数目 
---- | --- | --- 
+:-:| :-: | :-:
 200G/月 |29块/月 | 3
 300G/月 |45块/月 | 3
 600G/月 |89块/月 | 10
+</div>
 
 
 <details>
@@ -495,15 +482,18 @@ TG频道：[Hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)
 
 **套餐：**
 
-* 按量付费：5毛/G,限速100M。推荐当备用。   
+* 按量付费：5毛/G,限速100M。推荐当备用。
+*    
+<div align="center">
 
 套餐 |  流量 | 价格  
-----  | --- | ---   
+:-:  | :-: | :-:   
 Mini | 50G/月 | 9块/月
 Pro | 150G/月 |19块/月
 Business | 300G/月 | 29块/月  
 Enterprise | 1500G/月 | 99/月  
- 
+</div>
+
 
 <div align=center><img src="https://honven.cc/uploads/vpn/hutao.webp" width="700px"></div>
 
@@ -606,11 +596,14 @@ UDP：支持
 
 **套餐:** 
 
+<div align="center">
+
 套餐 |  流量 | 价格 |客户端数目 
-----  | --- | --- | ---    
+:-:  | :-: |:-: | :-:   
 基础月付 | 88G/月 | 12.8块/月 | 3   
 进阶月付 | 188G/月 | 22.8块/月 | 4   
 旗舰月付 | 288G/月 | 32.8块/月 | 6   
+</div>
 
 <div align=center><img src="https://honven.cc/uploads/vpn/fenda.webp"></div>
 
@@ -645,14 +638,17 @@ UDP：支持
 
 **套餐：**
 
+<div align="center">
+
 流量 | 价格 |客户端数目 
- --- | --- | --- 
+:-: | :-: | :-:
 50G/月 |10块/月 | 2
 10G/月 |18块/月 | 3
 300G/月 |28块/月 | 5
 500G/月 |38块/月 | 6
 1000G/月 |78块/月 | 18
 2000G/月 |98块/月 | 18
+</div>
 
 
 <details>
