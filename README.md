@@ -9,24 +9,23 @@
 建议收藏本页，持续更新
 如果觉得有帮助到您，Star下呗~~~ 经常更新！！！
 
-
-
 **说在前面的话**
 
-1.机场主要就是看线路。总体线路质量：华为云内网专线>IEPL内网专线>CN2>普通公网普通中转。总体越贵越好尽量选择有IPLC/IEPL内网专线;BGP多入口中转的比单入口的要稳。在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。
+1.机场主要就是看线路。总体线路质量：华为云/阿里云BGP专线入口的IEPL专线>单入口IEPL>普通公网中转比如广东移动、湖南联通等。总体越贵越好尽量选择有IPLC/IEPL内网专线;BGP多入口中转的比单入口的要稳。在保证能流畅看视频前提下，稳定性最重要，然后才是追求更高的速度。一分钱一分货，vps 和线路注定，稳定&流量多&便宜==不存在。总体越贵越好（不绝对），不建议买直连ss/ssr/v2ray机场，v2ray起速慢点。
 
 看你使用的网络运营商: 电信和联通一般都不错。移动，教育网和中国铁通最好买BGP三网中继线路，体验才好。目前主流的是利用公有云不同区域的VPC之间内网互通机制，组建的内网。最经典的就是阿里云的经典网络内网，可惜已经没了。
 
-2.尽量买开了比较久的大机场，因为跑路概率小，小机场可能便宜，但是分分钟跑路，跑路了就啥也没有了，买过的都懂。大机场比较有钱买好的线路和加带宽，小机场很可能没钱运营下去。机场主最好是在境外的。别买QQ机场，这不是自爆吗？    
+2.尽量买开了比较久的大机场，因为跑路概率小，小机场可能便宜，但是分分钟跑路，跑路了就啥也没有了，买过的都懂。大机场比较有钱买好的线路和加带宽，小机场很可能没钱运营下去。机场主最好是在境外的。别买QQ机场，这不是自爆吗？ 
 
-便宜机场套路1：典型的小机场捞钱手法：突然搞活动活动力度过大，吸引用户。 AFF比例非常高，吸引推广。然后便宜短时间大批人购买涌入很容易拉跨。小的机场随时因为资金不足跑路，大的如布丁，喵帕斯，线路一流有实力有背景的rixclod也跑了。   
+便宜机场套路1：新开机场为了吸引人一开始价格便宜，打价格站，价格便宜很容易吸引大量用户，但是久了人数多了机场主必须要加线路或者提高带宽扩容来保证体验，否则必然速度降低并且不稳定，如同下班高峰的马路。而扩容又必须要花钱,所以不跑路会涨价，就是低价吸引一波来割韭菜。 
 
-便宜机场套路2：线路多，但是复用，就是虽然显示多条线路但入口和落地其实是同一条线路，见过10条线路其实都是一条！不少机场这样搞，看上去线路多，骗子。一挂挂一片。就算没挂，当你觉得某条线路不快，切换线路，切了10条都是同一条。    
+便宜机场套路2：典型的小机场捞钱手法：突然搞活动活动力度过大，吸引用户。 AFF比例非常高，吸引推广。然后便宜短时间大批人购买涌入很容易拉跨，黑心的机场主可能收割一波就跑路了，因此买小机场需要小心。小的机场随时因为资金不足跑路，大的如布丁，喵帕斯，线路一流有实力有背景的rixclod也跑了。     
 
-便宜机场套路3：月抛机场，买的都是月抛线路，很便宜。但是线路变化频繁，随时跑路。我推荐的机场都没这些问题。   
+便宜机场套路3：线路多，但是复用，就是虽然显示多条线路但入口和落地其实是同一条线路，见过10条线路其实都是一条！不少机场这样搞，看上去线路多，骗子。一挂挂一片。就算没挂，当你觉得某条线路不快，切换线路，切了10条都是同一条。    
+
+便宜机场套路4：月抛机场，买的都是月抛线路，很便宜。但是线路变化频繁，随时跑路。我推荐的机场都没这些问题。   
 
 <div align=center><img src="https://jichangtuijian.com/uploads/vpn/0.webp" width="200px"></div>
-
 
 3.稳定与协议没有关系，协议不是最重要的，线路才是。ss，ssr，v2ray，trojan都行，不过ssr太久没维护了，目前大部分机场抛弃ssr。被识别了目前只是封ip，损失的是机场主。你换一条线路即可。总体而言ss延迟相对较低。非敏感时期的日常使用中转就好 不一定要用专线。不一定要用专线。专线不一定就好，需要看同时使用人数，几百人挤同一条小水管不如几个人的中转，甚至不如直连。机场主常年不在线，修复节点慢的也别买。速度要看机场的总带宽大小，稳定要看机场的资源质量，解锁看的是机场主的落地/解锁商是否优秀。   
 
@@ -52,11 +51,11 @@
 
 13.**各平台客户端推荐：**  
 
->Windows推荐使用[clash for window](https://github.com/Fndroid/clash_for_windows_pkg), [clash-verge](https://github.com/zzzgydi/clash-verge)，[netch](https://github.com/netchx/netch)    
-Mac推荐使用clash for windows的mac版本 / [clashX](https://github.com/yichengchen/clashX) / 有钱的买surge   
+>Windows推荐使用[Clash for window](https://github.com/Fndroid/clash_for_windows_pkg), [clash-verge](https://github.com/zzzgydi/clash-verge)，[netch](https://github.com/netchx/netch)    
+Mac推荐使用Clash for windows的mac版本 / [clashX](https://github.com/yichengchen/clashX) / 有钱的买surge   
 IOS推荐小火箭Shadowrocket/quantumultX/有钱的买surge；    
-安卓推荐[clashforAndroid(CFA)](https://github.com/Kr328/ClashForAndroid) 、Surfboard、v2rayNG
-linux 推荐shell clash或者clash for windows和clash-verg的linux版本    
+安卓推荐[ClashforAndroid(CFA)](https://github.com/Kr328/ClashForAndroid) 、Surfboard、v2rayNG
+linux 推荐Shell clash或者clash for windows和clash-verg的linux版本    
 路由器可以使用[OpenClash](https://github.com/vernesong/OpenClash) 
 
 **免费软件**
@@ -66,7 +65,6 @@ linux 推荐shell clash或者clash for windows和clash-verg的linux版本
 [迷雾通下载地址](https://rentry.co/getmwt)
 
 [官网，需要翻墙才能打开](https://geph.io/zhs/)
-
 
 **ssr和V2ray付费专线机场推荐**
 
@@ -79,14 +77,12 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 
 拿2020年两会期间某家机场公告举个例子：“经证实，墙是持续性的，通俗易懂来讲他每15分钟墙一波，目前受影响的为所有直连ssr节点，v2ray直连持续性断流，目前暂停修复所有直连线路，待两会结束后再进行修复，V1请尽量使用IPLC线路，其他套餐的会员请使用中转线路。”
 
-
 如果打不开链接就是被墙了，可以先下载迷雾通 或者 使用 [使用免费机场节点](https://github.com/hwanz/SSR-V2ray-Trojan-vpn)
-
 
 ------
 
 ### 一、WgetCloud（华为云入口IEPL专线机场） 
-专线机场，华为云广州入口，隧道至香港的CN2，香港老板，已有机场行业多年经验。自己开发的面板，多年自有机房，国际走任播ANY。速度和稳定性都不错。华为云广州入口，隧道至香港的CN2 出口。有分组：B/C/H三个组，有分组：B、C和H组，香港往其他地区路由：B组为运营商BGP路由 ；H组为AWS骨干网 ；C组为基于H组更高优先级。人数不一样，精品人少，碎片负载会更少。如果有新产品或者遇到波动，会优先给精品接入更贵的产品以及优化。。有按量付费和自定义套餐选项，也可以当备用。会员免费送奈菲会员体验券。 想找稳定性高的机场的，这家值得推荐。
+IEPL内网专线机场，华为云BGP入口，香港老板，已有机场行业多年经验。自己开发的面板，多年自有机房，国际走任播ANY。速度和稳定性很不错。有分组：B/C/H三个组，有分组：B、C和H组，香港往其他地区路由：B组为运营商BGP路由 ；H组为AWS骨干网 ；C组为基于H组更高优先级。人数不一样，精品人少，碎片负载会更少。如果有新产品或者遇到波动，会优先给精品接入更贵的产品以及优化。。有按量付费和自定义套餐选项，也可以当备用。会员免费送奈菲会员体验券。 想找稳定性高的机场的，这家值得推荐。
 
 有按量付费，即使你不买这家的套餐，也应该买个按量付费当作备用，以防买的那家出问题失联。有些机场是需要代理才能打开的，失联或者忘记续费你就无办法续费了，死循环。
 
@@ -96,23 +92,23 @@ vps 和线路注定，稳定&流量多&便宜==不存在
 
  <a href="https://bit.ly/3Ik4FJV" target="_blank">WgetCloud官网2(需代理)</a>
 
-
->老板肉身：香港   
-UDP: 不支持   
-开业时间：2021   
-入口ip数量：2 （深圳和上海）   
-落地ip数量：50+  
-付款方式：支付宝    
-小白客户端：有  
-协议：SS+SSR+Trojan+Vmess    
-节点国家与地区：香港、日本、新加坡、美国、台湾、加拿大、俄罗斯、韩国、印尼、印度、土耳其、巴西、德国、泰国、澳洲、英国、荷兰、菲律宾、马来西亚          
-历史测速： <a href="https://honven.cc/阿里云ss线路机场推荐GaCloud.html" target="_blank">WgetCloud历史测速结果整合</a>     
-
+>开业时间：2021    
+老板肉身：香港       
+入口ip数量：华为云BGP入口，2 （深圳和上海）          
+过境：IEPL内网        
+落地ip数量： 59      
+协议：Shadowsocks+ShadowsocksR +Trojan+Vmess      
+UDP： 不支持      
+客户端数目：3      
+付款方式：支付宝、微信、USDT          
+专门客服：有      
+一键客户端 ：有      
+节点国家与地区：香港、日本、新加坡、美国、台湾、加拿大、俄罗斯、韩国、印尼、印度、土耳其、巴西、德国、泰国、澳洲、英国、荷兰、菲律宾、马来西亚      
+历史测速结果合集: <a href="https://honven.cc/阿里云ss线路机场推荐GaCloud.html" target="_blank">阿里云ss线路机场推荐WgetCloud</a>      
 
 **套餐:**  
 
 有按量付费和自定义套餐选项
-
 
 套餐 | 线路 | 套餐  |客户端数目  
 ---- | ---  | --- | --- 
@@ -120,15 +116,14 @@ UDP: 不支持
 优质 | BGP线路，节点数：15 | 120G，59块/月；180G，177块/季度；240G/月，708/年 | 3个  
 精品 | BGP线路,双程CN2线路，节点数：29 | 120G，69块/月；180G/月，207块/季；240G/月，828/年 | 3个 
 
-
-以下是精品套餐测速图
+以下是精品套餐测速图,更多测速图参考历史测速
 
 <div align=center><img src="https://honven.cc/uploads/vpn/gacloud.webp" width="800px"></div>
 
 ------
 
 ### 二、TAG(华为云BGP入口IEPL专线机场)
-华为BGP专线SS协议机场，包括广港、沪日、京德，稳定性高延迟低，值得推荐！  
+华为BGP入口IEPL专线SS协议机场，包括广港、沪日、京德，稳定性高延迟低，值得推荐！  
 南部（港台新澳）走广州华为云入口，过境广港专线；东部节点（日韩美、南美）走上海华为云入口，过境沪日专线、北部节点走京东德 （欧洲）。  
 特色：流媒体解锁和落地，有大量冷门节点，全球80+国家地区，各地家宽IP、原生ip，最多国家的机场，没有之一。老板很认真挑选落地节点，基本都是原生（解锁各种流媒体）并且带宽大的才用，非常适合各类流媒体爱好者。老板人挺好，基本都在群里回答问题。
 机场主在香港。不买他家套餐，也推荐买140一年的流量包可做备用。    
@@ -137,28 +132,22 @@ UDP: 不支持
 
 <a href="https://bit.ly/3K49q9d" target="_blank">TAG官网2(如果打不开请切换为全局代理)</a>
 
-
->专线: 有 
-原生节点：有    
-入口：华为云BGP多入口   
-过境：广港、沪日、京德（有京德对北方用户友好）   
-TG频道：[TAG Notification Channel](https://t.me/tagnotif)    
-UDP：大部分支持Full Cone       
-落地：92+个国家 
-[网络监控](http://system.tagvpn.xyz )    
-开业时间：2018   
-落地ip数量 220+   
-[具体节点和流媒体解锁情况](https://node.tagvpn.xyz/)   
-协议：Shadowsocks    
-专门客服：有    
-付款方式：支付宝    
-设备数目： 10+    
-UDP: 大多数支持Full Cone   
-历史测速： <a href="https://honven.cc/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">tag历史测速结果整合</a>   
-
+>开业时间：2018       
+老板肉身：香港       
+入口：华为云广州、上海、北京       
+过境：广港、沪日、京德内网专线（有京德对北方用户友好）       
+协议：Shadowsocks        
+[入口与节点网络监控](http://system.tagvpn.xyz)       
+UDP: 大多数支持Full Cone       
+客户端数目：10       
+付款方式：支付宝、虚拟币       
+TG频道：[TAG Notification Channel](https://t.me/tagnotif)       
+专门客服：有       
+[流媒体解锁情况](https://node.tagvpn.xyz/)       
+落地：92+个国家，220+条线路，节点国家与地区非常多。家宽地区为：香港、澳门、台湾、新加坡、日本、马来西亚、越南、加拿大、美国，有原生节点       
+历史测速结果合集: <a href="https://honven.cc/tag%E6%B5%8B%E9%80%9F%E6%95%B4%E5%90%88.html" target="_blank">TAG历史测速结果整合，可查看过去两年的高清测速图</a>   
 
 **套餐:**
-
 
 套餐 |  流量 | 价格 
 ---- |  --- | --- 
@@ -168,137 +157,46 @@ UDP: 大多数支持Full Cone
 特选套餐 | 200G/年 |140块/年，可做备用
 团队套餐 |3000G/月 |570块/每月
 
-
-
-
-<details>
-  <summary>具体入口和落地信息</summary>
-  
-     入口:
-    China Beijing, Beijing Guanghuan Xinwang Digital*2
-    China Unknown City, China Mobile*1
-    China Unknown City, China Telecom Guangdong*1
-    Hong Kong Unknown City, Tencent cloud computing*2
-
-    落地：
-    Argentina Buenos Aires, Servicios y Telecomunicaciones S.A.*1
-    Australia Unknown City, Network Presence*3
-    Austria Vienna, Akenes SA*1
-    Belgium Unknown City, EDIS GmbH*1
-    Brazil São Paulo, Misaka Network, Inc.*1
-    Cambodia Phnom Penh, Cambo.Host*1
-    Canada Genelle, LIMEWAVE*4
-    Chile Santiago, Grupo Zgh SpA*1
-    Czechia Prague, Filip Hruska*1
-    Denmark Albertslund Municipality, Adeo Datacenter ApS*1
-    Finland Unknown City, Easylinehost Finland Oy*1
-    France Unknown City, Ikoula Net SAS*1
-    Germany Frankfurt am Main, Kamatera Inc*1
-    Germany Munich, Webhosting24 GmbH*2
-    Hong Kong Central, DMIT*1
-    Hong Kong Central, HGC Broadband*1
-    Hong Kong Central, Netvigator*4
-    Hong Kong Kwun Hang, HK Cable TV*1
-    Hong Kong Repulse Bay, HGC Broadband*1
-    Hungary Unknown City, RackForest Kft.*1
-    Iceland Unknown City, 1984 ehf*1
-    India Mumbai, LeapSwitch Networks Pvt*2
-    Indonesia Unknown City, PT Cloud Hosting Indonesia*2
-    Ireland Galway, Digiweb ltd*1
-    Isle of Man Unknown City, Amati Foundation*1
-    Isle of Man Unknown City, Netcetera Ltd.*1
-    Israel Haifa, O.m.c. Computers & Communications Ltd*1
-    Israel Tel Aviv, O.m.c. Computers & Communications Ltd*1
-    Italy Unknown City, Seflow S.N.C. Di Marco Brame' & C.*1
-    Japan Kyoto, Kagoya Japan*1
-    Japan Tokyo, Amazon.com*6
-    Japan Tokyo, GMO GlobalSign Holdings K.K.*1
-    Japan Tokyo, Kirino LLC*1
-    Japan Unknown City, GMO GlobalSign Holdings K.K.*1
-    Macao Macao, Companhia de Telecomunicacoes de Macau SARL*1
-    Malaysia Unknown City, IP ServerOne Solutions Sdn Bhd*3
-    Mexico Unknown City, Truxgo S. de R.L de C.V*1
-    Netherlands Unknown City, i3D.net B.V*1
-    New Zealand Hamilton, MikiPro*1
-    Norway Unknown City, TerraHost*1
-    Pakistan Unknown City, Multinet Pakistan Pvt.*2
-    Poland Unknown City, Meverywhere sp. z o.o.*1
-    Portugal Unknown City, Dream Fusion - IT Services, Lda*1
-    Russia Unknown City, Hosting technology LTD*1
-    Russia Unknown City, LLC Intelcom*1
-    Russia Unknown City, Optibit LLC*1
-    Russia Yuzhno-Sakhalinsk, Sakhalin Network Communications Co. (SNC)*1
-    Singapore Singapore, Amazon.com*1
-    Singapore Singapore, Kirino LLC*5
-    Singapore Singapore, Zenlayer*2
-    South Africa Johannesburg, Misaka Network, Inc.*1
-    South Korea Incheon, Amazon.com*3
-    South Korea Seoul, SK Broadband*1
-    South Korea Unknown City, Korea Telecom*1
-    Spain Barcelona, iFog GmbH*1
-    Switzerland Unknown City, Beelastic AG*1
-    Taiwan New Taipei, Chunghwa Telecom*4
-    Taiwan Xitun, Chunghwa Telecom*1
-    Thailand Unknown City, Bangmod Enterprise Co.*1
-    Thailand Unknown City, UIH*1
-    Turkey Izmir, Meric Hosting*1
-    Ukraine Vinnytsia, FOP Reznichenko Sergey Mykolayovich*1
-    United Arab Emirates Dubai, Microsoft Azure*1
-    United Kingdom London, Kamatera Inc*1
-    United States New Castle, HON*3
-    United States Philadelphia, HON*1
-    United States Santa Clara, Kamatera Inc*1
-    Vietnam Unknown City, FPT Telecom Company*2
-
-  
-</details>
-
 <div align=center><img src="https://honven.cc/uploads/vpn/tag.webp" ></div>
-
 
 <br>
 
-
- 
-
 ------
-
-
 
 ### 三、云翼网络  
 
-IEPl专线与公网中转ss机场。稳定性不错。
+IEPL内网专线与公网中转ss机场。稳定性不错。
 
 [官网链接1](https://suo.yt/tC69nKu)
 
 [官网链接2](https://bit.ly/3Sfrkd7)
 
-   
-
->线路：IEPL内网（深圳移动）+公网中转   
-协议：SS   
-开业时间：2018  
-老板肉身：墙外 
-国家地区：16+   
-节点数目：37+  
-udp：支持    
-TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
-地区：俄罗斯、印度、土耳其、巴基斯坦、巴西、泰国、澳洲、菲律宾、阿根廷、韩国、香港、台湾、新加坡、日本、美国、英国   
-历史测速结果合集: <a href="https://honven.cc/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络历史测速结果</a>
-
+>开业时间：2018       
+老板肉身：墙外       
+入口与过境线路：IEPL内网（深圳移动）+公网中转（湖南联通）       
+节点数目：37+       
+协议：Shadowsocks       
+UDP：支持       
+付款方式：支付宝、微信       
+TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)       
+一键客户端：有       
+地区：俄罗斯、印度、土耳其、巴基斯坦、巴西泰国、澳洲、菲律宾、阿根廷、韩国、香港、台湾、新加坡、日本、美国、英国       
+历史测速结果合集: <a href="https://honven.cc/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络历史测速结果</a>     
 
 **套餐:**  
 试用：1块1天5G   
-标准：22.8/月108G流量，4设备   
-高级：32.8/月198G流量，4设备   
-终极：89.8/月520G流量，10设备   
-全年一次性648G：188/年，3设备   
-全年一次性1398G：328/年，4设备   
-全年一次性3288G：688/年，6设备   
+
+套餐 |  流量 | 价格 | 设备数 
+---- |  --- | --- | --- 
+标准 | 108G/月 |22.8/月 | 4
+高级 | 198GG/月 |32.8/月 | 4
+终极 | 520G/月 |89.8/月 | 10
+全年一次性648G | 648G/年 |188/年 |  3
+全年一次性1398G |1398GG/月 |328/年 | 4
+全年一次性3288G | 3288G/月 |688/年 | 6
 
 
 <div align=center><img src="https://honven.cc/uploads/vpn/yunyi.webp" width="700px"></div>
-
 
  ------
 
@@ -308,27 +206,22 @@ TG频道：[雲翼公告板](https://t.me/joinchat/TCGYbvTuuOMjjTke)
 新用户首次95折优惠码：SPECIAL   
 3天无理由退款（仅虚拟货币）   
 
-[RelayCloud官网1]([https://suo.yt/5eLg5zn](https://relaycloud.pro/auth/register?code=YqVfn))
+[RelayCloud官网1](https://relaycloud.pro/auth/register?code=YqVfn)
 
 [RelayCloud官网2](https://bit.ly/3TNkBaz)
 
-
-
->落地：美国、台湾、新加坡、日本、香港、英国、俄罗斯、菲律宾   
-老板肉身：菲律宾   
-开业时间：2020   
-TG频道：[RelayCloud Notice](https://t.me/joinchat/AAAAAFfR7-mbeYbPP8XH5w)  群组在套餐内   
-入口ip数量：6，河南移动、江苏移动等   
-节点数量：44   
-协议：SS    
-付款方式：支付宝   
-UDP: 支持   
-退款：支持   
-历史测速结果合集: <a href="https://honven.cc/relaycloud历史测速结果整合.html" target="_blank">Relaycloud历史测速结果整合</a>
-
-
-
-
+>开业时间：2020           
+老板肉身：菲律宾      
+入口ip数量：6，河南移动、江苏移动等        
+过境：公网中转      
+协议：Shadowsocks          
+UDP: 支持      
+客户端数目：3+      
+付款方式：支付宝、微信      
+TG频道：[RelayCloud Notice](https://t.me/joinchat/AAAAAFfR7-mbeYbPP8XH5w)  群组在套餐内      
+退款：有，3天无理由退款（仅虚拟货币）      
+落地：节点数量44个，美国、台湾、新加坡、日本、香港、英国、俄罗斯、菲律宾      
+历史测速结果合集: <a href="https://honven.cc/relaycloud历史测速结果整合.html" target="_blank">Relaycloud历史测速结果整合</a>   
 
 
 **套餐:** 
@@ -341,11 +234,8 @@ UDP: 支持
 年付600GB | 600G/年 | 148.8块/年 | 3   
 年付1200GB | 1200G/年 | 218.8块/月 | 3   
 年付2400GB | 2400G/年 | 398.8块/月 | 3   
-  
-
-
+ 
 <div align=center><img src="https://honven.cc/uploads/vpn/relaycloud.webp" width="700px"></div>
-
 
  ------
  
@@ -365,23 +255,22 @@ vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G�
 [EdNovas云官网链接2，需要代理打开](https://bit.ly/3DcTK0o)    
 
 
-
->专线：深港专线   
-老板肉身：加拿大   
-开业时间：2020年12月     
-TG频道： [EdNovas云](https://t.me/ednovasyun1)   
-回国线路：有，北京、上海和一个随机城市。上白名单   
-协议：V2ray   
-一键使用客户端： [安卓客户端下载地址](https://ednovas.dev/ednovas_cloud.apk)   
-付款方式：支付宝、虚拟币   
-UDP: 支持   
-服务器探针  https://tz.ednovas.me/   
-在线设备数： 5   
-节点数目：220+   
-[审计规则，屏蔽的网站](https://github.com/EdNovas/rulelist/blob/main/rulelist)   
-退款：有  
-落地国家： 130+，[目前机场节点覆盖图](https://lab.magiconch.com/world-ex/)      
-历史测速结果合集: <a href="https://honven.cc/回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud历史测速结果整合</a>
+>开业时间：2020年12月       
+老板肉身：加拿大       
+过境：深港专线      
+回国线路：有，上白名单          
+协议：Vmess          
+UDP : 支持      
+一键使用客户端： [安卓客户端下载地址](https://ednovas.dev/ednovas_cloud.apk)      
+在线设备数：5      
+付款方式：支付宝、虚拟币      
+TG频道： [EdNovas云](https://t.me/ednovasyun1)      
+[服务器探针](https://tz.ednovas.me/)    
+节点数目：220+      
+[审计规则，屏蔽的网站](https://github.com/EdNovas/rulelist/blob/main/rulelist)       
+退款：有      
+落地国家： 130+，[目前机场节点覆盖图](https://lab.magiconch.com/world-ex/)       
+历史测速结果合集: <a href="https://honven.cc/回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud历史测速结果整合</a>    
 
 
 套餐：
@@ -401,24 +290,25 @@ IEPL专线+Anycast ，SSR + V2RAY协议机场，老板在香港，可以月付�
 原生流媒体解锁；BGP专线节点；全节点不限速 
 
  <a href="https://suo.yt/msGOhsW" target="_blank">官网1(如果打不开请切换为全局代理)</a>  
-
-
+ 
  <a href="https://bit.ly/3tJPGBS" target="_blank">官网2(需代理)</a>   
 
 
+>老板肉身：香港      
+开业时长：2020年前          
+过境：IEPL专线        
+协议：ShadowsocksR + Vmess      
+UDP：部分支持Full Cone      
+入口ip数量：10      
+付款方式：支付宝      
+一键使用客户端：有      
+落地ip数量：32+      
+一键使用客户端： 有      
+节点国家与地区：香港、日本、新加坡、美国、台湾        
+一键使用客户端： 有      
+历史测速结果合集: <a href="https://honven.cc/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>
 
->专线: 有   
-Anycast：有   
-流媒体解锁：有    
-节点国家与地区：香港、日本、新加坡、美国、台湾  
-老板肉身：香港    
-UDP: 部分支持Full Cone     
-一键使用客户端： 有    
-开业时长：2年+   
-入口ip数量 10   
-落地ip数量 32   
-付款方式：支付宝     
-历史测速： <a href="https://honven.cc/stc%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">stc历史测速结果整合</a>    
+
 
 **套餐:**
 
@@ -479,22 +369,19 @@ IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有�
 
 [kycloud官网2](https://bit.ly/3U0EZV8) 
 
-
->专线: IEPL专线   
-流媒体解锁：TVB/Netflix/BBC/AbemaTV/DMM/hulu(us/jp)/Disney+ Paravi/rakutenTV(jp) 等   
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、德国、阿根廷、土耳其、阿根廷、印度、马来西亚、泰国、菲律宾、俄罗斯   
-老板肉身：海外   
-开业时间：2017年   
-入口 ：CDN优选入口，智能接入。江苏电信和移动、河北电信、广东移动和电信   
-落地ip数量： 60+   
-客户端数目：不限制   
-协议：Shadowsocks + Vmess   
-付款方式：支付宝、虚拟币USDT   
-UDP：基本支持Full-Cone NAT   
-TG频道和群组：在套餐内   
-历史测速结果合集: <a href="https://honven.cc/IEPL专线机场kycloud历史测速结果整合.html" target="_blank">IEPL专线机场kycloud历史测速结果整合</a>
-
-
+>开业时间：2017年          
+老板肉身：海外          
+入口 ：CDN优选入口，智能接入。江苏电信和移动、河北电信、广东移动和电信       
+过境: IEPL内网专线       
+协议：Shadowsocks + Vmess       
+付款方式：支付宝、虚拟币USDT          
+UDP：基本支持Full-Cone NAT       
+TG频道和群组：在套餐内       
+客户端数目：不限制       
+流媒体解锁：TVB/Netflix/BBC/AbemaTV/DMM/hulu(us/jp)/Disney+ Paravi/rakutenTV(jp) 等           
+落地ip数量： 60+       
+节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、德国、阿根廷、土耳其、阿根廷、印度、马来西亚、泰国、菲律宾、俄罗斯       
+历史测速结果合集: <a href="https://honven.cc/IEPL专线机场kycloud历史测速结果整合.html" target="_blank">IEPL专线机场kycloud历史测速结果整合</a>   
 
 **套餐:**
 
@@ -524,21 +411,20 @@ ss，公网+IEPL专线机场。后端负载均衡，也挺稳。需要注意提�
 <a href="https://bit.ly/3Gd9VdH" target="_blank">少数派官网2(需代理)</a>
 
 
+>开业时间：2019               
+老板肉身：墙外           
+过境：公网中转+IEPL内网专线       
+TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)       
+协议：Shadowsocks       
+UDP：支持       
+付款方式：支付宝、微信、虚拟币                     
+一键使用客户端： 有                     
+节点数目：50+          
+落地：美国、台湾、新加坡、日本、香港、德国、英国、俄罗斯、菲律宾       
+历史测速结果合集: <a href="https://honven.cc/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>   
 
->专线：有   
-原生节点：有     
-落地：美国、台湾、新加坡、日本、香港、德国、英国、俄罗斯、菲律宾     
-UDP:支持        
-老板肉身：墙外    
-开业时间：2019  
-UDP: 部分支持Full Cone,需要自己手动开
-一键使用客户端： 有    
-入口ip数量 4    
-落地ip数量 22        
-TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)    
-协议：SS    
-付款方式：支付宝、微信、虚拟币   
-历史测速： <a href="https://honven.cc/%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">少数派历史测速结果整合</a>    
+
+   
 
 **套餐：**
 
@@ -590,19 +476,20 @@ TG频道： [少数派的广而告之](https://t.me/joinchat/Rw92xD_F57WssTZj)
 <a href="https://bit.ly/3G9K4Dy" target="_blank">Hutao官网(需代理)</a>
 
 
-中继：有  
-专线：有  
-原生节点：有  
-落地：美国、台湾、新加坡、日本、香港、韩国   
-节点数目：120+   
-老板肉身：北美   
-客服：有   
-TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)    
-入口数目: 2，广州移动   1
-落地数目: 30+  
-协议：SS+SSR++V2ray+Trojan  
-付款方式：支付宝   
-历史测速： <a href="https://honven.cc/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>    
+>开业时间：2021    
+老板肉身：北美    
+过境：IEPL内网专线    
+入口数目：2，广州移动    
+UDP：支持    
+协议：Shadowsocks+ShadowsocksR +Trojan+Vmess    
+设备数目：无限制        
+付款方式：支付宝    
+TG频道：[Hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)     
+客服：有    
+落地数目： 28    
+落地：美国、台湾、新加坡、日本、香港    
+历史测速结果合集: <a href="https://honven.cc/IEPL与隧道ssr机场推荐-hutao.html" target="_blank">IEPL与隧道ssr机场推荐-hutao</a>    
+
 
 
 **套餐：**
@@ -629,49 +516,49 @@ TG频道：[hutao公告](https://t.me/joinchat/IsZvZdFDboAzZmEx)
 支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283  
  <a href="https://bit.ly/3weANGp" target="_blank">官网注册地址,需要代理或全局模式访问 </a>
 
->专线: 有     
-落地：香港、日本、美国     
-开业时间：2018   
-协议：SSR + V2ray    
-专门客服：有    
-退款：支持  
-付款方式：支付宝、银联、Paypal    
+>专线: 有         
+落地：香港、日本、美国             
+开业时间：2018           
+协议：SSR + V2ray            
+专门客服：有            
+退款：支持      
+付款方式：支付宝、银联、Paypal        
 
 
 
 
 **套餐:**
 
-Just My Socks IPLC HK 100 ** EARLY ACCESS：深圳-香港 IPLC 跨境专线。   
+1)Just My Socks IPLC HK 100 ** EARLY ACCESS：深圳-香港 IPLC 跨境专线。   
 v2ray协议，IPLC香港线路。3条线路：     
-1）100G/每月21刀，限速100Mbps，3个设备。    
-2）300G/每月49刀，限速100Mbps，3个设备。  
+ 100G/每月21刀，限速100Mbps，3个设备。    
+ 300G/每月49刀，限速100Mbps，3个设备。  
 新出的套餐，搬瓦工还是懂得大家需要什么。对电信联调和移动三网有优化，延迟低。我之前实测是不限速的。适合游戏爱好者。   
 ct:适合中国电信；cu：适合中国联通，cm：适合中国移动网络。  
 不一定有货，挺抢手的，用了一个月，挺稳的，但是就是比一般机场贵   
 
 
-Just My Socks Hong Kong  香港节点：       
+2)Just My Socks Hong Kong  香港节点：       
 100流量，34.99美元/月,3个设备。限速100Mbps    
 500G流量，149.99美元/月,5个设备.限速500Mbps    
 1000G流量，279.99美元/月,无限个设备.限速1000Mbps    
 三网直连，电信双向CN2 GIA，移动和联通直连，跟搬瓦工香港机房的线路一样是香港机房的最优线路。速度快、延迟低、线路稳    
 
-Just My Socks Tokyo 日本节点：       
+3)Just My Socks Tokyo 日本节点：       
 100G流量，29.99美元/月,3个设备。限速100Mbps    
 500G流量，135.99美元/月,5个设备.限速200Mbps    
 日本东京节点，三网 CN2 GIA 线路。适合电信和联调带宽。移动的没优势。比Just My Socks LA好一点    
 
-Just My Socks HK CMI+NTT Plan 500：    
+4)Just My Socks HK CMI+NTT Plan 500：    
 8.99刀/月，500GB/月,不限速,5个设备    
 HK CMI是中国移动香港数据中心，走NTT香港中转。中国电信使用CN2 GIA线路，联通电信直连    
 新套餐：电信，早晚速度可以，其他时段速度比较感人（1080P），延迟稳定在80-95ms。非电信网络，速度稳定，延迟在40-60ms左右，500MB宽带以下能跑满，上传速度20Mbps左右。使用移动和联通网络的可以试试，电信不建议    
 
-Just My Socks London 500       
+5)Just My Socks London 500       
 6.8刀/月，500GB/月,不限速, 5个设备。ss+v2ray    
 
 
-Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多人买这个，不推荐，慢，超售）：       
+6)Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多人买这个，不推荐，慢，超售）：       
 500G流量，5.88美元/月,5个设备。限速2.5Gbps     
 1T流量，9.88美元/月,不限设备数。限速5Gbps****
 5T流量，48.99美元/月,不限设备数。限速5Gbps    
@@ -699,18 +586,16 @@ Just My Socks LA，洛杉矶节点，（直连线路，因为最便宜，很多�
 
 [芬达官网2](https://bit.ly/3tOgI9J)
 
-
->中继：有  
-原生节点：有     
-落地：美国、台湾、新加坡、日本、香港、韩国    
-老板肉身：北美    
-开业时间：2021    
-入口ip数量：1    
-落地ip数量：13+    
-一键使用客户端： 有    
-协议：SSR    
-付款方式：支付宝、银联       
-历史测速： <a href="https://honven.cc/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>  
+>开业时间：2021              
+老板肉身：北美          
+过境：IEPL内网专线      
+入口ip数量：2      
+协议：Shadowsocks      
+UDP：支持      
+付款方式：支付宝、银联         
+一键使用客户端： 有       
+落地：美国、台湾、新加坡、日本、香港、韩国        
+历史测速结果合集: <a href="https://honven.cc/ss中转机场推荐-fenda.html" target="_blank">ss中转机场推荐-fenda</a>   
 
 
 **套餐：**
@@ -737,20 +622,16 @@ ssr+trojan，全IEPl专线机场。从线路质量来看，价格算是比较便
  <a href="https://bit.ly/3d3Yqga" target="_blank">官网2(需代理)7</a>   
 
 
->中继：有     
-原生节点：有     
-落地：美国、台湾、新加坡、日本、香港     
+>开业时间：2019     
 老板肉身：北美     
-开业时间：2019   
-入口ip： 海南、广州      
-UDP：部分支持Full Cone     
-落地ip数量 20   
-直连节点数量：有 Trojan协议  
-一键使用客户端： 有     
-协议：SSR + +Trojan    
-专门客服：有 
-平台小白一键使用客户端:有     
-付款方式：支付宝、银联      
+入口ip：  广州、海南     
+协议：ShadowsocksR +Trojan     
+UDP：支持     
+付款方式：支付宝、银联     
+专门客服：有      
+小白客户端：Windows+Mac+安卓        
+落地：美国、台湾、新加坡、日本、香港      
+节点数目：40+       
 历史测速： <a href="https://honven.cc/yiyo%E5%8E%86%E5%8F%B2%E6%B5%8B%E9%80%9F%E7%BB%93%E6%9E%9C%E6%95%B4%E5%90%88.html" target="_blank">yiyo历史测速结果整合</a>
 
 
